@@ -1,0 +1,552 @@
+:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #e5e5e5;
+  color: #111827;
+}
+html, body {
+  height: 100%;
+  overflow: hidden; /* nÃ£o aparece scroll Ã  volta da app */
+}
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #e5e5e5;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.app {
+  width: calc(100% - 32px);  /* 100% menos 16px de cada lado */
+  height: calc(100vh - 32px); /* 100vh menos 16px em cima e em baixo */
+  background-color: #ffffff;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  max-width: 1400px;  /* limite mÃ¡ximo para ecrÃ£s muito grandes */
+  margin: 16px auto;  /* 16px de margin em todos os lados, centralizado */
+  border-radius: 12px; /* cantos arredondados ficam bem com a margin */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* sombra subtil */
+}
+
+
+/* TOPBAR */
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: linear-gradient(90deg, #0066cc, #0083ff);
+  color: #ffffff;
+}
+
+.menu-btn {
+  border: none;
+  background: transparent;
+  font-size: 22px;
+  color: inherit;
+  cursor: pointer;
+}
+
+.topbar-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo-circle {
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  background-color: #ffffff;
+  color: #0066cc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.topbar-main {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.topbar-sub {
+  font-size: 11px;
+  opacity: 0.9;
+}
+
+/* SIDE MENU */
+
+.side-menu {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 70%;
+  max-width: 260px;
+  bottom: 0;
+  background-color: #ffffff;
+  border-right: 1px solid #e5e7eb;
+  transform: translateX(-100%);
+  transition: transform 0.2s ease-in-out;
+  z-index: 20;
+}
+
+.side-menu.open {
+  transform: translateX(0);
+}
+
+.nav-list {
+  list-style: none;
+  padding: 10px;
+  margin: 0;
+}
+
+.nav-list li {
+  margin-bottom: 6px;
+}
+
+.nav-list button {
+  width: 100%;
+  border: none;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.nav-list button span:first-child {
+  width: 20px;
+  text-align: center;
+}
+
+.nav-list button:hover {
+  background-color: #f3f4f6;
+}
+
+/* BACKDROP */
+
+.backdrop {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.25);
+  z-index: 10;
+}
+
+/* MAIN CONTENT */
+
+
+.main {
+  flex: 1;
+  padding: 10px 14px 14px;
+  overflow-y: auto;   /* scroll vertical dentro da app */
+}
+
+.screen {
+  padding-top: 4px;
+  max-width: 1200px;  /* limita a largura do conteÃºdo em ecrÃ£s grandes */
+  margin: 0 auto;     /* centraliza o conteÃºdo */
+}
+
+.section {
+  margin-bottom: 16px;
+}
+
+.section-title {
+  font-size: 16px;
+  margin: 0 0 8px;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* GRID ATALHOS */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));  /* responsivo */
+  gap: 8px;
+}
+
+.grid button {
+  border: none;
+  border-radius: 12px;
+  padding: 10px 4px;
+  font-size: 11px;
+  font-weight: 600;
+  background-color: #0066cc;
+  color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.grid button span:first-child {
+  font-size: 18px;
+}
+
+.grid button:hover {
+  opacity: 0.9;
+}
+
+/* CARDS / LISTAS */
+
+.card {
+  background-color: #f9fafb;
+  border-radius: 12px;
+  padding: 10px 12px;
+  margin-bottom: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.card-date {
+  font-size: 11px;
+  color: #6b7280;
+}
+
+.card-title {
+  font-size: 14px;
+  margin: 2px 0 4px;
+}
+
+.card-text {
+  font-size: 13px;
+  margin: 0;
+}
+
+.list {
+  margin: 6px 0;
+  padding-left: 18px;
+  font-size: 13px;
+}
+
+/* FORM / CAMPOS */
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.field label {
+  font-size: 13px;
+}
+
+input,
+textarea,
+select {
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
+  padding: 8px;
+  font: inherit;
+}
+
+textarea {
+  min-height: 70px;
+  resize: vertical;
+}
+
+/* BOTÃ•ES */
+
+.primary-btn {
+  border-radius: 999px;
+  border: none;
+  padding: 9px 12px;
+  font-weight: 600;
+  background-color: #00803d;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.primary-btn:hover {
+  opacity: 0.9;
+}
+
+.link-btn {
+  border: none;
+  background: transparent;
+  color: #0066cc;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 0;
+}
+
+/* HEADER DE PÃGINA */
+
+.header-page {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  /* fazer o header ocupar a largura inteira da app */
+  margin: 0 -14px 12px;      /* -14px para contrariar o padding lateral do .main */
+  padding: 8px 14px 10px;    /* voltar a pÃ´r o espaÃ§amento interno */
+
+  border-bottom: 1px solid #e5e7eb;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  background-color: #ffffff; /* opcional, para tapar o fundo */
+}
+
+
+
+.header-page h2 {
+  font-size: 16px;
+  margin: 0;
+}
+
+/* TEXTO INTRO */
+
+.intro-text {
+  font-size: 13px;
+  margin: 0 0 8px;
+}
+
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.filters-row {
+  display: flex;
+  gap: 8px;
+}
+
+.filters-row .field {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .filters-row {
+    flex-direction: column;
+  }
+  
+  .grid {
+    grid-template-columns: repeat(3, 1fr);  /* volta a 3 colunas em mobile */
+  }
+}
+
+.card-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+.file-pill {
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  border: 1px solid #d1d5db;
+}
+
+.file-pill.pdf {
+  background-color: #fef2f2;
+  border-color: #fecaca;
+}
+
+.file-pill.excel {
+  background-color: #ecfdf5;
+  border-color: #bbf7d0;
+}
+
+.required {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+.toast-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none; /* nÃ£o bloqueia cliques */
+  z-index: 40;
+}
+
+.toast {
+  background-color: rgba(17, 24, 39, 0.95);
+  color: #ffffff;
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-size: 14px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+  animation: toast-fade 2s ease-in-out;
+}
+
+/* animaÃ§Ã£o suave */
+@keyframes toast-fade {
+  0% {
+    opacity: 0;
+    transform: translateY(10px) scale(0.95);
+  }
+  10% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  90% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.95);
+  }
+}
+
+.success-message {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #16a34a;
+}
+
+.error-text {
+  color: #dc2626;
+  font-size: 12px;
+  margin: 4px 0 0;
+}
+
+.profile-photo-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.profile-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 999px;
+  border: 2px solid #d1d5db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  font-size: 32px;
+  background-color: #f3f4f6;
+}
+
+.profile-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* resto do que jÃ¡ tinhas */
+}
+
+.topbar-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.profile-btn {
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.login-root {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  background: linear-gradient(135deg, #0ea5e9, #1d4ed8); /* cor de fundo */
+}
+
+.login-card {
+  width: 100%;
+  max-width: 360px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 18px 20px 20px;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.25);
+}
+
+.login-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.login-subtitle {
+  font-size: 13px;
+  margin: 0 0 16px;
+  color: #4b5563;
+}
+
+.login-hint {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.error-text {
+  color: #dc2626;
+  font-size: 12px;
+  margin: 4px 0 0;
+}
+
+.card .primary-btn {
+  margin-top: 8px;     /* mais espaÃ§o em cima */
+  display: block;      /* o botÃ£o passa a bloco */
+  margin-left: auto;   /* empurra para a direita */
+}
+.profile-btn {
+  border: none;
+  background-color: rgba(255, 255, 255, 0.18);
+  color: inherit;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 0;
+
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;              /* cÃ­rculo */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
+  transition: background-color 0.15s ease, 
+              transform 0.1s ease, 
+              box-shadow 0.15s ease;
+}
+
+.profile-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  transform: translateY(-1px);
+}
+
+.profile-btn:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}

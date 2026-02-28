@@ -1,0 +1,757 @@
+{
+  "schema": "whatsapp-export.v1",
+  "sourceFile": "_chat-2.txt",
+  "messageCount": 69,
+  "messages": [
+    {
+      "id": "m1",
+      "timestamp": "2024-09-24T11:08:07",
+      "date": "2024-09-24",
+      "time": "11:08:07",
+      "author": "Filipe Homeblock",
+      "type": "system",
+      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar.",
+      "raw": "[24/09/24, 11:08:07] Filipe Homeblock: ‎As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
+    },
+    {
+      "id": "m2",
+      "timestamp": "2024-09-24T11:08:07",
+      "date": "2024-09-24",
+      "time": "11:08:07",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000002-VIDEO-2024-09-24-11-08-07.mp4>",
+      "raw": "‎[24/09/24, 11:08:07] Elita: ‎<anexo: 00000002-VIDEO-2024-09-24-11-08-07.mp4>",
+      "attachment": {
+        "fileName": "00000002-VIDEO-2024-09-24-11-08-07.mp4"
+      }
+    },
+    {
+      "id": "m3",
+      "timestamp": "2024-09-24T11:08:19",
+      "date": "2024-09-24",
+      "time": "11:08:19",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000003-VIDEO-2024-09-24-11-08-19.mp4>",
+      "raw": "‎[24/09/24, 11:08:19] Elita: ‎<anexo: 00000003-VIDEO-2024-09-24-11-08-19.mp4>",
+      "attachment": {
+        "fileName": "00000003-VIDEO-2024-09-24-11-08-19.mp4"
+      }
+    },
+    {
+      "id": "m4",
+      "timestamp": "2024-09-24T11:08:24",
+      "date": "2024-09-24",
+      "time": "11:08:24",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000004-VIDEO-2024-09-24-11-08-24.mp4>",
+      "raw": "‎[24/09/24, 11:08:24] Elita: ‎<anexo: 00000004-VIDEO-2024-09-24-11-08-24.mp4>",
+      "attachment": {
+        "fileName": "00000004-VIDEO-2024-09-24-11-08-24.mp4"
+      }
+    },
+    {
+      "id": "m5",
+      "timestamp": "2024-09-24T11:08:29",
+      "date": "2024-09-24",
+      "time": "11:08:29",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000005-PHOTO-2024-09-24-11-08-29.jpg>",
+      "raw": "‎[24/09/24, 11:08:29] Elita: ‎<anexo: 00000005-PHOTO-2024-09-24-11-08-29.jpg>",
+      "attachment": {
+        "fileName": "00000005-PHOTO-2024-09-24-11-08-29.jpg"
+      }
+    },
+    {
+      "id": "m6",
+      "timestamp": "2024-09-24T11:09:15",
+      "date": "2024-09-24",
+      "time": "11:09:15",
+      "author": "Elita",
+      "type": "text",
+      "content": "Aqui como vê faz uma concavidade cabe 1 dedo",
+      "raw": "[24/09/24, 11:09:15] Elita: Aqui como vê faz uma concavidade cabe 1 dedo"
+    },
+    {
+      "id": "m7",
+      "timestamp": "2024-09-24T11:09:53",
+      "date": "2024-09-24",
+      "time": "11:09:53",
+      "author": "Elita",
+      "type": "text",
+      "content": "Isso acontece em vários sítios",
+      "raw": "[24/09/24, 11:09:53] Elita: Isso acontece em vários sítios"
+    },
+    {
+      "id": "m8",
+      "timestamp": "2024-09-24T11:10:30",
+      "date": "2024-09-24",
+      "time": "11:10:30",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000008-PHOTO-2024-09-24-11-10-30.jpg>",
+      "raw": "‎[24/09/24, 11:10:30] Elita: ‎<anexo: 00000008-PHOTO-2024-09-24-11-10-30.jpg>",
+      "attachment": {
+        "fileName": "00000008-PHOTO-2024-09-24-11-10-30.jpg"
+      }
+    },
+    {
+      "id": "m9",
+      "timestamp": "2024-09-24T11:13:44",
+      "date": "2024-09-24",
+      "time": "11:13:44",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000009-VIDEO-2024-09-24-11-13-44.mp4>",
+      "raw": "‎[24/09/24, 11:13:44] Elita: ‎<anexo: 00000009-VIDEO-2024-09-24-11-13-44.mp4>",
+      "attachment": {
+        "fileName": "00000009-VIDEO-2024-09-24-11-13-44.mp4"
+      }
+    },
+    {
+      "id": "m10",
+      "timestamp": "2024-09-24T11:15:57",
+      "date": "2024-09-24",
+      "time": "11:15:57",
+      "author": "Elita",
+      "type": "text",
+      "content": "Este era o piso que me deram por concluído e já com uma parte (a mais escura) com autonivelante",
+      "raw": "[24/09/24, 11:15:57] Elita: Este era o piso que me deram por concluído e já com uma parte (a mais escura) com autonivelante"
+    },
+    {
+      "id": "m11",
+      "timestamp": "2024-09-24T11:19:11",
+      "date": "2024-09-24",
+      "time": "11:19:11",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "vou mostrar isso ao sr oliveira",
+      "raw": "[24/09/24, 11:19:11] Filipe Homeblock: vou mostrar isso ao sr oliveira"
+    },
+    {
+      "id": "m12",
+      "timestamp": "2024-09-24T11:21:11",
+      "date": "2024-09-24",
+      "time": "11:21:11",
+      "author": "Elita",
+      "type": "text",
+      "content": "Como podem verificar para terminar a obra, confirme o contrato, ainda falta:\nJanelas/porta exteriores\nPiso vinil\nAcabamentos de pichelaria\nAcabamentos de eletricidade \nCaleiras \nPintura interior e exterior \nEstores elétricos \nFossa\nAcabanemos do muro, do canil e piso dos barracões",
+      "raw": "[24/09/24, 11:21:11] Elita: Como podem verificar para terminar a obra, confirme o contrato, ainda falta:\nJanelas/porta exteriores\nPiso vinil\nAcabamentos de pichelaria\nAcabamentos de eletricidade \nCaleiras \nPintura interior e exterior \nEstores elétricos \nFossa\nAcabanemos do muro, do canil e piso dos barracões"
+    },
+    {
+      "id": "m13",
+      "timestamp": "2024-09-24T11:50:03",
+      "date": "2024-09-24",
+      "time": "11:50:03",
+      "author": "Elita",
+      "type": "text",
+      "content": "Posso ligar?",
+      "raw": "[24/09/24, 11:50:03] Elita: Posso ligar?"
+    },
+    {
+      "id": "m14",
+      "timestamp": "2024-09-24T12:14:48",
+      "date": "2024-09-24",
+      "time": "12:14:48",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Logo depois do almoço ligo lhe",
+      "raw": "[24/09/24, 12:14:48] Filipe Homeblock: Logo depois do almoço ligo lhe"
+    },
+    {
+      "id": "m15",
+      "timestamp": "2024-09-24T12:15:51",
+      "date": "2024-09-24",
+      "time": "12:15:51",
+      "author": "Elita",
+      "type": "text",
+      "content": "Obrigada",
+      "raw": "[24/09/24, 12:15:51] Elita: Obrigada"
+    },
+    {
+      "id": "m16",
+      "timestamp": "2024-09-25T18:05:49",
+      "date": "2024-09-25",
+      "time": "18:05:49",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000016-VIDEO-2024-09-25-18-05-49.mov>",
+      "raw": "‎[25/09/24, 18:05:49] Elita: ‎<anexo: 00000016-VIDEO-2024-09-25-18-05-49.mov>",
+      "attachment": {
+        "fileName": "00000016-VIDEO-2024-09-25-18-05-49.mov"
+      }
+    },
+    {
+      "id": "m17",
+      "timestamp": "2024-09-25T18:06:06",
+      "date": "2024-09-25",
+      "time": "18:06:06",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000017-VIDEO-2024-09-25-18-06-06.mov>",
+      "raw": "‎[25/09/24, 18:06:06] Elita: ‎<anexo: 00000017-VIDEO-2024-09-25-18-06-06.mov>",
+      "attachment": {
+        "fileName": "00000017-VIDEO-2024-09-25-18-06-06.mov"
+      }
+    },
+    {
+      "id": "m18",
+      "timestamp": "2024-09-25T18:06:51",
+      "date": "2024-09-25",
+      "time": "18:06:51",
+      "author": "Elita",
+      "type": "text",
+      "content": "Estragos da chuva pela falta das janelas",
+      "raw": "[25/09/24, 18:06:51] Elita: Estragos da chuva pela falta das janelas"
+    },
+    {
+      "id": "m19",
+      "timestamp": "2024-09-25T18:09:20",
+      "date": "2024-09-25",
+      "time": "18:09:20",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "vou mostrar ao sr amadeu",
+      "raw": "[25/09/24, 18:09:20] Filipe Homeblock: vou mostrar ao sr amadeu"
+    },
+    {
+      "id": "m20",
+      "timestamp": "2024-09-25T18:10:43",
+      "date": "2024-09-25",
+      "time": "18:10:43",
+      "author": "Elita",
+      "type": "audio",
+      "content": "<anexo: 00000020-AUDIO-2024-09-25-18-10-43.opus>",
+      "raw": "‎[25/09/24, 18:10:43] Elita: ‎<anexo: 00000020-AUDIO-2024-09-25-18-10-43.opus>",
+      "attachment": {
+        "fileName": "00000020-AUDIO-2024-09-25-18-10-43.opus"
+      }
+    },
+    {
+      "id": "m21",
+      "timestamp": "2024-10-04T20:56:10",
+      "date": "2024-10-04",
+      "time": "20:56:10",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Bom dia menina elita. Viu os papéis? Se precisar de alguma coisa diga",
+      "raw": "[04/10/24, 20:56:10] Filipe Homeblock: Bom dia menina elita. Viu os papéis? Se precisar de alguma coisa diga"
+    },
+    {
+      "id": "m22",
+      "timestamp": "2024-10-04T20:58:46",
+      "date": "2024-10-04",
+      "time": "20:58:46",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa noite\nVi muito por alto, amanhã analiso melhor e atentamente e depois prenúncio-me\nObrigada",
+      "raw": "[04/10/24, 20:58:46] Elita: Boa noite\nVi muito por alto, amanhã analiso melhor e atentamente e depois prenúncio-me\nObrigada"
+    },
+    {
+      "id": "m23",
+      "timestamp": "2024-10-05T10:50:22",
+      "date": "2024-10-05",
+      "time": "10:50:22",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Filipe\nJá tenho as minhas contas feitas e gostaria de as apresentar/fundamentar pessoalmente",
+      "raw": "[05/10/24, 10:50:22] Elita: Bom dia Sr Filipe\nJá tenho as minhas contas feitas e gostaria de as apresentar/fundamentar pessoalmente"
+    },
+    {
+      "id": "m24",
+      "timestamp": "2024-10-05T11:14:02",
+      "date": "2024-10-05",
+      "time": "11:14:02",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Bom dia, fale com o Meireles e marque reunião",
+      "raw": "[05/10/24, 11:14:02] Filipe Homeblock: Bom dia, fale com o Meireles e marque reunião"
+    },
+    {
+      "id": "m25",
+      "timestamp": "2024-10-05T11:14:25",
+      "date": "2024-10-05",
+      "time": "11:14:25",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Reunião essa em que também esteja o sr Amadeu",
+      "raw": "[05/10/24, 11:14:25] Filipe Homeblock: Reunião essa em que também esteja o sr Amadeu"
+    },
+    {
+      "id": "m26",
+      "timestamp": "2024-10-05T11:14:35",
+      "date": "2024-10-05",
+      "time": "11:14:35",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "O mais importante é resolver isto o mais rápido possível",
+      "raw": "[05/10/24, 11:14:35] Filipe Homeblock: O mais importante é resolver isto o mais rápido possível"
+    },
+    {
+      "id": "m27",
+      "timestamp": "2024-10-05T11:16:31",
+      "date": "2024-10-05",
+      "time": "11:16:31",
+      "author": "Elita",
+      "type": "text",
+      "content": "Por mais que eu já tenha falado eles continuam a não entender",
+      "raw": "[05/10/24, 11:16:31] Elita: Por mais que eu já tenha falado eles continuam a não entender"
+    },
+    {
+      "id": "m28",
+      "timestamp": "2024-10-05T11:17:01",
+      "date": "2024-10-05",
+      "time": "11:17:01",
+      "author": "Elita",
+      "type": "text",
+      "content": "Mas sim vou agendar reunião com eles",
+      "raw": "[05/10/24, 11:17:01] Elita: Mas sim vou agendar reunião com eles"
+    },
+    {
+      "id": "m29",
+      "timestamp": "2024-10-05T11:22:01",
+      "date": "2024-10-05",
+      "time": "11:22:01",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Tudo se vai resolver",
+      "raw": "[05/10/24, 11:22:01] Filipe Homeblock: Tudo se vai resolver"
+    },
+    {
+      "id": "m30",
+      "timestamp": "2024-10-05T11:22:10",
+      "date": "2024-10-05",
+      "time": "11:22:10",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "É preciso é sentar a uma mesa e conversar com calma",
+      "raw": "[05/10/24, 11:22:10] Filipe Homeblock: É preciso é sentar a uma mesa e conversar com calma"
+    },
+    {
+      "id": "m31",
+      "timestamp": "2024-10-05T11:34:15",
+      "date": "2024-10-05",
+      "time": "11:34:15",
+      "author": "Elita",
+      "type": "text",
+      "content": "Estou tão cansada e desanimada!!!",
+      "raw": "[05/10/24, 11:34:15] Elita: Estou tão cansada e desanimada!!!"
+    },
+    {
+      "id": "m32",
+      "timestamp": "2024-10-05T12:47:18",
+      "date": "2024-10-05",
+      "time": "12:47:18",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Tenha calma, tudo se resolve",
+      "raw": "[05/10/24, 12:47:18] Filipe Homeblock: Tenha calma, tudo se resolve"
+    },
+    {
+      "id": "m33",
+      "timestamp": "2024-10-08T14:27:12",
+      "date": "2024-10-08",
+      "time": "14:27:12",
+      "author": "Filipe Homeblock",
+      "type": "document",
+      "content": "<anexo: 00000033-RC 2024_13.pdf>",
+      "raw": "‎[08/10/24, 14:27:12] Filipe Homeblock: RC 2024_13.pdf • ‎3 páginas ‎<anexo: 00000033-RC 2024_13.pdf>",
+      "attachment": {
+        "fileName": "00000033-RC 2024_13.pdf"
+      }
+    },
+    {
+      "id": "m34",
+      "timestamp": "2024-10-08T14:27:20",
+      "date": "2024-10-08",
+      "time": "14:27:20",
+      "author": "Filipe Homeblock",
+      "type": "document",
+      "content": "<anexo: 00000034-NC 2024_2.pdf>",
+      "raw": "‎[08/10/24, 14:27:20] Filipe Homeblock: NC 2024_2.pdf • ‎3 páginas ‎<anexo: 00000034-NC 2024_2.pdf>",
+      "attachment": {
+        "fileName": "00000034-NC 2024_2.pdf"
+      }
+    },
+    {
+      "id": "m35",
+      "timestamp": "2024-10-08T14:27:36",
+      "date": "2024-10-08",
+      "time": "14:27:36",
+      "author": "Filipe Homeblock",
+      "type": "document",
+      "content": "<anexo: 00000035-FT 2024_18 (1).pdf>",
+      "raw": "‎[08/10/24, 14:27:36] Filipe Homeblock: FT 2024_18 (1).pdf • ‎4 páginas ‎<anexo: 00000035-FT 2024_18 (1).pdf>",
+      "attachment": {
+        "fileName": "00000035-FT 2024_18 (1).pdf"
+      }
+    },
+    {
+      "id": "m36",
+      "timestamp": "2024-10-10T14:57:48",
+      "date": "2024-10-10",
+      "time": "14:57:48",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa tarde Filipe\nAs janelas chegam hoje?",
+      "raw": "[10/10/24, 14:57:48] Elita: Boa tarde Filipe \nAs janelas chegam hoje?"
+    },
+    {
+      "id": "m37",
+      "timestamp": "2024-10-10T16:04:40",
+      "date": "2024-10-10",
+      "time": "16:04:40",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Boa tarde, não tenho a certeza, mas penso que o Meireles e o sr Amadeu combinaram para amanhã",
+      "raw": "[10/10/24, 16:04:40] Filipe Homeblock: Boa tarde, não tenho a certeza, mas penso que o Meireles e o sr Amadeu combinaram para amanhã"
+    },
+    {
+      "id": "m38",
+      "timestamp": "2024-10-15T11:45:14",
+      "date": "2024-10-15",
+      "time": "11:45:14",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000038-PHOTO-2024-10-15-11-45-15.jpg>",
+      "raw": "‎[15/10/24, 11:45:14] Elita: ‎<anexo: 00000038-PHOTO-2024-10-15-11-45-15.jpg>",
+      "attachment": {
+        "fileName": "00000038-PHOTO-2024-10-15-11-45-15.jpg"
+      }
+    },
+    {
+      "id": "m39",
+      "timestamp": "2024-10-15T11:46:31",
+      "date": "2024-10-15",
+      "time": "11:46:31",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "O que se passou?",
+      "raw": "[15/10/24, 11:46:31] Filipe Homeblock: O que se passou?"
+    },
+    {
+      "id": "m40",
+      "timestamp": "2024-10-15T11:48:35",
+      "date": "2024-10-15",
+      "time": "11:48:35",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia\nSe ampliar bem a foto pode verificar que está bem inclinada",
+      "raw": "[15/10/24, 11:48:35] Elita: Bom dia \nSe ampliar bem a foto pode verificar que está bem inclinada"
+    },
+    {
+      "id": "m41",
+      "timestamp": "2024-10-15T11:49:05",
+      "date": "2024-10-15",
+      "time": "11:49:05",
+      "author": "Elita",
+      "type": "text",
+      "content": "Veja o nível",
+      "raw": "[15/10/24, 11:49:05] Elita: Veja o nível"
+    },
+    {
+      "id": "m42",
+      "timestamp": "2024-10-15T11:53:01",
+      "date": "2024-10-15",
+      "time": "11:53:01",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "já ligou ao sr amadeu?",
+      "raw": "[15/10/24, 11:53:01] Filipe Homeblock: já ligou ao sr amadeu?"
+    },
+    {
+      "id": "m43",
+      "timestamp": "2024-10-15T11:54:45",
+      "date": "2024-10-15",
+      "time": "11:54:45",
+      "author": "Elita",
+      "type": "text",
+      "content": "O Meireles diz que já tentou ligar e não atendeu",
+      "raw": "[15/10/24, 11:54:45] Elita: O Meireles diz que já tentou ligar e não atendeu"
+    },
+    {
+      "id": "m44",
+      "timestamp": "2024-10-15T11:55:02",
+      "date": "2024-10-15",
+      "time": "11:55:02",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "mas entretanto já falaram os dois",
+      "raw": "[15/10/24, 11:55:02] Filipe Homeblock: mas entretanto já falaram os dois"
+    },
+    {
+      "id": "m45",
+      "timestamp": "2024-10-15T11:55:10",
+      "date": "2024-10-15",
+      "time": "11:55:10",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "à cerca de 1 hora",
+      "raw": "[15/10/24, 11:55:10] Filipe Homeblock: à cerca de 1 hora"
+    },
+    {
+      "id": "m46",
+      "timestamp": "2024-10-15T11:55:23",
+      "date": "2024-10-15",
+      "time": "11:55:23",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ah ok",
+      "raw": "[15/10/24, 11:55:23] Elita: Ah ok"
+    },
+    {
+      "id": "m47",
+      "timestamp": "2024-10-15T11:56:59",
+      "date": "2024-10-15",
+      "time": "11:56:59",
+      "author": "Elita",
+      "type": "text",
+      "content": "Então o Meireles mente",
+      "raw": "[15/10/24, 11:56:59] Elita: Então o Meireles mente"
+    },
+    {
+      "id": "m48",
+      "timestamp": "2024-10-15T11:57:20",
+      "date": "2024-10-15",
+      "time": "11:57:20",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "agora não sei se desde ai tentou ligar lhe de novo",
+      "raw": "[15/10/24, 11:57:20] Filipe Homeblock: agora não sei se desde ai tentou ligar lhe de novo"
+    },
+    {
+      "id": "m49",
+      "timestamp": "2024-10-15T11:58:37",
+      "date": "2024-10-15",
+      "time": "11:58:37",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok\nO importante é o Sr Oliveira ter conhecimento de como ficou e providenciar antes da pintura",
+      "raw": "[15/10/24, 11:58:37] Elita: Ok\nO importante é o Sr Oliveira ter conhecimento de como ficou e providenciar antes da pintura"
+    },
+    {
+      "id": "m50",
+      "timestamp": "2024-10-15T11:58:57",
+      "date": "2024-10-15",
+      "time": "11:58:57",
+      "author": "Elita",
+      "type": "text",
+      "content": "O pintor está a emassar e a polir",
+      "raw": "[15/10/24, 11:58:57] Elita: O pintor está a emassar e a polir"
+    },
+    {
+      "id": "m51",
+      "timestamp": "2024-10-15T11:59:38",
+      "date": "2024-10-15",
+      "time": "11:59:38",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "Quando estiver com ele já lhe digo",
+      "raw": "[15/10/24, 11:59:38] Filipe Homeblock: Quando estiver com ele já lhe digo"
+    },
+    {
+      "id": "m52",
+      "timestamp": "2024-10-15T11:59:56",
+      "date": "2024-10-15",
+      "time": "11:59:56",
+      "author": "Elita",
+      "type": "text",
+      "content": "Faça isso por favor\nObrigada",
+      "raw": "[15/10/24, 11:59:56] Elita: Faça isso por favor \nObrigada"
+    },
+    {
+      "id": "m53",
+      "timestamp": "2024-10-16T15:25:37",
+      "date": "2024-10-16",
+      "time": "15:25:37",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000053-PHOTO-2024-10-16-15-25-38.jpg>",
+      "raw": "‎[16/10/24, 15:25:37] Elita: ‎<anexo: 00000053-PHOTO-2024-10-16-15-25-38.jpg>",
+      "attachment": {
+        "fileName": "00000053-PHOTO-2024-10-16-15-25-38.jpg"
+      }
+    },
+    {
+      "id": "m54",
+      "timestamp": "2024-10-16T15:25:37",
+      "date": "2024-10-16",
+      "time": "15:25:37",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000054-PHOTO-2024-10-16-15-25-38.jpg>",
+      "raw": "‎[16/10/24, 15:25:37] Elita: ‎<anexo: 00000054-PHOTO-2024-10-16-15-25-38.jpg>",
+      "attachment": {
+        "fileName": "00000054-PHOTO-2024-10-16-15-25-38.jpg"
+      }
+    },
+    {
+      "id": "m55",
+      "timestamp": "2024-10-16T15:26:25",
+      "date": "2024-10-16",
+      "time": "15:26:25",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "é por ai que entra humidade?",
+      "raw": "[16/10/24, 15:26:25] Filipe Homeblock: é por ai que entra humidade?"
+    },
+    {
+      "id": "m56",
+      "timestamp": "2024-10-16T15:26:45",
+      "date": "2024-10-16",
+      "time": "15:26:45",
+      "author": "Elita",
+      "type": "text",
+      "content": "Talvez",
+      "raw": "[16/10/24, 15:26:45] Elita: Talvez"
+    },
+    {
+      "id": "m57",
+      "timestamp": "2024-10-16T15:26:59",
+      "date": "2024-10-16",
+      "time": "15:26:59",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000057-VIDEO-2024-10-16-15-26-59.mov>",
+      "raw": "‎[16/10/24, 15:26:59] Elita: ‎<anexo: 00000057-VIDEO-2024-10-16-15-26-59.mov>",
+      "attachment": {
+        "fileName": "00000057-VIDEO-2024-10-16-15-26-59.mov"
+      }
+    },
+    {
+      "id": "m58",
+      "timestamp": "2024-10-16T15:27:17",
+      "date": "2024-10-16",
+      "time": "15:27:17",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "vou mostrar ao sr amadeu",
+      "raw": "[16/10/24, 15:27:17] Filipe Homeblock: vou mostrar ao sr amadeu"
+    },
+    {
+      "id": "m59",
+      "timestamp": "2024-10-16T15:27:37",
+      "date": "2024-10-16",
+      "time": "15:27:37",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000059-PHOTO-2024-10-16-15-27-37.jpg>",
+      "raw": "‎[16/10/24, 15:27:37] Elita: ‎<anexo: 00000059-PHOTO-2024-10-16-15-27-37.jpg>",
+      "attachment": {
+        "fileName": "00000059-PHOTO-2024-10-16-15-27-37.jpg"
+      }
+    },
+    {
+      "id": "m60",
+      "timestamp": "2024-10-16T15:27:44",
+      "date": "2024-10-16",
+      "time": "15:27:44",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "eles não conseguem fazer uma coisa bem?",
+      "raw": "[16/10/24, 15:27:44] Filipe Homeblock: eles não conseguem fazer uma coisa bem?"
+    },
+    {
+      "id": "m61",
+      "timestamp": "2024-10-16T15:27:57",
+      "date": "2024-10-16",
+      "time": "15:27:57",
+      "author": "Elita",
+      "type": "text",
+      "content": "Incrível",
+      "raw": "[16/10/24, 15:27:57] Elita: Incrível"
+    },
+    {
+      "id": "m62",
+      "timestamp": "2024-10-16T15:28:09",
+      "date": "2024-10-16",
+      "time": "15:28:09",
+      "author": "Elita",
+      "type": "text",
+      "content": "Posso ligar?",
+      "raw": "[16/10/24, 15:28:09] Elita: Posso ligar?"
+    },
+    {
+      "id": "m63",
+      "timestamp": "2024-10-16T15:29:52",
+      "date": "2024-10-16",
+      "time": "15:29:52",
+      "author": "Elita",
+      "type": "text",
+      "content": "A tela está colocada direta sem qualquer impermeabilização",
+      "raw": "[16/10/24, 15:29:52] Elita: A tela está colocada direta sem qualquer impermeabilização"
+    },
+    {
+      "id": "m64",
+      "timestamp": "2024-10-16T15:30:56",
+      "date": "2024-10-16",
+      "time": "15:30:56",
+      "author": "Filipe Homeblock",
+      "type": "text",
+      "content": "ele agora está numa reunião. tente daqui a um bocado",
+      "raw": "[16/10/24, 15:30:56] Filipe Homeblock: ele agora está numa reunião. tente daqui a um bocado"
+    },
+    {
+      "id": "m65",
+      "timestamp": "2024-10-16T15:32:08",
+      "date": "2024-10-16",
+      "time": "15:32:08",
+      "author": "Elita",
+      "type": "text",
+      "content": "Existem também poças de água no meio da placa, porque não tem caimento certo para onde tem as saídas de água",
+      "raw": "[16/10/24, 15:32:08] Elita: Existem também poças de água no meio da placa, porque não tem caimento certo para onde tem as saídas de água"
+    },
+    {
+      "id": "m66",
+      "timestamp": "2024-11-15T18:12:05",
+      "date": "2024-11-15",
+      "time": "18:12:05",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000066-PHOTO-2024-11-15-18-12-05.jpg>",
+      "raw": "‎[15/11/24, 18:12:05] Elita: ‎<anexo: 00000066-PHOTO-2024-11-15-18-12-05.jpg>",
+      "attachment": {
+        "fileName": "00000066-PHOTO-2024-11-15-18-12-05.jpg"
+      }
+    },
+    {
+      "id": "m67",
+      "timestamp": "2024-11-16T11:51:23",
+      "date": "2024-11-16",
+      "time": "11:51:23",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000067-PHOTO-2024-11-16-11-51-24.jpg>",
+      "raw": "‎[16/11/24, 11:51:23] Elita: Mais um problema: escorre água junto ao quadro elétrico!!! ‎<anexo: 00000067-PHOTO-2024-11-16-11-51-24.jpg>",
+      "attachment": {
+        "fileName": "00000067-PHOTO-2024-11-16-11-51-24.jpg"
+      }
+    },
+    {
+      "id": "m68",
+      "timestamp": "2024-11-16T11:51:23",
+      "date": "2024-11-16",
+      "time": "11:51:23",
+      "author": "Elita",
+      "type": "photo",
+      "content": "<anexo: 00000068-PHOTO-2024-11-16-11-51-24.jpg>",
+      "raw": "‎[16/11/24, 11:51:23] Elita: ‎<anexo: 00000068-PHOTO-2024-11-16-11-51-24.jpg>",
+      "attachment": {
+        "fileName": "00000068-PHOTO-2024-11-16-11-51-24.jpg"
+      }
+    },
+    {
+      "id": "m69",
+      "timestamp": "2024-12-19T10:31:06",
+      "date": "2024-12-19",
+      "time": "10:31:06",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Filipe,\nComo nunca obtenho resposta aos meus emails, nem mensagens, nem chamadas telefónicas, segue cópia do último, enviado a Amerson, no passado dia 17.\n\n\nBoa tarde Sr Oliveira \n\nFui incumbida pelo meu mandatário, Dr Carlos Oliveira, a solicitar seja marcada reunião entre nós, a realizar na minha obra, na próxima quinta feira, dia 19 de Dezembro, pelas 14h.\nAgradeço a sua confirmação prévia e atempada.\n\nCumprimentos,\n\nÉlita Mónica ‎<Esta mensagem foi editada>",
+      "raw": "[19/12/24, 10:31:06] Elita: Bom dia Sr Filipe,\nComo nunca obtenho resposta aos meus emails, nem mensagens, nem chamadas telefónicas, segue cópia do último, enviado a Amerson, no passado dia 17.\n\n\nBoa tarde Sr Oliveira \n\nFui incumbida pelo meu mandatário, Dr Carlos Oliveira, a solicitar seja marcada reunião entre nós, a realizar na minha obra, na próxima quinta feira, dia 19 de Dezembro, pelas 14h.\nAgradeço a sua confirmação prévia e atempada.\n\nCumprimentos,\n\nÉlita Mónica ‎<Esta mensagem foi editada>"
+    }
+  ]
+}
