@@ -1,0 +1,4 @@
+
+# large media
+*.mp4
+dist/media/
