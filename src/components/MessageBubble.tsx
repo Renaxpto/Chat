@@ -90,14 +90,12 @@ export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Ms
     loading="lazy"
   />
 ) : msg.type === "audio" && fileName ? (
-          <img src={mediaUrl(chatId, fileName)} alt="" style={styles.image} loading="lazy" />
-        ) : msg.type === "audio" && fileName ? (
-          <audio controls src={mediaUrl(chatId, fileName)} style={styles.audio} />
-        ) : msg.type === "video" && fileName ? (
-          <video controls src={mediaUrl(chatId, fileName)} style={styles.video} />
-        ) : (
-          <div style={styles.text}>{msg.content ?? msg.raw ?? ""}</div>
-        )}
+  <audio controls src={mediaUrl(chatId, fileName)} style={styles.audio} />
+) : msg.type === "video" && fileName ? (
+  <video controls src={mediaUrl(chatId, fileName)} style={styles.video} />
+) : (
+  <div style={styles.text}>{msg.content ?? msg.raw ?? ""}</div>
+)}
 
         <div style={styles.meta}>{msg.time ?? ""}</div>
       </div>

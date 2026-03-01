@@ -6,23 +6,22 @@ interface TopbarProps {
   onProfileClick: () => void;
 }
 
-const Topbar: React.FC<TopbarProps> = ({ onToggleMenu, goHome, onProfileClick }) => {
+const Topbar: React.FC<TopbarProps> = ({ onToggleMenu, goHome }) => {
   return (
     <header className="topbar">
       <div className="topbar-left">
         <button className="menu-btn" onClick={onToggleMenu} aria-label="Menu">☰</button>
         <div className="topbar-title">
-          <span className="logo-circle" onClick={goHome}>CM</span>
+          <span className="logo-circle" onClick={goHome}>CW</span>
           <div>
-            <div className="topbar-main">Câmara Municipal</div>
-            <div className="topbar-sub">Protótipo App Móvel</div>
-          </div>
+            <div className="topbar-main">Conversas Whatsapp</div>
+           </div>
         </div>
       </div>
-
+{/* 
       <button className="profile-btn" onClick={onProfileClick} aria-label="Perfil do utilizador">
         👤
-      </button>
+      </button> */}
     </header>
   );
 };

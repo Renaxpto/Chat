@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import type{ NavFn } from "../types";
 
 interface SideMenuProps {
@@ -81,3 +81,4 @@ const SideMenu: React.FC<SideMenuProps> = ({ menuOpen, goTo, onClose }) => {
 };
 
 export default SideMenu;
+ */

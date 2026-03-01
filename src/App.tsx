@@ -3,12 +3,12 @@ import "./App.css";
 import type { Screen, NavFn, ScreenProps, NewsItem, EventItem } from "./types";
 
 import Topbar from "./layout/Topbar";
-import SideMenu from "./layout/SideMenu";
-
+/* import SideMenu from "./layout/SideMenu";
+ */
 import { HomeScreen } from "./screens/HomeScreen";
 import { NewsScreen } from "./screens/NewsScreen";
 import { EventsScreen } from "./screens/EventsScreen";
-import ContactsScreen from "./screens/ContactsScreen";
+import ContactsScreen from "./screens/ConversasScreen";
 import ChatScreen from "./screens/ChatScreen";
 import { ServicesScreen } from "./screens/ServicesScreen";
 import { RequestsListScreen } from "./screens/RequestsListScreen";
@@ -186,8 +186,8 @@ case "chat":
   return (
     <div className="app">
       <Topbar onToggleMenu={toggleMenu} goHome={goHome} onProfileClick={goToProfile} />
-      <SideMenu menuOpen={menuOpen} goTo={goTo} onClose={closeMenu} />
-      <main className="main">{renderScreen()}</main>
+{/*       <SideMenu menuOpen={menuOpen} goTo={goTo} onClose={closeMenu} />
+ */}      <main className="main">{renderScreen()}</main>
     </div>
   );
 };

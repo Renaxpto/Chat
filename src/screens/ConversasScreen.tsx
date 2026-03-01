@@ -7,7 +7,7 @@ type Props = ScreenProps & {
   onOpenChat: (chatId: string) => void;
 };
 
-export default function ContactsScreen({ onOpenChat }: Props) {
+export default function ContactsScreen({ onOpenChat, goHome }: Props) {
   const [chats, setChats] = useState<ChatListItem[]>([]);
 
   useEffect(() => {
@@ -18,6 +18,20 @@ export default function ContactsScreen({ onOpenChat }: Props) {
 
   return (
     <div style={{ maxWidth: 520, margin: "0 auto", padding: 16 }}>
+      <button
+        onClick={goHome}
+        style={{
+          border: "1px solid #ddd",
+          borderRadius: 10,
+          padding: "6px 10px",
+          background: "white",
+          cursor: "pointer",
+          marginBottom: 10,
+        }}
+      >
+        ← Voltar
+      </button>
+
       <h2>Chats</h2>
 
       <div style={{ display: "grid", gap: 10 }}>
