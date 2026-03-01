@@ -9,6 +9,7 @@ export type Msg = {
   type:
     | "text"
     | "image"
+    | "photo" 
     | "video"
     | "audio"
     | "system"
@@ -81,7 +82,14 @@ export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Ms
           <div style={{ ...styles.author, color: hashColor(author) }}>{author}</div>
         )}
 
-        {msg.type === "image" && fileName ? (
+       {(msg.type === "image" || msg.type === "photo") && fileName ? (
+  <img
+    src={mediaUrl(chatId, fileName)}
+    alt=""
+    style={styles.image}
+    loading="lazy"
+  />
+) : msg.type === "audio" && fileName ? (
           <img src={mediaUrl(chatId, fileName)} alt="" style={styles.image} loading="lazy" />
         ) : msg.type === "audio" && fileName ? (
           <audio controls src={mediaUrl(chatId, fileName)} style={styles.audio} />
