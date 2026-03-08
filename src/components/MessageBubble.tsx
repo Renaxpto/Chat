@@ -151,8 +151,10 @@ dumpChars("NFD", fileName?.normalize("NFD"));
           <div style={styles.text}>{msg.content ?? msg.raw ?? ""}</div>
         )}
 
-        <div style={styles.meta}>{msg.time ?? ""}</div>
-      </div>
+<div style={styles.meta}>
+{[msg.date ? msg.date.split("-").reverse().join("/") : undefined, msg.time].filter(Boolean).join(" ")}
+
+</div>      </div>
     </div>
     
   );
