@@ -73,6 +73,11 @@ export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Ms
   };
 
   const fileName = msg.attachment?.fileName;
+ const src = fileName ? mediaUrl(chatId, fileName) : "";
+
+console.log("chatId:", chatId);
+console.log("fileName:", fileName);
+console.log("src:", src);
 
   return (
     <div style={rowStyle}>
@@ -84,16 +89,22 @@ export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Ms
 
        {(msg.type === "image" || msg.type === "photo") && fileName ? (
   <img
-    src={mediaUrl(chatId, fileName)}
+    src={src}
     alt=""
     style={styles.image}
     loading="lazy"
   />
 ) : msg.type === "audio" && fileName ? (
-  <audio controls src={mediaUrl(chatId, fileName)} style={styles.audio} />
+  <audio controls src={src} style={styles.audio} />
 ) : msg.type === "video" && fileName ? (
-  <video controls src={mediaUrl(chatId, fileName)} style={styles.video} />
-) : (
+<video
+  controls
+  src={src}
+  style={styles.video}
+  onError={() => {
+    console.log("ERRO VIDEO:", src);
+  }}
+/>) : (
   <div style={styles.text}>{msg.content ?? msg.raw ?? ""}</div>
 )}
 

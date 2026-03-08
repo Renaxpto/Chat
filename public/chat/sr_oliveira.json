@@ -1,0 +1,445 @@
+{
+  "schema": "whatsapp-export.v1",
+  "sourceFile": "_chat-3.txt",
+  "messageCount": 31,
+  "messages": [
+    {
+      "id": "m1",
+      "timestamp": "2024-06-08T08:05:00",
+      "date": "2024-06-08",
+      "time": "08:05:00",
+      "author": "Sr Oliveira",
+      "type": "system",
+      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar.",
+      "raw": "[08/06/24, 08:05:00] Sr Oliveira: ‎As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
+    },
+    {
+      "id": "m2",
+      "timestamp": "2024-06-08T08:05:00",
+      "date": "2024-06-08",
+      "time": "08:05:00",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Oliveira,\nLembro que os puxadores das janelas e portas janelas já á cor do PVC (cinza escuro)",
+      "raw": "[08/06/24, 08:05:00] Elita: Bom dia Sr Oliveira,\nLembro que os puxadores das janelas e portas janelas já á cor do PVC (cinza escuro)"
+    },
+    {
+      "id": "m3",
+      "timestamp": "2024-06-08T08:07:53",
+      "date": "2024-06-08",
+      "time": "08:07:53",
+      "author": "Elita",
+      "type": "text",
+      "content": "Cinza forja",
+      "raw": "[08/06/24, 08:07:53] Elita: Cinza forja"
+    },
+    {
+      "id": "m4",
+      "timestamp": "2024-06-08T08:10:02",
+      "date": "2024-06-08",
+      "time": "08:10:02",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000004-PHOTO-2024-06-08-08-10-02.jpg>",
+      "raw": "‎[08/06/24, 08:10:02] Elita: ‎<anexo: 00000004-PHOTO-2024-06-08-08-10-02.jpg>",
+      "attachment": {
+        "fileName": "00000004-PHOTO-2024-06-08-08-10-02.jpg",
+        "url": "media/sr_oliveira/00000004-PHOTO-2024-06-08-08-10-02.jpg"
+      }
+    },
+    {
+      "id": "m5",
+      "timestamp": "2024-06-08T08:10:35",
+      "date": "2024-06-08",
+      "time": "08:10:35",
+      "author": "Elita",
+      "type": "text",
+      "content": "Esta a ficar fixa lado esquerdo",
+      "raw": "[08/06/24, 08:10:35] Elita: Esta a ficar fixa lado esquerdo"
+    },
+    {
+      "id": "m6",
+      "timestamp": "2024-06-08T08:10:53",
+      "date": "2024-06-08",
+      "time": "08:10:53",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000006-PHOTO-2024-06-08-08-10-53.jpg>",
+      "raw": "‎[08/06/24, 08:10:53] Elita: ‎<anexo: 00000006-PHOTO-2024-06-08-08-10-53.jpg>",
+      "attachment": {
+        "fileName": "00000006-PHOTO-2024-06-08-08-10-53.jpg",
+        "url": "media/sr_oliveira/00000006-PHOTO-2024-06-08-08-10-53.jpg"
+      }
+    },
+    {
+      "id": "m7",
+      "timestamp": "2024-06-08T08:11:27",
+      "date": "2024-06-08",
+      "time": "08:11:27",
+      "author": "Elita",
+      "type": "text",
+      "content": "E esta fixa do lado direito",
+      "raw": "[08/06/24, 08:11:27] Elita: E esta fixa do lado direito"
+    },
+    {
+      "id": "m8",
+      "timestamp": "2024-07-08T12:30:49",
+      "date": "2024-07-08",
+      "time": "12:30:49",
+      "author": "Sr Oliveira",
+      "type": "call_missed",
+      "content": "Chamada de voz perdida Toque para devolver a chamada",
+      "raw": "[08/07/24, 12:30:49] Sr Oliveira: ‎Chamada de voz perdida  ‎Toque para devolver a chamada"
+    },
+    {
+      "id": "m9",
+      "timestamp": "2024-07-10T09:51:52",
+      "date": "2024-07-10",
+      "time": "09:51:52",
+      "author": "Sr Oliveira",
+      "type": "call_missed",
+      "content": "Chamada de voz perdida Toque para devolver a chamada",
+      "raw": "[10/07/24, 09:51:52] Sr Oliveira: ‎Chamada de voz perdida  ‎Toque para devolver a chamada"
+    },
+    {
+      "id": "m10",
+      "timestamp": "2024-07-11T07:12:09",
+      "date": "2024-07-11",
+      "time": "07:12:09",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Oliveira hoje não consigo confirmar se consigo e a que horas poderei estar na obra. \nO mais certo será segunda feira",
+      "raw": "[11/07/24, 07:12:09] Elita: Bom dia Sr Oliveira hoje não consigo confirmar se consigo e a que horas poderei estar na obra. \nO mais certo será segunda feira"
+    },
+    {
+      "id": "m11",
+      "timestamp": "2024-09-17T14:04:35",
+      "date": "2024-09-17",
+      "time": "14:04:35",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000011-VIDEO-2024-09-17-14-04-35.mp4>",
+      "raw": "‎[17/09/24, 14:04:35] Elita: ‎<anexo: 00000011-VIDEO-2024-09-17-14-04-35.mp4>",
+      "attachment": {
+        "fileName": "00000011-VIDEO-2024-09-17-14-04-35.mp4",
+        "url": "media/sr_oliveira/00000011-VIDEO-2024-09-17-14-04-35.mp4"
+      }
+    },
+    {
+      "id": "m12",
+      "timestamp": "2024-09-17T14:04:35",
+      "date": "2024-09-17",
+      "time": "14:04:35",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000012-VIDEO-2024-09-17-14-04-35.mp4>",
+      "raw": "‎[17/09/24, 14:04:35] Elita: ‎<anexo: 00000012-VIDEO-2024-09-17-14-04-35.mp4>",
+      "attachment": {
+        "fileName": "00000012-VIDEO-2024-09-17-14-04-35.mp4",
+        "url": "media/sr_oliveira/00000012-VIDEO-2024-09-17-14-04-35.mp4"
+      }
+    },
+    {
+      "id": "m13",
+      "timestamp": "2024-10-16T15:25:38",
+      "date": "2024-10-16",
+      "time": "15:25:38",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000013-PHOTO-2024-10-16-15-25-38.jpg>",
+      "raw": "‎[16/10/24, 15:25:38] Elita: ‎<anexo: 00000013-PHOTO-2024-10-16-15-25-38.jpg>",
+      "attachment": {
+        "fileName": "00000013-PHOTO-2024-10-16-15-25-38.jpg",
+        "url": "media/sr_oliveira/00000013-PHOTO-2024-10-16-15-25-38.jpg"
+      }
+    },
+    {
+      "id": "m14",
+      "timestamp": "2024-10-16T15:25:38",
+      "date": "2024-10-16",
+      "time": "15:25:38",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000014-PHOTO-2024-10-16-15-25-38.jpg>",
+      "raw": "‎[16/10/24, 15:25:38] Elita: ‎<anexo: 00000014-PHOTO-2024-10-16-15-25-38.jpg>",
+      "attachment": {
+        "fileName": "00000014-PHOTO-2024-10-16-15-25-38.jpg",
+        "url": "media/sr_oliveira/00000014-PHOTO-2024-10-16-15-25-38.jpg"
+      }
+    },
+    {
+      "id": "m15",
+      "timestamp": "2024-10-16T18:23:30",
+      "date": "2024-10-16",
+      "time": "18:23:30",
+      "author": "Elita",
+      "type": "text",
+      "content": "913 970 507 Bruno Impermeabilização",
+      "raw": "[16/10/24, 18:23:30] Elita: 913 970 507 Bruno Impermeabilização"
+    },
+    {
+      "id": "m16",
+      "timestamp": "2024-10-16T18:49:12",
+      "date": "2024-10-16",
+      "time": "18:49:12",
+      "author": "Elita",
+      "type": "text",
+      "content": "934 251 345 Elvis pintor",
+      "raw": "[16/10/24, 18:49:12] Elita: 934 251 345 Elvis pintor"
+    },
+    {
+      "id": "m17",
+      "timestamp": "2024-11-05T14:43:13",
+      "date": "2024-11-05",
+      "time": "14:43:13",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000017-PHOTO-2024-11-05-14-43-13.jpg>",
+      "raw": "‎[05/11/24, 14:43:13] Elita: ‎<anexo: 00000017-PHOTO-2024-11-05-14-43-13.jpg>",
+      "attachment": {
+        "fileName": "00000017-PHOTO-2024-11-05-14-43-13.jpg",
+        "url": "media/sr_oliveira/00000017-PHOTO-2024-11-05-14-43-13.jpg"
+      }
+    },
+    {
+      "id": "m18",
+      "timestamp": "2024-11-05T14:43:22",
+      "date": "2024-11-05",
+      "time": "14:43:22",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000018-PHOTO-2024-11-05-14-43-22.jpg>",
+      "raw": "‎[05/11/24, 14:43:22] Elita: ‎<anexo: 00000018-PHOTO-2024-11-05-14-43-22.jpg>",
+      "attachment": {
+        "fileName": "00000018-PHOTO-2024-11-05-14-43-22.jpg",
+        "url": "media/sr_oliveira/00000018-PHOTO-2024-11-05-14-43-22.jpg"
+      }
+    },
+    {
+      "id": "m19",
+      "timestamp": "2024-11-05T14:43:55",
+      "date": "2024-11-05",
+      "time": "14:43:55",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000019-PHOTO-2024-11-05-14-43-55.jpg>",
+      "raw": "‎[05/11/24, 14:43:55] Elita: ‎<anexo: 00000019-PHOTO-2024-11-05-14-43-55.jpg>",
+      "attachment": {
+        "fileName": "00000019-PHOTO-2024-11-05-14-43-55.jpg",
+        "url": "media/sr_oliveira/00000019-PHOTO-2024-11-05-14-43-55.jpg"
+      }
+    },
+    {
+      "id": "m20",
+      "timestamp": "2024-11-05T14:44:18",
+      "date": "2024-11-05",
+      "time": "14:44:18",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000020-PHOTO-2024-11-05-14-44-18.jpg>",
+      "raw": "‎[05/11/24, 14:44:18] Elita: ‎<anexo: 00000020-PHOTO-2024-11-05-14-44-18.jpg>",
+      "attachment": {
+        "fileName": "00000020-PHOTO-2024-11-05-14-44-18.jpg",
+        "url": "media/sr_oliveira/00000020-PHOTO-2024-11-05-14-44-18.jpg"
+      }
+    },
+    {
+      "id": "m21",
+      "timestamp": "2024-11-05T14:45:48",
+      "date": "2024-11-05",
+      "time": "14:45:48",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000021-PHOTO-2024-11-05-14-45-47.jpg>",
+      "raw": "‎[05/11/24, 14:45:48] Elita: ‎<anexo: 00000021-PHOTO-2024-11-05-14-45-47.jpg>",
+      "attachment": {
+        "fileName": "00000021-PHOTO-2024-11-05-14-45-47.jpg",
+        "url": "media/sr_oliveira/00000021-PHOTO-2024-11-05-14-45-47.jpg"
+      }
+    },
+    {
+      "id": "m22",
+      "timestamp": "2024-11-05T15:08:08",
+      "date": "2024-11-05",
+      "time": "15:08:08",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000022-PHOTO-2024-11-05-15-08-08.jpg>",
+      "raw": "‎[05/11/24, 15:08:08] Elita: ‎<anexo: 00000022-PHOTO-2024-11-05-15-08-08.jpg>",
+      "attachment": {
+        "fileName": "00000022-PHOTO-2024-11-05-15-08-08.jpg",
+        "url": "media/sr_oliveira/00000022-PHOTO-2024-11-05-15-08-08.jpg"
+      }
+    },
+    {
+      "id": "m23",
+      "timestamp": "2024-11-12T08:00:53",
+      "date": "2024-11-12",
+      "time": "08:00:53",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000023-VIDEO-2024-11-12-08-00-53.mov>",
+      "raw": "‎[12/11/24, 08:00:53] Elita: ‎<anexo: 00000023-VIDEO-2024-11-12-08-00-53.mov>",
+      "attachment": {
+        "fileName": "00000023-VIDEO-2024-11-12-08-00-53.mov",
+        "url": "media/sr_oliveira/00000023-VIDEO-2024-11-12-08-00-53.mov"
+      }
+    },
+    {
+      "id": "m24",
+      "timestamp": "2024-11-12T08:06:00",
+      "date": "2024-11-12",
+      "time": "08:06:00",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000024-PHOTO-2024-11-12-08-06-00.jpg>",
+      "raw": "‎[12/11/24, 08:06:00] Elita: ‎<anexo: 00000024-PHOTO-2024-11-12-08-06-00.jpg>",
+      "attachment": {
+        "fileName": "00000024-PHOTO-2024-11-12-08-06-00.jpg",
+        "url": "media/sr_oliveira/00000024-PHOTO-2024-11-12-08-06-00.jpg"
+      }
+    },
+    {
+      "id": "m25",
+      "timestamp": "2024-11-12T08:07:17",
+      "date": "2024-11-12",
+      "time": "08:07:17",
+      "author": "Elita",
+      "type": "text",
+      "content": "Isto no  meio do meu quarto!\nOlhe a sanita",
+      "raw": "[12/11/24, 08:07:17] Elita: Isto no  meio do meu quarto!\nOlhe a sanita"
+    },
+    {
+      "id": "m26",
+      "timestamp": "2024-11-12T08:08:11",
+      "date": "2024-11-12",
+      "time": "08:08:11",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000026-PHOTO-2024-11-12-08-08-11.jpg>",
+      "raw": "‎[12/11/24, 08:08:11] Elita: ‎<anexo: 00000026-PHOTO-2024-11-12-08-08-11.jpg>",
+      "attachment": {
+        "fileName": "00000026-PHOTO-2024-11-12-08-08-11.jpg",
+        "url": "media/sr_oliveira/00000026-PHOTO-2024-11-12-08-08-11.jpg"
+      }
+    },
+    {
+      "id": "m27",
+      "timestamp": "2024-11-12T08:08:41",
+      "date": "2024-11-12",
+      "time": "08:08:41",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000027-PHOTO-2024-11-12-08-08-41.jpg>",
+      "raw": "‎[12/11/24, 08:08:41] Elita: ‎<anexo: 00000027-PHOTO-2024-11-12-08-08-41.jpg>",
+      "attachment": {
+        "fileName": "00000027-PHOTO-2024-11-12-08-08-41.jpg",
+        "url": "media/sr_oliveira/00000027-PHOTO-2024-11-12-08-08-41.jpg"
+      }
+    },
+    {
+      "id": "m28",
+      "timestamp": "2024-11-15T18:10:32",
+      "date": "2024-11-15",
+      "time": "18:10:32",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000028-PHOTO-2024-11-15-18-10-31.jpg>",
+      "raw": "‎[15/11/24, 18:10:32] Elita: ‎<anexo: 00000028-PHOTO-2024-11-15-18-10-31.jpg>",
+      "attachment": {
+        "fileName": "00000028-PHOTO-2024-11-15-18-10-31.jpg",
+        "url": "media/sr_oliveira/00000028-PHOTO-2024-11-15-18-10-31.jpg"
+      }
+    },
+    {
+      "id": "m29",
+      "timestamp": "2024-11-16T11:51:24",
+      "date": "2024-11-16",
+      "time": "11:51:24",
+      "author": "Elita",
+      "type": "text",
+      "content": "Mais um problema: escorre água junto ao quadro elétrico!!! <anexo: 00000029-PHOTO-2024-11-16-11-51-24.jpg>",
+      "raw": "‎[16/11/24, 11:51:24] Elita: Mais um problema: escorre água junto ao quadro elétrico!!! ‎<anexo: 00000029-PHOTO-2024-11-16-11-51-24.jpg>",
+      "attachment": {
+        "fileName": "00000029-PHOTO-2024-11-16-11-51-24.jpg",
+        "url": "media/sr_oliveira/00000029-PHOTO-2024-11-16-11-51-24.jpg"
+      }
+    },
+    {
+      "id": "m30",
+      "timestamp": "2024-11-16T11:51:24",
+      "date": "2024-11-16",
+      "time": "11:51:24",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000030-PHOTO-2024-11-16-11-51-24.jpg>",
+      "raw": "‎[16/11/24, 11:51:24] Elita: ‎<anexo: 00000030-PHOTO-2024-11-16-11-51-24.jpg>",
+      "attachment": {
+        "fileName": "00000030-PHOTO-2024-11-16-11-51-24.jpg",
+        "url": "media/sr_oliveira/00000030-PHOTO-2024-11-16-11-51-24.jpg"
+      }
+    },
+    {
+      "id": "m31",
+      "timestamp": "2024-11-18T17:22:15",
+      "date": "2024-11-18",
+      "time": "17:22:15",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000031-PHOTO-2024-11-18-17-22-15.jpg>",
+      "raw": "‎[18/11/24, 17:22:15] Elita: ‎<anexo: 00000031-PHOTO-2024-11-18-17-22-15.jpg>",
+      "attachment": {
+        "fileName": "00000031-PHOTO-2024-11-18-17-22-15.jpg",
+        "url": "media/sr_oliveira/00000031-PHOTO-2024-11-18-17-22-15.jpg"
+      }
+    },
+    {
+      "id": "m32",
+      "timestamp": "2024-11-18T17:22:15",
+      "date": "2024-11-18",
+      "time": "17:22:15",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000032-PHOTO-2024-11-18-17-22-15.jpg>",
+      "raw": "‎[18/11/24, 17:22:15] Elita: ‎<anexo: 00000032-PHOTO-2024-11-18-17-22-15.jpg>",
+      "attachment": {
+        "fileName": "00000032-PHOTO-2024-11-18-17-22-15.jpg",
+        "url": "media/sr_oliveira/00000032-PHOTO-2024-11-18-17-22-15.jpg"
+      }
+    },
+    {
+      "id": "m33",
+      "timestamp": "2024-11-18T17:22:15",
+      "date": "2024-11-18",
+      "time": "17:22:15",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000033-PHOTO-2024-11-18-17-22-15.jpg>",
+      "raw": "‎[18/11/24, 17:22:15] Elita: ‎<anexo: 00000033-PHOTO-2024-11-18-17-22-15.jpg>",
+      "attachment": {
+        "fileName": "00000033-PHOTO-2024-11-18-17-22-15.jpg",
+        "url": "media/sr_oliveira/00000033-PHOTO-2024-11-18-17-22-15.jpg"
+      }
+    },
+    {
+      "id": "m34",
+      "timestamp": "2024-11-19T10:00:18",
+      "date": "2024-11-19",
+      "time": "10:00:18",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia, segue cópia do email que há pouco enviei para si.\n\nBom dia Sr Oliveira \nConforme nossa conversa telefónica de ontem, aguardo a confirmação e hora da sua comparência hoje na minha obra, afim de nos reunirmos, bem como a verificação e solução definitiva de todos os defeitos e para efetiva execução e conclusão da obra.\nRelembro que a mesma se encontra com os trabalhos, que são da Vossa responsabilidade, parados desde o final do mês passado.\n\nCumprimentos,\nÉlita",
+      "raw": "[19/11/24, 10:00:18] Elita: Bom dia, segue cópia do email que há pouco enviei para si.\n\nBom dia Sr Oliveira \nConforme nossa conversa telefónica de ontem, aguardo a confirmação e hora da sua comparência hoje na minha obra, afim de nos reunirmos, bem como a verificação e solução definitiva de todos os defeitos e para efetiva execução e conclusão da obra.\nRelembro que a mesma se encontra com os trabalhos, que são da Vossa responsabilidade, parados desde o final do mês passado.\n\nCumprimentos,\nÉlita"
+    },
+    {
+      "id": "m35",
+      "timestamp": "2024-11-20T19:26:15",
+      "date": "2024-11-20",
+      "time": "19:26:15",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa noite\nNão tenho sequer resposta sua. Há semanas que aguardo a sua vinda à obra e até já me disponibilizei, como tantas outras vezes, para me reunir consigo no seu escritório. Você alega sempre falta de tempo!\nA obra foi literalmente abandonada por si e sua equipa!\nHoje, como voltou a chover, embora pouco, voltou a aparecer água no chão da sala, que escorre pela parede  junto ao quadro elétrico! <Esta mensagem foi editada>",
+      "raw": "[20/11/24, 19:26:15] Elita: Boa noite\nNão tenho sequer resposta sua. Há semanas que aguardo a sua vinda à obra e até já me disponibilizei, como tantas outras vezes, para me reunir consigo no seu escritório. Você alega sempre falta de tempo!\nA obra foi literalmente abandonada por si e sua equipa!\nHoje, como voltou a chover, embora pouco, voltou a aparecer água no chão da sala, que escorre pela parede  junto ao quadro elétrico! ‎<Esta mensagem foi editada>"
+    }
+  ]
+}
