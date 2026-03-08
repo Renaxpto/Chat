@@ -31,11 +31,20 @@ export default function ChatView({ chatId, messages }: { chatId: string; message
               ✕
             </button>
 
-            <iframe
-              src={pdfPreview.src}
-              title={pdfPreview.fileName}
-              style={chatStyles.previewPdf}
-            />
+          
+{/\.(jpe?g|png|gif|webp|bmp)$/i.test(pdfPreview.fileName) ? (
+  <img
+    src={pdfPreview.src}
+    alt={pdfPreview.fileName}
+    style={{ maxWidth: "100%", maxHeight: "100%", objectFit: "contain", display: "block", margin: "auto" }}
+  />
+) : (
+  <iframe
+    src={pdfPreview.src}
+    title={pdfPreview.fileName}
+    style={chatStyles.previewPdf}
+  />
+)}
           </div>
         </div>
       )}
