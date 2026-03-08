@@ -43,7 +43,10 @@ function hashColor(name: string) {
 }
 
 function mediaUrl(chatId: string, fileName: string) {
-  return `${import.meta.env.BASE_URL}media/${encodeURIComponent(chatId)}/${encodeURIComponent(fileName)}`;
+  const safeChatId = chatId.normalize("NFC");
+  const safeFileName = fileName.normalize("NFC");
+
+  return `${import.meta.env.BASE_URL}media/${encodeURIComponent(safeChatId)}/${encodeURIComponent(safeFileName)}`;
 }
 
 function extractAttachmentName(text?: string) {
@@ -94,7 +97,22 @@ export default function MessageBubble({
     extractAttachmentName(msg.raw);
 
   const src = fileName ? mediaUrl(chatId, fileName) : "";
+console.log("fileName:", fileName);
+console.log("fileName NFC:", fileName?.normalize("NFC"));
+console.log("fileName NFD:", fileName?.normalize("NFD"));
+console.log("src:", src);
 
+function dumpChars(label: string, value?: string) {
+  if (!value) return;
+  console.log(
+    label,
+    [...value].map((c) => `${c} U+${c.codePointAt(0)?.toString(16).toUpperCase()}`)
+  );
+}
+
+dumpChars("original", fileName);
+dumpChars("NFC", fileName?.normalize("NFC"));
+dumpChars("NFD", fileName?.normalize("NFD"));
   return (
     <div style={rowStyle}>
       <div style={bubbleStyle}>
@@ -135,6 +153,7 @@ export default function MessageBubble({
         <div style={styles.meta}>{msg.time ?? ""}</div>
       </div>
     </div>
+    
   );
 }
 
