@@ -11,7 +11,7 @@ export default function ContactsScreen({ onOpenChat, goHome }: Props) {
   const [chats, setChats] = useState<ChatListItem[]>([]);
 
   useEffect(() => {
-    fetch("/chat/index.json")
+    fetch(`${import.meta.env.BASE_URL}chat/index.json`)
       .then((r) => r.json())
       .then(setChats);
   }, []);
