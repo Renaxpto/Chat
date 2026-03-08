@@ -1,0 +1,3014 @@
+{
+  "schema": "whatsapp-export.v1",
+  "sourceFile": "_chat-5.txt",
+  "messageCount": 280,
+  "messages": [
+    {
+      "id": "m1",
+      "timestamp": "2024-05-27T10:52:28",
+      "date": "2024-05-27",
+      "time": "10:52:28",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "system",
+      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar.",
+      "raw": "[27/05/24, 10:52:28] Loan Meireles - Bizan G roup Construções ICF Meireles: As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
+    },
+    {
+      "id": "m2",
+      "timestamp": "2024-05-27T10:52:28",
+      "date": "2024-05-27",
+      "time": "10:52:28",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "system",
+      "content": "Loan Meireles - Bizan G roup Construções ICF é um contacto.",
+      "raw": "[27/05/24, 10:52:28] Loan Meireles - Bizan G roup Construções ICF Meireles: Loan Meireles - Bizan G roup Construções ICF é um contacto."
+    },
+    {
+      "id": "m3",
+      "timestamp": "2024-05-27T10:01:35",
+      "date": "2024-05-27",
+      "time": "10:01:35",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000003-PHOTO-2024-05-27-10-01-36.jpg>",
+      "raw": "[27/05/24, 10:01:35] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000003-PHOTO-2024-05-27-10-01-36.jpg>",
+      "attachment": {
+        "fileName": "00000003-PHOTO-2024-05-27-10-01-36.jpg"
+      }
+    },
+    {
+      "id": "m4",
+      "timestamp": "2024-05-28T10:48:09",
+      "date": "2024-05-28",
+      "time": "10:48:09",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "ORÇAMENTO SRA. ÉLITA 14.02.24.pdf • 38 páginas <anexo: 00000004-ORÇAMENTO SRA. ÉLITA 14.02.24.pdf>",
+      "raw": "[28/05/24, 10:48:09] Loan Meireles - Bizan G roup Construções ICF Meireles: ORÇAMENTO SRA. ÉLITA 14.02.24.pdf • 38 páginas <anexo: 00000004-ORÇAMENTO SRA. ÉLITA 14.02.24.pdf>",
+      "attachment": {
+        "fileName": "00000004-ORÇAMENTO SRA. ÉLITA 14.02.24.pdf"
+      }
+    },
+    {
+      "id": "m5",
+      "timestamp": "2024-05-28T10:51:12",
+      "date": "2024-05-28",
+      "time": "10:51:12",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "ORÇAMENTO SRA. ÉLITA 13.02.24.pdf • 38 páginas <anexo: 00000005-ORÇAMENTO SRA. ÉLITA 13.02.24.pdf>",
+      "raw": "[28/05/24, 10:51:12] Loan Meireles - Bizan G roup Construções ICF Meireles: ORÇAMENTO SRA. ÉLITA 13.02.24.pdf • 38 páginas <anexo: 00000005-ORÇAMENTO SRA. ÉLITA 13.02.24.pdf>",
+      "attachment": {
+        "fileName": "00000005-ORÇAMENTO SRA. ÉLITA 13.02.24.pdf"
+      }
+    },
+    {
+      "id": "m6",
+      "timestamp": "2024-05-29T13:06:22",
+      "date": "2024-05-29",
+      "time": "13:06:22",
+      "author": "Elita",
+      "type": "text",
+      "content": "Sr Meireles já se reuniu com o Sr Oliveira?",
+      "raw": "[29/05/24, 13:06:22] Elita: Sr Meireles já se reuniu com o Sr Oliveira?"
+    },
+    {
+      "id": "m7",
+      "timestamp": "2024-05-29T13:22:51",
+      "date": "2024-05-29",
+      "time": "13:22:51",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Vou estar com ele por volta das 14:30",
+      "raw": "[29/05/24, 13:22:51] Loan Meireles - Bizan G roup Construções ICF Meireles: Vou estar com ele por volta das 14:30"
+    },
+    {
+      "id": "m8",
+      "timestamp": "2024-05-29T13:33:34",
+      "date": "2024-05-29",
+      "time": "13:33:34",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não se esqueça de lhe falar do valor orçamentado do ginásio (6.760 euros)",
+      "raw": "[29/05/24, 13:33:34] Elita: Não se esqueça de lhe falar do valor orçamentado do ginásio (6.760 euros)"
+    },
+    {
+      "id": "m9",
+      "timestamp": "2024-05-29T13:34:53",
+      "date": "2024-05-29",
+      "time": "13:34:53",
+      "author": "Elita",
+      "type": "text",
+      "content": "Este valor está incluído no orçamento final que eu assinei com a empresa do Sr Oliveira",
+      "raw": "[29/05/24, 13:34:53] Elita: Este valor está incluído no orçamento final que eu assinei com a empresa do Sr Oliveira"
+    },
+    {
+      "id": "m10",
+      "timestamp": "2024-05-29T14:19:13",
+      "date": "2024-05-29",
+      "time": "14:19:13",
+      "author": "Elita",
+      "type": "text",
+      "content": "Confirme também o dia do Betão",
+      "raw": "[29/05/24, 14:19:13] Elita: Confirme também o dia do Betão"
+    },
+    {
+      "id": "m11",
+      "timestamp": "2024-05-29T14:19:40",
+      "date": "2024-05-29",
+      "time": "14:19:40",
+      "author": "Elita",
+      "type": "text",
+      "content": "Espero que seja está sexta-feira",
+      "raw": "[29/05/24, 14:19:40] Elita: Espero que seja está sexta-feira"
+    },
+    {
+      "id": "m12",
+      "timestamp": "2024-05-29T16:46:03",
+      "date": "2024-05-29",
+      "time": "16:46:03",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "video",
+      "content": "vídeo não revelado",
+      "raw": "[29/05/24, 16:46:03] Loan Meireles - Bizan G roup Construções ICF Meireles: vídeo não revelado"
+    },
+    {
+      "id": "m13",
+      "timestamp": "2024-05-29T16:48:19",
+      "date": "2024-05-29",
+      "time": "16:48:19",
+      "author": "Elita",
+      "type": "text",
+      "content": "🙏🙏🙏",
+      "raw": "[29/05/24, 16:48:19] Elita: 🙏🙏🙏"
+    },
+    {
+      "id": "m14",
+      "timestamp": "2024-06-04T21:18:00",
+      "date": "2024-06-04",
+      "time": "21:18:00",
+      "author": "Elita",
+      "type": "text",
+      "content": "Sr Meireles conforme falamos no outro dia, o Sr Oliveira reconheceu que o ginásio, no valor de 6.760 euros, está incluído no orçamento, certo?",
+      "raw": "[04/06/24, 21:18:00] Elita: Sr Meireles conforme falamos no outro dia, o Sr Oliveira reconheceu que o ginásio, no valor de 6.760 euros, está incluído no orçamento, certo?"
+    },
+    {
+      "id": "m15",
+      "timestamp": "2024-06-04T21:18:02",
+      "date": "2024-06-04",
+      "time": "21:18:02",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[04/06/24, 21:18:02] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m16",
+      "timestamp": "2024-06-04T21:36:10",
+      "date": "2024-06-04",
+      "time": "21:36:10",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sim, Já tinha conversado com o Sr. Oliveira Sobre Isso.",
+      "raw": "[04/06/24, 21:36:10] Loan Meireles - Bizan G roup Construções ICF Meireles: Sim, Já tinha conversado com o Sr. Oliveira Sobre Isso."
+    },
+    {
+      "id": "m17",
+      "timestamp": "2024-06-04T21:37:03",
+      "date": "2024-06-04",
+      "time": "21:37:03",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Precisava ver a questão com a Sra. Élita, Sobre o Chapisco do muro da parte de baixo.",
+      "raw": "[04/06/24, 21:37:03] Loan Meireles - Bizan G roup Construções ICF Meireles: Precisava ver a questão com a Sra. Élita, Sobre o Chapisco do muro da parte de baixo."
+    },
+    {
+      "id": "m18",
+      "timestamp": "2024-06-22T23:09:33",
+      "date": "2024-06-22",
+      "time": "23:09:33",
+      "author": "Elita",
+      "type": "text",
+      "content": "https://www.facebook.com/share/v/PpjPR7cTcGEeRiyp/?mibextid=WC7FNe",
+      "raw": "[22/06/24, 23:09:33] Elita: https://www.facebook.com/share/v/PpjPR7cTcGEeRiyp/?mibextid=WC7FNe"
+    },
+    {
+      "id": "m19",
+      "timestamp": "2024-06-22T23:10:11",
+      "date": "2024-06-22",
+      "time": "23:10:11",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar! Responderei o mais breve possível. Estamos à sua disposição. Administração - Bizan Group Construções ICF",
+      "raw": "[22/06/24, 23:10:11] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar! Responderei o mais breve possível. Estamos à sua disposição. Administração - Bizan Group Construções ICF"
+    },
+    {
+      "id": "m20",
+      "timestamp": "2024-06-22T23:10:11",
+      "date": "2024-06-22",
+      "time": "23:10:11",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[22/06/24, 23:10:11] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m21",
+      "timestamp": "2024-06-22T23:10:49",
+      "date": "2024-06-22",
+      "time": "23:10:49",
+      "author": "Elita",
+      "type": "text",
+      "content": "Sr Meireles já lhe disse que não quero vídeos/fotos que possam identificar a minha obra!!!",
+      "raw": "[22/06/24, 23:10:49] Elita: Sr Meireles já lhe disse que não quero vídeos/fotos que possam identificar a minha obra!!!"
+    },
+    {
+      "id": "m22",
+      "timestamp": "2024-06-22T23:12:06",
+      "date": "2024-06-22",
+      "time": "23:12:06",
+      "author": "Elita",
+      "type": "text",
+      "content": "Faça o favor de rever tudo  e eliminar de imediato",
+      "raw": "[22/06/24, 23:12:06] Elita: Faça o favor de rever tudo  e eliminar de imediato"
+    },
+    {
+      "id": "m23",
+      "timestamp": "2024-06-22T23:23:20",
+      "date": "2024-06-22",
+      "time": "23:23:20",
+      "author": "Elita",
+      "type": "text",
+      "content": "https://www.facebook.com/share/r/MaYSrzY5UTAm6GxP/?mibextid=UalRPS",
+      "raw": "[22/06/24, 23:23:20] Elita: https://www.facebook.com/share/r/MaYSrzY5UTAm6GxP/?mibextid=UalRPS"
+    },
+    {
+      "id": "m24",
+      "timestamp": "2024-06-22T23:25:18",
+      "date": "2024-06-22",
+      "time": "23:25:18",
+      "author": "Elita",
+      "type": "text",
+      "content": "Que porra é  esta?!",
+      "raw": "[22/06/24, 23:25:18] Elita: Que porra é  esta?!"
+    },
+    {
+      "id": "m25",
+      "timestamp": "2024-06-22T23:25:52",
+      "date": "2024-06-22",
+      "time": "23:25:52",
+      "author": "Elita",
+      "type": "text",
+      "content": "Eu já lhe tinha avisado",
+      "raw": "[22/06/24, 23:25:52] Elita: Eu já lhe tinha avisado"
+    },
+    {
+      "id": "m26",
+      "timestamp": "2024-06-22T23:29:28",
+      "date": "2024-06-22",
+      "time": "23:29:28",
+      "author": "Elita",
+      "type": "text",
+      "content": "Avisei-o e não respeitou",
+      "raw": "[22/06/24, 23:29:28] Elita: Avisei-o e não respeitou"
+    },
+    {
+      "id": "m27",
+      "timestamp": "2024-06-22T23:29:42",
+      "date": "2024-06-22",
+      "time": "23:29:42",
+      "author": "Elita",
+      "type": "text",
+      "content": "Quero isso eliminado",
+      "raw": "[22/06/24, 23:29:42] Elita: Quero isso eliminado"
+    },
+    {
+      "id": "m28",
+      "timestamp": "2024-06-22T23:30:56",
+      "date": "2024-06-22",
+      "time": "23:30:56",
+      "author": "Elita",
+      "type": "text",
+      "content": "E  a partir de agora está proibido de filmar ou fotografar o que quer que seja da minha obra",
+      "raw": "[22/06/24, 23:30:56] Elita: E  a partir de agora está proibido de filmar ou fotografar o que quer que seja da minha obra"
+    },
+    {
+      "id": "m29",
+      "timestamp": "2024-06-22T23:32:25",
+      "date": "2024-06-22",
+      "time": "23:32:25",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Vou excluir os vídeos Exteriores.",
+      "raw": "[22/06/24, 23:32:25] Loan Meireles - Bizan G roup Construções ICF Meireles: Vou excluir os vídeos Exteriores."
+    },
+    {
+      "id": "m30",
+      "timestamp": "2024-06-22T23:37:59",
+      "date": "2024-06-22",
+      "time": "23:37:59",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Eu já tinha excluído os vídeos que tinha me mandado naquela altura. Só que esse que você me mandou, passou-me despercebido.",
+      "raw": "[22/06/24, 23:37:59] Loan Meireles - Bizan G roup Construções ICF Meireles: Eu já tinha excluído os vídeos que tinha me mandado naquela altura. Só que esse que você me mandou, passou-me despercebido."
+    },
+    {
+      "id": "m31",
+      "timestamp": "2024-06-22T23:39:51",
+      "date": "2024-06-22",
+      "time": "23:39:51",
+      "author": "Elita",
+      "type": "text",
+      "content": "Eu tinha enviado fotos/vídeos como exemplo mas disse para confirmar tudo o que tinha",
+      "raw": "[22/06/24, 23:39:51] Elita: Eu tinha enviado fotos/vídeos como exemplo mas disse para confirmar tudo o que tinha"
+    },
+    {
+      "id": "m32",
+      "timestamp": "2024-06-22T23:40:37",
+      "date": "2024-06-22",
+      "time": "23:40:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Apaguei oque está a filmar ao redor da obra",
+      "raw": "[22/06/24, 23:40:37] Loan Meireles - Bizan G roup Construções ICF Meireles: Apaguei oque está a filmar ao redor da obra"
+    },
+    {
+      "id": "m33",
+      "timestamp": "2024-06-22T23:40:43",
+      "date": "2024-06-22",
+      "time": "23:40:43",
+      "author": "Elita",
+      "type": "text",
+      "content": "E hoje enviei mais 2",
+      "raw": "[22/06/24, 23:40:43] Elita: E hoje enviei mais 2"
+    },
+    {
+      "id": "m34",
+      "timestamp": "2024-06-22T23:41:16",
+      "date": "2024-06-22",
+      "time": "23:41:16",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não",
+      "raw": "[22/06/24, 23:41:16] Elita: Não"
+    },
+    {
+      "id": "m35",
+      "timestamp": "2024-06-22T23:42:31",
+      "date": "2024-06-22",
+      "time": "23:42:31",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Já não vou filmar os exteriores.",
+      "raw": "[22/06/24, 23:42:31] Loan Meireles - Bizan G roup Construções ICF Meireles: Já não vou filmar os exteriores."
+    },
+    {
+      "id": "m36",
+      "timestamp": "2024-06-22T23:43:05",
+      "date": "2024-06-22",
+      "time": "23:43:05",
+      "author": "Elita",
+      "type": "text",
+      "content": "Já não filma mais nada",
+      "raw": "[22/06/24, 23:43:05] Elita: Já não filma mais nada"
+    },
+    {
+      "id": "m37",
+      "timestamp": "2024-06-22T23:47:20",
+      "date": "2024-06-22",
+      "time": "23:47:20",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Élita. Precisamos de divulgação do nosso material, como é novo no mercado. Vou respeitar a sua ordem, mais sempre tentei fazer o melhor que esteva ao meu alcance para ajudá-la.",
+      "raw": "[22/06/24, 23:47:20] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Élita. Precisamos de divulgação do nosso material, como é novo no mercado. Vou respeitar a sua ordem, mais sempre tentei fazer o melhor que esteva ao meu alcance para ajudá-la."
+    },
+    {
+      "id": "m38",
+      "timestamp": "2024-06-23T12:29:22",
+      "date": "2024-06-23",
+      "time": "12:29:22",
+      "author": "Elita",
+      "type": "text",
+      "content": "Você está a brincar comigo?\nAinda tem vídeos que mostram o exterior da minha obra!!! E num até a se ouve a minha voz!!!",
+      "raw": "[23/06/24, 12:29:22] Elita: Você está a brincar comigo?\nAinda tem vídeos que mostram o exterior da minha obra!!! E num até a se ouve a minha voz!!!"
+    },
+    {
+      "id": "m39",
+      "timestamp": "2024-06-25T16:37:37",
+      "date": "2024-06-25",
+      "time": "16:37:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "Documento nº PF 24PR2-00004.pdf • 2 páginas documento não revelado",
+      "raw": "[25/06/24, 16:37:37] Loan Meireles - Bizan G roup Construções ICF Meireles: Documento nº PF 24PR2-00004.pdf • 2 páginas documento não revelado"
+    },
+    {
+      "id": "m40",
+      "timestamp": "2024-06-26T09:03:34",
+      "date": "2024-06-26",
+      "time": "09:03:34",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom Dia Sr. Élita.",
+      "raw": "[26/06/24, 09:03:34] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom Dia Sr. Élita."
+    },
+    {
+      "id": "m41",
+      "timestamp": "2024-06-26T09:04:39",
+      "date": "2024-06-26",
+      "time": "09:04:39",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Poderiamos ver a questão do valor da tela e a parte de baixo do muro que foi chapiscado?",
+      "raw": "[26/06/24, 09:04:39] Loan Meireles - Bizan G roup Construções ICF Meireles: Poderiamos ver a questão do valor da tela e a parte de baixo do muro que foi chapiscado?"
+    },
+    {
+      "id": "m42",
+      "timestamp": "2024-08-01T17:17:23",
+      "date": "2024-08-01",
+      "time": "17:17:23",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000042-PHOTO-2024-08-01-17-17-24.jpg>",
+      "raw": "[01/08/24, 17:17:23] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000042-PHOTO-2024-08-01-17-17-24.jpg>",
+      "attachment": {
+        "fileName": "00000042-PHOTO-2024-08-01-17-17-24.jpg"
+      }
+    },
+    {
+      "id": "m43",
+      "timestamp": "2024-08-06T06:53:44",
+      "date": "2024-08-06",
+      "time": "06:53:44",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom Dia Sra. Élita",
+      "raw": "[06/08/24, 06:53:44] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom Dia Sra. Élita"
+    },
+    {
+      "id": "m44",
+      "timestamp": "2024-08-06T06:58:28",
+      "date": "2024-08-06",
+      "time": "06:58:28",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia",
+      "raw": "[06/08/24, 06:58:28] Elita: Bom dia"
+    },
+    {
+      "id": "m45",
+      "timestamp": "2024-08-06T06:58:58",
+      "date": "2024-08-06",
+      "time": "06:58:58",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "O Sr. Oliveira, vai passar agora a obra para deixar o material.",
+      "raw": "[06/08/24, 06:58:58] Loan Meireles - Bizan G roup Construções ICF Meireles: O Sr. Oliveira, vai passar agora a obra para deixar o material."
+    },
+    {
+      "id": "m46",
+      "timestamp": "2024-08-06T06:59:31",
+      "date": "2024-08-06",
+      "time": "06:59:31",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ele acabou de me ligar.",
+      "raw": "[06/08/24, 06:59:31] Loan Meireles - Bizan G roup Construções ICF Meireles: Ele acabou de me ligar."
+    },
+    {
+      "id": "m47",
+      "timestamp": "2024-08-06T06:59:56",
+      "date": "2024-08-06",
+      "time": "06:59:56",
+      "author": "Elita",
+      "type": "text",
+      "content": "Você vai lá estar?",
+      "raw": "[06/08/24, 06:59:56] Elita: Você vai lá estar?"
+    },
+    {
+      "id": "m48",
+      "timestamp": "2024-08-06T07:00:56",
+      "date": "2024-08-06",
+      "time": "07:00:56",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Vou a caminho de lá mais ele vai precisar descarregar coisas em Gaia também. Só se ele vir voltar mais tarde.",
+      "raw": "[06/08/24, 07:00:56] Loan Meireles - Bizan G roup Construções ICF Meireles: Vou a caminho de lá mais ele vai precisar descarregar coisas em Gaia também. Só se ele vir voltar mais tarde."
+    },
+    {
+      "id": "m49",
+      "timestamp": "2024-08-06T07:01:45",
+      "date": "2024-08-06",
+      "time": "07:01:45",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Hoje ele vai estar por aqui no Porto",
+      "raw": "[06/08/24, 07:01:45] Loan Meireles - Bizan G roup Construções ICF Meireles: Hoje ele vai estar por aqui no Porto"
+    },
+    {
+      "id": "m50",
+      "timestamp": "2024-08-06T07:02:27",
+      "date": "2024-08-06",
+      "time": "07:02:27",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok veja o que ele pretende fazer",
+      "raw": "[06/08/24, 07:02:27] Elita: Ok veja o que ele pretende fazer"
+    },
+    {
+      "id": "m51",
+      "timestamp": "2024-08-06T07:02:36",
+      "date": "2024-08-06",
+      "time": "07:02:36",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[06/08/24, 07:02:36] Loan Meireles - Bizan G roup Construções ICF Meireles: Ok"
+    },
+    {
+      "id": "m52",
+      "timestamp": "2024-08-06T07:03:12",
+      "date": "2024-08-06",
+      "time": "07:03:12",
+      "author": "Elita",
+      "type": "text",
+      "content": "Eu não estou bem",
+      "raw": "[06/08/24, 07:03:12] Elita: Eu não estou bem"
+    },
+    {
+      "id": "m53",
+      "timestamp": "2024-08-06T07:04:10",
+      "date": "2024-08-06",
+      "time": "07:04:10",
+      "author": "Elita",
+      "type": "text",
+      "content": "Vomitei toda a noite",
+      "raw": "[06/08/24, 07:04:10] Elita: Vomitei toda a noite"
+    },
+    {
+      "id": "m54",
+      "timestamp": "2024-08-06T07:05:00",
+      "date": "2024-08-06",
+      "time": "07:05:00",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Nossa Sra. Élita. As melhoras. 🙏🏼🙌🏽",
+      "raw": "[06/08/24, 07:05:00] Loan Meireles - Bizan G roup Construções ICF Meireles: Nossa Sra. Élita. As melhoras. 🙏🏼🙌🏽"
+    },
+    {
+      "id": "m55",
+      "timestamp": "2024-08-06T07:05:14",
+      "date": "2024-08-06",
+      "time": "07:05:14",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Vou conversar com ele.",
+      "raw": "[06/08/24, 07:05:14] Loan Meireles - Bizan G roup Construções ICF Meireles: Vou conversar com ele."
+    },
+    {
+      "id": "m56",
+      "timestamp": "2024-08-06T07:07:37",
+      "date": "2024-08-06",
+      "time": "07:07:37",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok obrigada",
+      "raw": "[06/08/24, 07:07:37] Elita: Ok obrigada"
+    },
+    {
+      "id": "m57",
+      "timestamp": "2024-08-06T20:20:16",
+      "date": "2024-08-06",
+      "time": "20:20:16",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "2 portas de 0.80 que abre com a aberta da esquerda para direita\n\n1 porta de 0.80 que abre da direita para esquerda\n\n3 portas de 1 metro que abre da esquerda para direita\n\n1 porta de correr (Cassete) 0,70",
+      "raw": "[06/08/24, 20:20:16] Loan Meireles - Bizan G roup Construções ICF Meireles: 2 portas de 0.80 que abre com a aberta da esquerda para direita\n\n1 porta de 0.80 que abre da direita para esquerda\n\n3 portas de 1 metro que abre da esquerda para direita\n\n1 porta de correr (Cassete) 0,70"
+    },
+    {
+      "id": "m58",
+      "timestamp": "2024-08-06T21:58:13",
+      "date": "2024-08-06",
+      "time": "21:58:13",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sr. Elita. Pode fazer o pagamento e depois acertamos a diferença do led, ok.",
+      "raw": "[06/08/24, 21:58:13] Loan Meireles - Bizan G roup Construções ICF Meireles: Sr. Elita. Pode fazer o pagamento e depois acertamos a diferença do led, ok."
+    },
+    {
+      "id": "m59",
+      "timestamp": "2024-08-06T21:59:45",
+      "date": "2024-08-06",
+      "time": "21:59:45",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Já avisei o Augusto para avançar. Assim que estiver o valor na conta dele ele já faz o pagamento de imediato.",
+      "raw": "[06/08/24, 21:59:45] Loan Meireles - Bizan G roup Construções ICF Meireles: Já avisei o Augusto para avançar. Assim que estiver o valor na conta dele ele já faz o pagamento de imediato."
+    },
+    {
+      "id": "m60",
+      "timestamp": "2024-08-06T22:00:14",
+      "date": "2024-08-06",
+      "time": "22:00:14",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[06/08/24, 22:00:14] Elita: Ok"
+    },
+    {
+      "id": "m61",
+      "timestamp": "2024-08-06T22:04:05",
+      "date": "2024-08-06",
+      "time": "22:04:05",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Boa Noite. Até amanhã. Cumprimentos.",
+      "raw": "[06/08/24, 22:04:05] Loan Meireles - Bizan G roup Construções ICF Meireles: Boa Noite. Até amanhã. Cumprimentos."
+    },
+    {
+      "id": "m62",
+      "timestamp": "2024-08-06T22:04:40",
+      "date": "2024-08-06",
+      "time": "22:04:40",
+      "author": "Elita",
+      "type": "text",
+      "content": "Pago",
+      "raw": "[06/08/24, 22:04:40] Elita: Pago"
+    },
+    {
+      "id": "m63",
+      "timestamp": "2024-08-06T22:04:45",
+      "date": "2024-08-06",
+      "time": "22:04:45",
+      "author": "Elita",
+      "type": "text",
+      "content": "Até amanhã",
+      "raw": "[06/08/24, 22:04:45] Elita: Até amanhã"
+    },
+    {
+      "id": "m64",
+      "timestamp": "2024-08-07T08:58:20",
+      "date": "2024-08-07",
+      "time": "08:58:20",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Kit Porta+Aro 200x80cm Carvalho-112 - 20023298 | MaxMat https://www.maxmat.pt/pt/na/kit-porta+aro-200x80cm-carvalho-112_p31319.html?id=804&cat=416&pc=3",
+      "raw": "[07/08/24, 08:58:20] Loan Meireles - Bizan G roup Construções ICF Meireles: Kit Porta+Aro 200x80cm Carvalho-112 - 20023298 | MaxMat https://www.maxmat.pt/pt/na/kit-porta+aro-200x80cm-carvalho-112_p31319.html?id=804&cat=416&pc=3"
+    },
+    {
+      "id": "m65",
+      "timestamp": "2024-08-07T12:27:41",
+      "date": "2024-08-07",
+      "time": "12:27:41",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000065-PHOTO-2024-08-07-12-27-42.jpg>",
+      "raw": "[07/08/24, 12:27:41] Elita: <anexo: 00000065-PHOTO-2024-08-07-12-27-42.jpg>",
+      "attachment": {
+        "fileName": "00000065-PHOTO-2024-08-07-12-27-42.jpg"
+      }
+    },
+    {
+      "id": "m66",
+      "timestamp": "2024-08-07T12:34:16",
+      "date": "2024-08-07",
+      "time": "12:34:16",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000066-PHOTO-2024-08-07-12-34-17.jpg>",
+      "raw": "[07/08/24, 12:34:16] Elita: <anexo: 00000066-PHOTO-2024-08-07-12-34-17.jpg>",
+      "attachment": {
+        "fileName": "00000066-PHOTO-2024-08-07-12-34-17.jpg"
+      }
+    },
+    {
+      "id": "m67",
+      "timestamp": "2024-08-07T13:09:14",
+      "date": "2024-08-07",
+      "time": "13:09:14",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "3 portas de 0.80 que abre com a aberta da esquerda para direita\n\n2 porta de 0.80 que abre da direita para esquerda\n\n2 portas de 1 metro que abre da esquerda para direita",
+      "raw": "[07/08/24, 13:09:14] Loan Meireles - Bizan G roup Construções ICF Meireles: 3 portas de 0.80 que abre com a aberta da esquerda para direita\n\n2 porta de 0.80 que abre da direita para esquerda\n\n2 portas de 1 metro que abre da esquerda para direita"
+    },
+    {
+      "id": "m68",
+      "timestamp": "2024-08-09T14:21:37",
+      "date": "2024-08-09",
+      "time": "14:21:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "contact",
+      "content": "<anexo: 00000068-Thiago JPL 2.vcf>",
+      "raw": "[09/08/24, 14:21:37] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000068-Thiago JPL 2.vcf>",
+      "attachment": {
+        "fileName": "00000068-Thiago JPL 2.vcf"
+      }
+    },
+    {
+      "id": "m69",
+      "timestamp": "2024-08-12T18:00:04",
+      "date": "2024-08-12",
+      "time": "18:00:04",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000069-PHOTO-2024-08-12-18-00-05.jpg>",
+      "raw": "[12/08/24, 18:00:04] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000069-PHOTO-2024-08-12-18-00-05.jpg>",
+      "attachment": {
+        "fileName": "00000069-PHOTO-2024-08-12-18-00-05.jpg"
+      }
+    },
+    {
+      "id": "m70",
+      "timestamp": "2024-08-12T18:00:26",
+      "date": "2024-08-12",
+      "time": "18:00:26",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000070-AUDIO-2024-08-12-18-00-27.opus>",
+      "raw": "[12/08/24, 18:00:26] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000070-AUDIO-2024-08-12-18-00-27.opus>",
+      "attachment": {
+        "fileName": "00000070-AUDIO-2024-08-12-18-00-27.opus"
+      }
+    },
+    {
+      "id": "m71",
+      "timestamp": "2024-08-12T18:03:50",
+      "date": "2024-08-12",
+      "time": "18:03:50",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[12/08/24, 18:03:50] Elita: Ok"
+    },
+    {
+      "id": "m72",
+      "timestamp": "2024-08-13T07:29:14",
+      "date": "2024-08-13",
+      "time": "07:29:14",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Meireles \nA que horas consegue chegar à minha obra?",
+      "raw": "[13/08/24, 07:29:14] Elita: Bom dia Sr Meireles \nA que horas consegue chegar à minha obra?"
+    },
+    {
+      "id": "m73",
+      "timestamp": "2024-08-13T07:29:15",
+      "date": "2024-08-13",
+      "time": "07:29:15",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[13/08/24, 07:29:15] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m74",
+      "timestamp": "2024-08-13T08:00:19",
+      "date": "2024-08-13",
+      "time": "08:00:19",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom dia Sra. Élita.",
+      "raw": "[13/08/24, 08:00:19] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom dia Sra. Élita."
+    },
+    {
+      "id": "m75",
+      "timestamp": "2024-08-13T08:00:44",
+      "date": "2024-08-13",
+      "time": "08:00:44",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Por Volta das 09:00",
+      "raw": "[13/08/24, 08:00:44] Loan Meireles - Bizan G roup Construções ICF Meireles: Por Volta das 09:00"
+    },
+    {
+      "id": "m76",
+      "timestamp": "2024-08-13T08:09:43",
+      "date": "2024-08-13",
+      "time": "08:09:43",
+      "author": "Elita",
+      "type": "text",
+      "content": "É tarde para mim",
+      "raw": "[13/08/24, 08:09:43] Elita: É tarde para mim"
+    },
+    {
+      "id": "m77",
+      "timestamp": "2024-08-13T08:09:54",
+      "date": "2024-08-13",
+      "time": "08:09:54",
+      "author": "Elita",
+      "type": "text",
+      "content": "Preciso falar consigo",
+      "raw": "[13/08/24, 08:09:54] Elita: Preciso falar consigo"
+    },
+    {
+      "id": "m78",
+      "timestamp": "2024-08-13T08:11:41",
+      "date": "2024-08-13",
+      "time": "08:11:41",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Quer conversar aqui na Póvoa?",
+      "raw": "[13/08/24, 08:11:41] Loan Meireles - Bizan G roup Construções ICF Meireles: Quer conversar aqui na Póvoa?"
+    },
+    {
+      "id": "m79",
+      "timestamp": "2024-08-13T08:15:05",
+      "date": "2024-08-13",
+      "time": "08:15:05",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "É que não consigo estar aí antes das 09:00, pois estou em navais.",
+      "raw": "[13/08/24, 08:15:05] Loan Meireles - Bizan G roup Construções ICF Meireles: É que não consigo estar aí antes das 09:00, pois estou em navais."
+    },
+    {
+      "id": "m80",
+      "timestamp": "2024-08-21T15:34:45",
+      "date": "2024-08-21",
+      "time": "15:34:45",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000080-PHOTO-2024-08-21-15-34-46.jpg>",
+      "raw": "[21/08/24, 15:34:45] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000080-PHOTO-2024-08-21-15-34-46.jpg>",
+      "attachment": {
+        "fileName": "00000080-PHOTO-2024-08-21-15-34-46.jpg"
+      }
+    },
+    {
+      "id": "m81",
+      "timestamp": "2024-08-21T17:06:24",
+      "date": "2024-08-21",
+      "time": "17:06:24",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Mónica, não esqueça de mandar ainda hoje as faturas das compras de matérias, por favor. Obrigado.",
+      "raw": "[21/08/24, 17:06:24] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Mónica, não esqueça de mandar ainda hoje as faturas das compras de matérias, por favor. Obrigado."
+    },
+    {
+      "id": "m82",
+      "timestamp": "2024-08-21T20:47:18",
+      "date": "2024-08-21",
+      "time": "20:47:18",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Mônica, preciso mesmo das faturas o quanto antes, por favor. Preciso samar todos os valores que vão ser descontos dos materiais que você comprou.",
+      "raw": "[21/08/24, 20:47:18] Loan Meireles - Bizan G roup Construções ICF Meireles: Mônica, preciso mesmo das faturas o quanto antes, por favor. Preciso samar todos os valores que vão ser descontos dos materiais que você comprou."
+    },
+    {
+      "id": "m83",
+      "timestamp": "2024-08-21T20:47:30",
+      "date": "2024-08-21",
+      "time": "20:47:30",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*Somar",
+      "raw": "[21/08/24, 20:47:30] Loan Meireles - Bizan G roup Construções ICF Meireles: *Somar"
+    },
+    {
+      "id": "m84",
+      "timestamp": "2024-08-22T15:49:56",
+      "date": "2024-08-22",
+      "time": "15:49:56",
+      "author": "Elita",
+      "type": "text",
+      "content": "Preciso enviar para o homem do granitos a medida da caixilharia",
+      "raw": "[22/08/24, 15:49:56] Elita: Preciso enviar para o homem do granitos a medida da caixilharia"
+    },
+    {
+      "id": "m85",
+      "timestamp": "2024-08-22T15:50:48",
+      "date": "2024-08-22",
+      "time": "15:50:48",
+      "author": "Elita",
+      "type": "text",
+      "content": "A espessura de cada janela e portas",
+      "raw": "[22/08/24, 15:50:48] Elita: A espessura de cada janela e portas"
+    },
+    {
+      "id": "m86",
+      "timestamp": "2024-08-22T15:50:53",
+      "date": "2024-08-22",
+      "time": "15:50:53",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ainda hoje",
+      "raw": "[22/08/24, 15:50:53] Elita: Ainda hoje"
+    },
+    {
+      "id": "m87",
+      "timestamp": "2024-08-22T17:05:00",
+      "date": "2024-08-22",
+      "time": "17:05:00",
+      "author": "Elita",
+      "type": "text",
+      "content": "Só para ficar registado e não esquecer \nToda a caixilharia tem 7 cm\n\nCerto?",
+      "raw": "[22/08/24, 17:05:00] Elita: Só para ficar registado e não esquecer \nToda a caixilharia tem 7 cm\n\nCerto?"
+    },
+    {
+      "id": "m88",
+      "timestamp": "2024-08-22T17:05:10",
+      "date": "2024-08-22",
+      "time": "17:05:10",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sim",
+      "raw": "[22/08/24, 17:05:10] Loan Meireles - Bizan G roup Construções ICF Meireles: Sim"
+    },
+    {
+      "id": "m89",
+      "timestamp": "2024-08-22T17:05:19",
+      "date": "2024-08-22",
+      "time": "17:05:19",
+      "author": "Elita",
+      "type": "text",
+      "content": "Inclui porta principal",
+      "raw": "[22/08/24, 17:05:19] Elita: Inclui porta principal"
+    },
+    {
+      "id": "m90",
+      "timestamp": "2024-08-22T17:05:32",
+      "date": "2024-08-22",
+      "time": "17:05:32",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sim",
+      "raw": "[22/08/24, 17:05:32] Loan Meireles - Bizan G roup Construções ICF Meireles: Sim"
+    },
+    {
+      "id": "m91",
+      "timestamp": "2024-08-23T12:06:36",
+      "date": "2024-08-23",
+      "time": "12:06:36",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000091-PHOTO-2024-08-23-12-06-37.jpg>",
+      "raw": "[23/08/24, 12:06:36] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000091-PHOTO-2024-08-23-12-06-37.jpg>",
+      "attachment": {
+        "fileName": "00000091-PHOTO-2024-08-23-12-06-37.jpg"
+      }
+    },
+    {
+      "id": "m92",
+      "timestamp": "2024-08-23T12:11:49",
+      "date": "2024-08-23",
+      "time": "12:11:49",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000092-PHOTO-2024-08-23-12-11-50.jpg>",
+      "raw": "[23/08/24, 12:11:49] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000092-PHOTO-2024-08-23-12-11-50.jpg>",
+      "attachment": {
+        "fileName": "00000092-PHOTO-2024-08-23-12-11-50.jpg"
+      }
+    },
+    {
+      "id": "m93",
+      "timestamp": "2024-08-23T12:12:24",
+      "date": "2024-08-23",
+      "time": "12:12:24",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Estores",
+      "raw": "[23/08/24, 12:12:24] Loan Meireles - Bizan G roup Construções ICF Meireles: Estores"
+    },
+    {
+      "id": "m94",
+      "timestamp": "2024-08-23T13:02:30",
+      "date": "2024-08-23",
+      "time": "13:02:30",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000094-PHOTO-2024-08-23-13-02-31.jpg>",
+      "raw": "[23/08/24, 13:02:30] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000094-PHOTO-2024-08-23-13-02-31.jpg>",
+      "attachment": {
+        "fileName": "00000094-PHOTO-2024-08-23-13-02-31.jpg"
+      }
+    },
+    {
+      "id": "m95",
+      "timestamp": "2024-08-23T13:03:06",
+      "date": "2024-08-23",
+      "time": "13:03:06",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000095-AUDIO-2024-08-23-13-03-07.opus>",
+      "raw": "[23/08/24, 13:03:06] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000095-AUDIO-2024-08-23-13-03-07.opus>",
+      "attachment": {
+        "fileName": "00000095-AUDIO-2024-08-23-13-03-07.opus"
+      }
+    },
+    {
+      "id": "m96",
+      "timestamp": "2024-08-23T13:10:11",
+      "date": "2024-08-23",
+      "time": "13:10:11",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Mónica, posso passar aí na loja na parte da tarde? Precisava conversar com a Sra. Mónica pessoalmente.",
+      "raw": "[23/08/24, 13:10:11] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Mónica, posso passar aí na loja na parte da tarde? Precisava conversar com a Sra. Mónica pessoalmente."
+    },
+    {
+      "id": "m97",
+      "timestamp": "2024-08-23T13:21:24",
+      "date": "2024-08-23",
+      "time": "13:21:24",
+      "author": "Elita",
+      "type": "text",
+      "content": "Vou estar com clientes \nNão sei a que horas estarei livre",
+      "raw": "[23/08/24, 13:21:24] Elita: Vou estar com clientes \nNão sei a que horas estarei livre"
+    },
+    {
+      "id": "m98",
+      "timestamp": "2024-08-23T13:34:39",
+      "date": "2024-08-23",
+      "time": "13:34:39",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000098-AUDIO-2024-08-23-13-34-40.opus>",
+      "raw": "[23/08/24, 13:34:39] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000098-AUDIO-2024-08-23-13-34-40.opus>",
+      "attachment": {
+        "fileName": "00000098-AUDIO-2024-08-23-13-34-40.opus"
+      }
+    },
+    {
+      "id": "m99",
+      "timestamp": "2024-08-23T13:37:13",
+      "date": "2024-08-23",
+      "time": "13:37:13",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Precisamos resolver hoje sem falta.",
+      "raw": "[23/08/24, 13:37:13] Loan Meireles - Bizan G roup Construções ICF Meireles: Precisamos resolver hoje sem falta."
+    },
+    {
+      "id": "m100",
+      "timestamp": "2024-08-27T16:33:05",
+      "date": "2024-08-27",
+      "time": "16:33:05",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000100-PHOTO-2024-08-27-16-33-06.jpg>",
+      "raw": "[27/08/24, 16:33:05] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000100-PHOTO-2024-08-27-16-33-06.jpg>",
+      "attachment": {
+        "fileName": "00000100-PHOTO-2024-08-27-16-33-06.jpg"
+      }
+    },
+    {
+      "id": "m101",
+      "timestamp": "2024-08-28T15:50:28",
+      "date": "2024-08-28",
+      "time": "15:50:28",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "video",
+      "content": "<anexo: 00000101-VIDEO-2024-08-28-15-50-29.mp4>",
+      "raw": "[28/08/24, 15:50:28] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000101-VIDEO-2024-08-28-15-50-29.mp4>",
+      "attachment": {
+        "fileName": "00000101-VIDEO-2024-08-28-15-50-29.mp4"
+      }
+    },
+    {
+      "id": "m102",
+      "timestamp": "2024-08-30T12:06:54",
+      "date": "2024-08-30",
+      "time": "12:06:54",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000102-PHOTO-2024-08-30-12-06-55.jpg>",
+      "raw": "[30/08/24, 12:06:54] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000102-PHOTO-2024-08-30-12-06-55.jpg>",
+      "attachment": {
+        "fileName": "00000102-PHOTO-2024-08-30-12-06-55.jpg"
+      }
+    },
+    {
+      "id": "m103",
+      "timestamp": "2024-09-02T08:17:33",
+      "date": "2024-09-02",
+      "time": "08:17:33",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom Dia Sra. Mónica.",
+      "raw": "[02/09/24, 08:17:33] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom Dia Sra. Mónica."
+    },
+    {
+      "id": "m104",
+      "timestamp": "2024-09-02T10:30:05",
+      "date": "2024-09-02",
+      "time": "10:30:05",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Meireles",
+      "raw": "[02/09/24, 10:30:05] Elita: Bom dia Sr Meireles"
+    },
+    {
+      "id": "m105",
+      "timestamp": "2024-09-02T11:56:02",
+      "date": "2024-09-02",
+      "time": "11:56:02",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000105-PHOTO-2024-09-02-11-56-03.jpg>",
+      "raw": "[02/09/24, 11:56:02] Elita: <anexo: 00000105-PHOTO-2024-09-02-11-56-03.jpg>",
+      "attachment": {
+        "fileName": "00000105-PHOTO-2024-09-02-11-56-03.jpg"
+      }
+    },
+    {
+      "id": "m106",
+      "timestamp": "2024-09-03T11:00:32",
+      "date": "2024-09-03",
+      "time": "11:00:32",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Videochamada  2 min",
+      "raw": "[03/09/24, 11:00:32] Loan Meireles - Bizan G roup Construções ICF Meireles: Videochamada  2 min"
+    },
+    {
+      "id": "m107",
+      "timestamp": "2024-09-05T11:33:58",
+      "date": "2024-09-05",
+      "time": "11:33:58",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000107-AUDIO-2024-09-05-11-33-59.opus>",
+      "raw": "[05/09/24, 11:33:58] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000107-AUDIO-2024-09-05-11-33-59.opus>",
+      "attachment": {
+        "fileName": "00000107-AUDIO-2024-09-05-11-33-59.opus"
+      }
+    },
+    {
+      "id": "m108",
+      "timestamp": "2024-09-05T12:10:54",
+      "date": "2024-09-05",
+      "time": "12:10:54",
+      "author": "Elita",
+      "type": "text",
+      "content": "Olá Meireles a caminho do Porto\nAmanhã falamos por favor",
+      "raw": "[05/09/24, 12:10:54] Elita: Olá Meireles a caminho do Porto\nAmanhã falamos por favor"
+    },
+    {
+      "id": "m109",
+      "timestamp": "2024-09-05T12:12:27",
+      "date": "2024-09-05",
+      "time": "12:12:27",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ok. Sra. Mônica.",
+      "raw": "[05/09/24, 12:12:27] Loan Meireles - Bizan G roup Construções ICF Meireles: Ok. Sra. Mônica."
+    },
+    {
+      "id": "m110",
+      "timestamp": "2024-09-06T09:15:13",
+      "date": "2024-09-06",
+      "time": "09:15:13",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom Dia Sra. Mónica.",
+      "raw": "[06/09/24, 09:15:13] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom Dia Sra. Mónica."
+    },
+    {
+      "id": "m111",
+      "timestamp": "2024-09-07T09:42:59",
+      "date": "2024-09-07",
+      "time": "09:42:59",
+      "author": "Elita",
+      "type": "text",
+      "content": "Para levantar 100€, dirija-se ao MULTIBANCO mais próximo, carregue na tecla verde e escolha a opção \"Levantar Dinheiro\". Introduza o código 806 645 738 6. Este código é válido por 30 minutos.",
+      "raw": "[07/09/24, 09:42:59] Elita: Para levantar 100€, dirija-se ao MULTIBANCO mais próximo, carregue na tecla verde e escolha a opção \"Levantar Dinheiro\". Introduza o código 806 645 738 6. Este código é válido por 30 minutos."
+    },
+    {
+      "id": "m112",
+      "timestamp": "2024-09-07T09:43:01",
+      "date": "2024-09-07",
+      "time": "09:43:01",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[07/09/24, 09:43:01] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m113",
+      "timestamp": "2024-09-07T09:43:09",
+      "date": "2024-09-07",
+      "time": "09:43:09",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[07/09/24, 09:43:09] Loan Meireles - Bizan G roup Construções ICF Meireles: Ok"
+    },
+    {
+      "id": "m114",
+      "timestamp": "2024-09-07T16:31:55",
+      "date": "2024-09-07",
+      "time": "16:31:55",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "video",
+      "content": "Focos <anexo: 00000114-VIDEO-2024-09-07-16-31-56.mp4>",
+      "raw": "[07/09/24, 16:31:55] Loan Meireles - Bizan G roup Construções ICF Meireles: Focos <anexo: 00000114-VIDEO-2024-09-07-16-31-56.mp4>",
+      "attachment": {
+        "fileName": "00000114-VIDEO-2024-09-07-16-31-56.mp4"
+      }
+    },
+    {
+      "id": "m115",
+      "timestamp": "2024-09-07T16:33:40",
+      "date": "2024-09-07",
+      "time": "16:33:40",
+      "author": "Elita",
+      "type": "text",
+      "content": "Tem boa luz?",
+      "raw": "[07/09/24, 16:33:40] Elita: Tem boa luz?"
+    },
+    {
+      "id": "m116",
+      "timestamp": "2024-09-07T16:33:49",
+      "date": "2024-09-07",
+      "time": "16:33:49",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sim",
+      "raw": "[07/09/24, 16:33:49] Loan Meireles - Bizan G roup Construções ICF Meireles: Sim"
+    },
+    {
+      "id": "m117",
+      "timestamp": "2024-09-07T16:34:00",
+      "date": "2024-09-07",
+      "time": "16:34:00",
+      "author": "Elita",
+      "type": "text",
+      "content": "Obrigada",
+      "raw": "[07/09/24, 16:34:00] Elita: Obrigada"
+    },
+    {
+      "id": "m118",
+      "timestamp": "2024-09-07T16:35:01",
+      "date": "2024-09-07",
+      "time": "16:35:01",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "De nada",
+      "raw": "[07/09/24, 16:35:01] Loan Meireles - Bizan G roup Construções ICF Meireles: De nada"
+    },
+    {
+      "id": "m119",
+      "timestamp": "2024-09-09T08:44:29",
+      "date": "2024-09-09",
+      "time": "08:44:29",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000119-AUDIO-2024-09-09-08-44-30.opus>",
+      "raw": "[09/09/24, 08:44:29] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000119-AUDIO-2024-09-09-08-44-30.opus>",
+      "attachment": {
+        "fileName": "00000119-AUDIO-2024-09-09-08-44-30.opus"
+      }
+    },
+    {
+      "id": "m120",
+      "timestamp": "2024-09-09T18:21:33",
+      "date": "2024-09-09",
+      "time": "18:21:33",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000120-PHOTO-2024-09-09-18-21-33.jpg>",
+      "raw": "[09/09/24, 18:21:33] Elita: <anexo: 00000120-PHOTO-2024-09-09-18-21-33.jpg>",
+      "attachment": {
+        "fileName": "00000120-PHOTO-2024-09-09-18-21-33.jpg"
+      }
+    },
+    {
+      "id": "m121",
+      "timestamp": "2024-09-09T18:21:35",
+      "date": "2024-09-09",
+      "time": "18:21:35",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[09/09/24, 18:21:35] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m122",
+      "timestamp": "2024-09-09T18:21:40",
+      "date": "2024-09-09",
+      "time": "18:21:40",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000122-PHOTO-2024-09-09-18-21-41.jpg>",
+      "raw": "[09/09/24, 18:21:40] Elita: <anexo: 00000122-PHOTO-2024-09-09-18-21-41.jpg>",
+      "attachment": {
+        "fileName": "00000122-PHOTO-2024-09-09-18-21-41.jpg"
+      }
+    },
+    {
+      "id": "m123",
+      "timestamp": "2024-09-09T18:22:26",
+      "date": "2024-09-09",
+      "time": "18:22:26",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[09/09/24, 18:22:26] Loan Meireles - Bizan G roup Construções ICF Meireles: Ok"
+    },
+    {
+      "id": "m124",
+      "timestamp": "2024-09-11T10:12:49",
+      "date": "2024-09-11",
+      "time": "10:12:49",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000124-PHOTO-2024-09-11-10-12-50.jpg>",
+      "raw": "[11/09/24, 10:12:49] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000124-PHOTO-2024-09-11-10-12-50.jpg>",
+      "attachment": {
+        "fileName": "00000124-PHOTO-2024-09-11-10-12-50.jpg"
+      }
+    },
+    {
+      "id": "m125",
+      "timestamp": "2024-09-20T12:27:43",
+      "date": "2024-09-20",
+      "time": "12:27:43",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000125-PHOTO-2024-09-20-12-27-44.jpg>",
+      "raw": "[20/09/24, 12:27:43] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000125-PHOTO-2024-09-20-12-27-44.jpg>",
+      "attachment": {
+        "fileName": "00000125-PHOTO-2024-09-20-12-27-44.jpg"
+      }
+    },
+    {
+      "id": "m126",
+      "timestamp": "2024-09-23T09:21:57",
+      "date": "2024-09-23",
+      "time": "09:21:57",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000126-PHOTO-2024-09-23-09-21-58.jpg>",
+      "raw": "[23/09/24, 09:21:57] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000126-PHOTO-2024-09-23-09-21-58.jpg>",
+      "attachment": {
+        "fileName": "00000126-PHOTO-2024-09-23-09-21-58.jpg"
+      }
+    },
+    {
+      "id": "m127",
+      "timestamp": "2024-09-24T09:42:49",
+      "date": "2024-09-24",
+      "time": "09:42:49",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia \nAgora Desliga-me o telefone!?",
+      "raw": "[24/09/24, 09:42:49] Elita: Bom dia \nAgora Desliga-me o telefone!?"
+    },
+    {
+      "id": "m128",
+      "timestamp": "2024-09-25T18:04:40",
+      "date": "2024-09-25",
+      "time": "18:04:40",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000128-VIDEO-2024-09-25-18-04-40.mov>",
+      "raw": "[25/09/24, 18:04:40] Elita: <anexo: 00000128-VIDEO-2024-09-25-18-04-40.mov>",
+      "attachment": {
+        "fileName": "00000128-VIDEO-2024-09-25-18-04-40.mov"
+      }
+    },
+    {
+      "id": "m129",
+      "timestamp": "2024-09-25T18:04:50",
+      "date": "2024-09-25",
+      "time": "18:04:50",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000129-VIDEO-2024-09-25-18-04-50.mov>",
+      "raw": "[25/09/24, 18:04:50] Elita: <anexo: 00000129-VIDEO-2024-09-25-18-04-50.mov>",
+      "attachment": {
+        "fileName": "00000129-VIDEO-2024-09-25-18-04-50.mov"
+      }
+    },
+    {
+      "id": "m130",
+      "timestamp": "2024-09-25T18:05:29",
+      "date": "2024-09-25",
+      "time": "18:05:29",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[25/09/24, 18:05:29] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m131",
+      "timestamp": "2024-09-25T18:07:04",
+      "date": "2024-09-25",
+      "time": "18:07:04",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000131-AUDIO-2024-09-25-18-07-05.opus>",
+      "raw": "[25/09/24, 18:07:04] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000131-AUDIO-2024-09-25-18-07-05.opus>",
+      "attachment": {
+        "fileName": "00000131-AUDIO-2024-09-25-18-07-05.opus"
+      }
+    },
+    {
+      "id": "m132",
+      "timestamp": "2024-09-28T09:01:46",
+      "date": "2024-09-28",
+      "time": "09:01:46",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Meireles \nJá falou com o Sr Oliveira?\nA que horas ele vai á obra?",
+      "raw": "[28/09/24, 09:01:46] Elita: Bom dia Sr Meireles \nJá falou com o Sr Oliveira?\nA que horas ele vai á obra?"
+    },
+    {
+      "id": "m133",
+      "timestamp": "2024-09-28T09:09:46",
+      "date": "2024-09-28",
+      "time": "09:09:46",
+      "author": "Elita",
+      "type": "text",
+      "content": "A lista que lhe dei ontem sobre o que falta fazer está incompleta",
+      "raw": "[28/09/24, 09:09:46] Elita: A lista que lhe dei ontem sobre o que falta fazer está incompleta"
+    },
+    {
+      "id": "m134",
+      "timestamp": "2024-09-28T09:16:03",
+      "date": "2024-09-28",
+      "time": "09:16:03",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[28/09/24, 09:16:03] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m135",
+      "timestamp": "2024-09-28T09:34:03",
+      "date": "2024-09-28",
+      "time": "09:34:03",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom Dia Sra. Mónica. Falei com ele. Ele vai ver que horas consegue passar na obra na parte da tarde.",
+      "raw": "[28/09/24, 09:34:03] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom Dia Sra. Mónica. Falei com ele. Ele vai ver que horas consegue passar na obra na parte da tarde."
+    },
+    {
+      "id": "m136",
+      "timestamp": "2024-09-28T09:34:34",
+      "date": "2024-09-28",
+      "time": "09:34:34",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Oque falta?",
+      "raw": "[28/09/24, 09:34:34] Loan Meireles - Bizan G roup Construções ICF Meireles: Oque falta?"
+    },
+    {
+      "id": "m137",
+      "timestamp": "2024-09-28T11:19:52",
+      "date": "2024-09-28",
+      "time": "11:19:52",
+      "author": "Elita",
+      "type": "text",
+      "content": "A aplicação/mão de obra do vinil\nOs rodapés e aplicação \nÉ para além dos materiais que ainda faltam de eletricidade e pichilaria também tem mão de obra \nColocação de 2 portas interiores \nAntes da pintura interior tem que emassar o pladur",
+      "raw": "[28/09/24, 11:19:52] Elita: A aplicação/mão de obra do vinil\nOs rodapés e aplicação \nÉ para além dos materiais que ainda faltam de eletricidade e pichilaria também tem mão de obra \nColocação de 2 portas interiores \nAntes da pintura interior tem que emassar o pladur"
+    },
+    {
+      "id": "m138",
+      "timestamp": "2024-09-28T11:26:09",
+      "date": "2024-09-28",
+      "time": "11:26:09",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000138-AUDIO-2024-09-28-11-26-10.opus>",
+      "raw": "[28/09/24, 11:26:09] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000138-AUDIO-2024-09-28-11-26-10.opus>",
+      "attachment": {
+        "fileName": "00000138-AUDIO-2024-09-28-11-26-10.opus"
+      }
+    },
+    {
+      "id": "m139",
+      "timestamp": "2024-09-28T11:30:44",
+      "date": "2024-09-28",
+      "time": "11:30:44",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok seja como for desde que fique bem",
+      "raw": "[28/09/24, 11:30:44] Elita: Ok seja como for desde que fique bem"
+    },
+    {
+      "id": "m140",
+      "timestamp": "2024-09-30T17:41:11",
+      "date": "2024-09-30",
+      "time": "17:41:11",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "48.811,85€ Mão de obra",
+      "raw": "[30/09/24, 17:41:11] Loan Meireles - Bizan G roup Construções ICF Meireles: 48.811,85€ Mão de obra"
+    },
+    {
+      "id": "m141",
+      "timestamp": "2024-09-30T17:46:26",
+      "date": "2024-09-30",
+      "time": "17:46:26",
+      "author": "Elita",
+      "type": "text",
+      "content": "Identificação da Bizan",
+      "raw": "[30/09/24, 17:46:26] Elita: Identificação da Bizan"
+    },
+    {
+      "id": "m142",
+      "timestamp": "2024-09-30T17:46:39",
+      "date": "2024-09-30",
+      "time": "17:46:39",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "517683270",
+      "raw": "[30/09/24, 17:46:39] Loan Meireles - Bizan G roup Construções ICF Meireles: 517683270"
+    },
+    {
+      "id": "m143",
+      "timestamp": "2024-09-30T17:47:02",
+      "date": "2024-09-30",
+      "time": "17:47:02",
+      "author": "Elita",
+      "type": "text",
+      "content": "Nome completo",
+      "raw": "[30/09/24, 17:47:02] Elita: Nome completo"
+    },
+    {
+      "id": "m144",
+      "timestamp": "2024-09-30T17:47:11",
+      "date": "2024-09-30",
+      "time": "17:47:11",
+      "author": "Elita",
+      "type": "text",
+      "content": "Morada da furnas",
+      "raw": "[30/09/24, 17:47:11] Elita: Morada da furnas"
+    },
+    {
+      "id": "m145",
+      "timestamp": "2024-09-30T17:47:11",
+      "date": "2024-09-30",
+      "time": "17:47:11",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bizan Group Construções",
+      "raw": "[30/09/24, 17:47:11] Loan Meireles - Bizan G roup Construções ICF Meireles: Bizan Group Construções"
+    },
+    {
+      "id": "m146",
+      "timestamp": "2024-09-30T17:47:20",
+      "date": "2024-09-30",
+      "time": "17:47:20",
+      "author": "Elita",
+      "type": "text",
+      "content": "Firma",
+      "raw": "[30/09/24, 17:47:20] Elita: Firma"
+    },
+    {
+      "id": "m147",
+      "timestamp": "2024-09-30T17:48:01",
+      "date": "2024-09-30",
+      "time": "17:48:01",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Rua Antonio Gomes Soares Pereira, 88, Maia",
+      "raw": "[30/09/24, 17:48:01] Loan Meireles - Bizan G roup Construções ICF Meireles: Rua Antonio Gomes Soares Pereira, 88, Maia"
+    },
+    {
+      "id": "m148",
+      "timestamp": "2024-10-01T19:57:46",
+      "date": "2024-10-01",
+      "time": "19:57:46",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000148-PHOTO-2024-10-01-19-57-47.jpg>",
+      "raw": "[01/10/24, 19:57:46] Elita: <anexo: 00000148-PHOTO-2024-10-01-19-57-47.jpg>",
+      "attachment": {
+        "fileName": "00000148-PHOTO-2024-10-01-19-57-47.jpg"
+      }
+    },
+    {
+      "id": "m149",
+      "timestamp": "2024-10-01T19:57:46",
+      "date": "2024-10-01",
+      "time": "19:57:46",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000149-PHOTO-2024-10-01-19-57-47.jpg>",
+      "raw": "[01/10/24, 19:57:46] Elita: <anexo: 00000149-PHOTO-2024-10-01-19-57-47.jpg>",
+      "attachment": {
+        "fileName": "00000149-PHOTO-2024-10-01-19-57-47.jpg"
+      }
+    },
+    {
+      "id": "m150",
+      "timestamp": "2024-10-01T20:32:16",
+      "date": "2024-10-01",
+      "time": "20:32:16",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[01/10/24, 20:32:16] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m151",
+      "timestamp": "2024-10-02T13:52:47",
+      "date": "2024-10-02",
+      "time": "13:52:47",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "deleted",
+      "content": "Esta mensagem foi eliminada.",
+      "raw": "[02/10/24, 13:52:47] Loan Meireles - Bizan G roup Construções ICF Meireles: Esta mensagem foi eliminada."
+    },
+    {
+      "id": "m152",
+      "timestamp": "2024-10-02T13:53:36",
+      "date": "2024-10-02",
+      "time": "13:53:36",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "video",
+      "content": "<anexo: 00000152-VIDEO-2024-10-02-13-53-37.mp4>",
+      "raw": "[02/10/24, 13:53:36] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000152-VIDEO-2024-10-02-13-53-37.mp4>",
+      "attachment": {
+        "fileName": "00000152-VIDEO-2024-10-02-13-53-37.mp4"
+      }
+    },
+    {
+      "id": "m153",
+      "timestamp": "2024-10-03T12:26:30",
+      "date": "2024-10-03",
+      "time": "12:26:30",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Mónica",
+      "raw": "[03/10/24, 12:26:30] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Mónica"
+    },
+    {
+      "id": "m154",
+      "timestamp": "2024-10-03T12:26:49",
+      "date": "2024-10-03",
+      "time": "12:26:49",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Precisa muito que você viesse aqui hoje",
+      "raw": "[03/10/24, 12:26:49] Loan Meireles - Bizan G roup Construções ICF Meireles: Precisa muito que você viesse aqui hoje"
+    },
+    {
+      "id": "m155",
+      "timestamp": "2024-10-03T12:27:08",
+      "date": "2024-10-03",
+      "time": "12:27:08",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Seria mesmo rápido.",
+      "raw": "[03/10/24, 12:27:08] Loan Meireles - Bizan G roup Construções ICF Meireles: Seria mesmo rápido."
+    },
+    {
+      "id": "m156",
+      "timestamp": "2024-10-03T12:41:38",
+      "date": "2024-10-03",
+      "time": "12:41:38",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ligue me",
+      "raw": "[03/10/24, 12:41:38] Elita: Ligue me"
+    },
+    {
+      "id": "m157",
+      "timestamp": "2024-10-03T17:50:33",
+      "date": "2024-10-03",
+      "time": "17:50:33",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000157-PHOTO-2024-10-03-17-50-34.jpg>",
+      "raw": "[03/10/24, 17:50:33] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000157-PHOTO-2024-10-03-17-50-34.jpg>",
+      "attachment": {
+        "fileName": "00000157-PHOTO-2024-10-03-17-50-34.jpg"
+      }
+    },
+    {
+      "id": "m158",
+      "timestamp": "2024-10-03T17:50:37",
+      "date": "2024-10-03",
+      "time": "17:50:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "OR 2024_180.pdf • 2 páginas <anexo: 00000158-OR 2024_180.pdf>",
+      "raw": "[03/10/24, 17:50:37] Loan Meireles - Bizan G roup Construções ICF Meireles: OR 2024_180.pdf • 2 páginas <anexo: 00000158-OR 2024_180.pdf>",
+      "attachment": {
+        "fileName": "00000158-OR 2024_180.pdf"
+      }
+    },
+    {
+      "id": "m159",
+      "timestamp": "2024-10-03T17:50:37",
+      "date": "2024-10-03",
+      "time": "17:50:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "Declaração.pdf • 4 páginas <anexo: 00000159-Declaração.pdf>",
+      "raw": "[03/10/24, 17:50:37] Loan Meireles - Bizan G roup Construções ICF Meireles: Declaração.pdf • 4 páginas <anexo: 00000159-Declaração.pdf>",
+      "attachment": {
+        "fileName": "00000159-Declaração.pdf"
+      }
+    },
+    {
+      "id": "m160",
+      "timestamp": "2024-10-03T18:18:16",
+      "date": "2024-10-03",
+      "time": "18:18:16",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Videochamada perdida  Toque para devolver a chamada",
+      "raw": "[03/10/24, 18:18:16] Loan Meireles - Bizan G roup Construções ICF Meireles: Videochamada perdida  Toque para devolver a chamada"
+    },
+    {
+      "id": "m161",
+      "timestamp": "2024-10-03T18:18:38",
+      "date": "2024-10-03",
+      "time": "18:18:38",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Chamada de voz perdida  Toque para devolver a chamada",
+      "raw": "[03/10/24, 18:18:38] Loan Meireles - Bizan G roup Construções ICF Meireles: Chamada de voz perdida  Toque para devolver a chamada"
+    },
+    {
+      "id": "m162",
+      "timestamp": "2024-10-03T18:19:03",
+      "date": "2024-10-03",
+      "time": "18:19:03",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ligue me",
+      "raw": "[03/10/24, 18:19:03] Loan Meireles - Bizan G roup Construções ICF Meireles: Ligue me"
+    },
+    {
+      "id": "m163",
+      "timestamp": "2024-10-03T18:19:43",
+      "date": "2024-10-03",
+      "time": "18:19:43",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000163-PHOTO-2024-10-03-18-19-44.jpg>",
+      "raw": "[03/10/24, 18:19:43] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000163-PHOTO-2024-10-03-18-19-44.jpg>",
+      "attachment": {
+        "fileName": "00000163-PHOTO-2024-10-03-18-19-44.jpg"
+      }
+    },
+    {
+      "id": "m164",
+      "timestamp": "2024-10-03T18:20:19",
+      "date": "2024-10-03",
+      "time": "18:20:19",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Chamada de voz perdida  Toque para devolver a chamada",
+      "raw": "[03/10/24, 18:20:19] Loan Meireles - Bizan G roup Construções ICF Meireles: Chamada de voz perdida  Toque para devolver a chamada"
+    },
+    {
+      "id": "m165",
+      "timestamp": "2024-10-03T18:21:56",
+      "date": "2024-10-03",
+      "time": "18:21:56",
+      "author": "Elita",
+      "type": "call",
+      "content": "Chamada de voz  Não atendida",
+      "raw": "[03/10/24, 18:21:56] Elita: Chamada de voz  Não atendida"
+    },
+    {
+      "id": "m166",
+      "timestamp": "2024-10-03T18:22:04",
+      "date": "2024-10-03",
+      "time": "18:22:04",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Chamada de voz  34 min",
+      "raw": "[03/10/24, 18:22:04] Loan Meireles - Bizan G roup Construções ICF Meireles: Chamada de voz  34 min"
+    },
+    {
+      "id": "m167",
+      "timestamp": "2024-10-04T09:47:47",
+      "date": "2024-10-04",
+      "time": "09:47:47",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000167-PHOTO-2024-10-04-09-47-47.jpg>",
+      "raw": "[04/10/24, 09:47:47] Elita: <anexo: 00000167-PHOTO-2024-10-04-09-47-47.jpg>",
+      "attachment": {
+        "fileName": "00000167-PHOTO-2024-10-04-09-47-47.jpg"
+      }
+    },
+    {
+      "id": "m168",
+      "timestamp": "2024-10-04T09:48:38",
+      "date": "2024-10-04",
+      "time": "09:48:38",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000168-PHOTO-2024-10-04-09-48-39.jpg>",
+      "raw": "[04/10/24, 09:48:38] Elita: <anexo: 00000168-PHOTO-2024-10-04-09-48-39.jpg>",
+      "attachment": {
+        "fileName": "00000168-PHOTO-2024-10-04-09-48-39.jpg"
+      }
+    },
+    {
+      "id": "m169",
+      "timestamp": "2024-10-04T10:10:00",
+      "date": "2024-10-04",
+      "time": "10:10:00",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[04/10/24, 10:10:00] Loan Meireles - Bizan G roup Construções ICF Meireles: Ok"
+    },
+    {
+      "id": "m170",
+      "timestamp": "2024-10-04T10:24:56",
+      "date": "2024-10-04",
+      "time": "10:24:56",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Chamada de voz perdida  Toque para devolver a chamada",
+      "raw": "[04/10/24, 10:24:56] Loan Meireles - Bizan G roup Construções ICF Meireles: Chamada de voz perdida  Toque para devolver a chamada"
+    },
+    {
+      "id": "m171",
+      "timestamp": "2024-10-04T10:28:36",
+      "date": "2024-10-04",
+      "time": "10:28:36",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Élita. Ligue-me o mais rápido possível, por favor",
+      "raw": "[04/10/24, 10:28:36] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Élita. Ligue-me o mais rápido possível, por favor"
+    },
+    {
+      "id": "m172",
+      "timestamp": "2024-10-04T12:49:07",
+      "date": "2024-10-04",
+      "time": "12:49:07",
+      "author": "Elita",
+      "type": "call",
+      "content": "Chamada de voz  Não atendida",
+      "raw": "[04/10/24, 12:49:07] Elita: Chamada de voz  Não atendida"
+    },
+    {
+      "id": "m173",
+      "timestamp": "2024-10-04T14:44:54",
+      "date": "2024-10-04",
+      "time": "14:44:54",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "deleted",
+      "content": "Esta mensagem foi eliminada.",
+      "raw": "[04/10/24, 14:44:54] Loan Meireles - Bizan G roup Construções ICF Meireles: Esta mensagem foi eliminada."
+    },
+    {
+      "id": "m174",
+      "timestamp": "2024-10-04T15:34:38",
+      "date": "2024-10-04",
+      "time": "15:34:38",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Mónica, o valor do ginásio estava errado",
+      "raw": "[04/10/24, 15:34:38] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Mónica, o valor do ginásio estava errado"
+    },
+    {
+      "id": "m175",
+      "timestamp": "2024-10-04T15:35:13",
+      "date": "2024-10-04",
+      "time": "15:35:13",
+      "author": "Elita",
+      "type": "text",
+      "content": "Como?!",
+      "raw": "[04/10/24, 15:35:13] Elita: Como?!"
+    },
+    {
+      "id": "m176",
+      "timestamp": "2024-10-04T15:41:17",
+      "date": "2024-10-04",
+      "time": "15:41:17",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "OR 2024_182.pdf • 2 páginas <anexo: 00000176-OR 2024_182.pdf>",
+      "raw": "[04/10/24, 15:41:17] Loan Meireles - Bizan G roup Construções ICF Meireles: OR 2024_182.pdf • 2 páginas <anexo: 00000176-OR 2024_182.pdf>",
+      "attachment": {
+        "fileName": "00000176-OR 2024_182.pdf"
+      }
+    },
+    {
+      "id": "m177",
+      "timestamp": "2024-10-04T15:42:58",
+      "date": "2024-10-04",
+      "time": "15:42:58",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Colocamos  IVA no ginásio",
+      "raw": "[04/10/24, 15:42:58] Loan Meireles - Bizan G roup Construções ICF Meireles: Colocamos  IVA no ginásio"
+    },
+    {
+      "id": "m178",
+      "timestamp": "2024-10-04T15:43:07",
+      "date": "2024-10-04",
+      "time": "15:43:07",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Agora está correto",
+      "raw": "[04/10/24, 15:43:07] Loan Meireles - Bizan G roup Construções ICF Meireles: Agora está correto"
+    },
+    {
+      "id": "m179",
+      "timestamp": "2024-10-04T15:44:05",
+      "date": "2024-10-04",
+      "time": "15:44:05",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "call",
+      "content": "Chamada de voz  1 min",
+      "raw": "[04/10/24, 15:44:05] Loan Meireles - Bizan G roup Construções ICF Meireles: Chamada de voz  1 min"
+    },
+    {
+      "id": "m180",
+      "timestamp": "2024-10-06T14:54:49",
+      "date": "2024-10-06",
+      "time": "14:54:49",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa tarde Sr Meireles \nQue planos têm vocês para a obra amanhã?",
+      "raw": "[06/10/24, 14:54:49] Elita: Boa tarde Sr Meireles \nQue planos têm vocês para a obra amanhã?"
+    },
+    {
+      "id": "m181",
+      "timestamp": "2024-10-06T14:54:51",
+      "date": "2024-10-06",
+      "time": "14:54:51",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[06/10/24, 14:54:51] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m182",
+      "timestamp": "2024-10-06T14:57:18",
+      "date": "2024-10-06",
+      "time": "14:57:18",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Boa tarde. Lixar e Emassar juntas de Pladur, Trocar a parte da placa de Pladur que ficou úmida e eletricidade.",
+      "raw": "[06/10/24, 14:57:18] Loan Meireles - Bizan G roup Construções ICF Meireles: Boa tarde. Lixar e Emassar juntas de Pladur, Trocar a parte da placa de Pladur que ficou úmida e eletricidade."
+    },
+    {
+      "id": "m183",
+      "timestamp": "2024-10-06T14:58:23",
+      "date": "2024-10-06",
+      "time": "14:58:23",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Já falei com o Augusto para reforçar com mais parafusos os batentes das portas.",
+      "raw": "[06/10/24, 14:58:23] Loan Meireles - Bizan G roup Construções ICF Meireles: Já falei com o Augusto para reforçar com mais parafusos os batentes das portas."
+    },
+    {
+      "id": "m184",
+      "timestamp": "2024-10-06T14:59:21",
+      "date": "2024-10-06",
+      "time": "14:59:21",
+      "author": "Elita",
+      "type": "text",
+      "content": "E fazer mais furos para os focos dos quartos",
+      "raw": "[06/10/24, 14:59:21] Elita: E fazer mais furos para os focos dos quartos"
+    },
+    {
+      "id": "m185",
+      "timestamp": "2024-10-06T14:59:42",
+      "date": "2024-10-06",
+      "time": "14:59:42",
+      "author": "Elita",
+      "type": "text",
+      "content": "Mas sabe que a chuva vai continuar",
+      "raw": "[06/10/24, 14:59:42] Elita: Mas sabe que a chuva vai continuar"
+    },
+    {
+      "id": "m186",
+      "timestamp": "2024-10-06T15:00:10",
+      "date": "2024-10-06",
+      "time": "15:00:10",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Mónica, aí você tem que falar com o Augusto.",
+      "raw": "[06/10/24, 15:00:10] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Mónica, aí você tem que falar com o Augusto."
+    },
+    {
+      "id": "m187",
+      "timestamp": "2024-10-06T15:00:46",
+      "date": "2024-10-06",
+      "time": "15:00:46",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sim, mais amanhã vou levar a massa correta para passar.",
+      "raw": "[06/10/24, 15:00:46] Loan Meireles - Bizan G roup Construções ICF Meireles: Sim, mais amanhã vou levar a massa correta para passar."
+    },
+    {
+      "id": "m188",
+      "timestamp": "2024-10-06T15:01:59",
+      "date": "2024-10-06",
+      "time": "15:01:59",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Preciso comprar materiais, quanto para pinturas, quanto para os meus homens terminarem a caixa e endireitar a parede exterior.",
+      "raw": "[06/10/24, 15:01:59] Loan Meireles - Bizan G roup Construções ICF Meireles: Preciso comprar materiais, quanto para pinturas, quanto para os meus homens terminarem a caixa e endireitar a parede exterior."
+    },
+    {
+      "id": "m189",
+      "timestamp": "2024-10-06T15:03:11",
+      "date": "2024-10-06",
+      "time": "15:03:11",
+      "author": "Elita",
+      "type": "text",
+      "content": "Os 2 quartos ficaram escuros \nE conforme está no Contrato, é o necessário",
+      "raw": "[06/10/24, 15:03:11] Elita: Os 2 quartos ficaram escuros \nE conforme está no Contrato, é o necessário"
+    },
+    {
+      "id": "m190",
+      "timestamp": "2024-10-06T15:03:57",
+      "date": "2024-10-06",
+      "time": "15:03:57",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Por isso é que seria bom, resolvermos a situação do IVAe do orçamento na parte da manhã, que assim na parte da tarde já teria dinheiro para comprar materiais.",
+      "raw": "[06/10/24, 15:03:57] Loan Meireles - Bizan G roup Construções ICF Meireles: Por isso é que seria bom, resolvermos a situação do IVAe do orçamento na parte da manhã, que assim na parte da tarde já teria dinheiro para comprar materiais."
+    },
+    {
+      "id": "m191",
+      "timestamp": "2024-10-06T15:04:44",
+      "date": "2024-10-06",
+      "time": "15:04:44",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não perdessem tanto tempo a marcar as reuniões",
+      "raw": "[06/10/24, 15:04:44] Elita: Não perdessem tanto tempo a marcar as reuniões"
+    },
+    {
+      "id": "m192",
+      "timestamp": "2024-10-06T15:04:58",
+      "date": "2024-10-06",
+      "time": "15:04:58",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "O Augusto me passou o orçamento baseado naquela quantidade de focos que a Sra. Mónica me passou. Tenta falar com ele para ver se ele faz isso amanhã.",
+      "raw": "[06/10/24, 15:04:58] Loan Meireles - Bizan G roup Construções ICF Meireles: O Augusto me passou o orçamento baseado naquela quantidade de focos que a Sra. Mónica me passou. Tenta falar com ele para ver se ele faz isso amanhã."
+    },
+    {
+      "id": "m193",
+      "timestamp": "2024-10-06T15:05:11",
+      "date": "2024-10-06",
+      "time": "15:05:11",
+      "author": "Elita",
+      "type": "text",
+      "content": "Faz 15 dias amanhã",
+      "raw": "[06/10/24, 15:05:11] Elita: Faz 15 dias amanhã"
+    },
+    {
+      "id": "m194",
+      "timestamp": "2024-10-06T15:05:36",
+      "date": "2024-10-06",
+      "time": "15:05:36",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Só essa semana que passou, já fui a Fafe 3 vezes 😓",
+      "raw": "[06/10/24, 15:05:36] Loan Meireles - Bizan G roup Construções ICF Meireles: Só essa semana que passou, já fui a Fafe 3 vezes 😓"
+    },
+    {
+      "id": "m195",
+      "timestamp": "2024-10-06T15:05:55",
+      "date": "2024-10-06",
+      "time": "15:05:55",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Não depende só de mim",
+      "raw": "[06/10/24, 15:05:55] Loan Meireles - Bizan G roup Construções ICF Meireles: Não depende só de mim"
+    },
+    {
+      "id": "m196",
+      "timestamp": "2024-10-06T15:06:27",
+      "date": "2024-10-06",
+      "time": "15:06:27",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Mais vamos acabar até o final do mês.",
+      "raw": "[06/10/24, 15:06:27] Loan Meireles - Bizan G roup Construções ICF Meireles: Mais vamos acabar até o final do mês."
+    },
+    {
+      "id": "m197",
+      "timestamp": "2024-10-06T15:06:52",
+      "date": "2024-10-06",
+      "time": "15:06:52",
+      "author": "Elita",
+      "type": "text",
+      "content": "Eu já tinha falado e você sabe que ele até me tinha dito que o fazia e não cobrava mais \nNão volto a pedir \nÉ um assunto vosso",
+      "raw": "[06/10/24, 15:06:52] Elita: Eu já tinha falado e você sabe que ele até me tinha dito que o fazia e não cobrava mais \nNão volto a pedir \nÉ um assunto vosso"
+    },
+    {
+      "id": "m198",
+      "timestamp": "2024-10-06T15:07:23",
+      "date": "2024-10-06",
+      "time": "15:07:23",
+      "author": "Elita",
+      "type": "text",
+      "content": "Posso ligar?",
+      "raw": "[06/10/24, 15:07:23] Elita: Posso ligar?"
+    },
+    {
+      "id": "m199",
+      "timestamp": "2024-10-06T15:07:30",
+      "date": "2024-10-06",
+      "time": "15:07:30",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sim",
+      "raw": "[06/10/24, 15:07:30] Loan Meireles - Bizan G roup Construções ICF Meireles: Sim"
+    },
+    {
+      "id": "m200",
+      "timestamp": "2024-10-06T16:12:39",
+      "date": "2024-10-06",
+      "time": "16:12:39",
+      "author": "Elita",
+      "type": "text",
+      "content": "Veja por favor as suas contas do canil, pois para mim faltam apenas 1.500 euros",
+      "raw": "[06/10/24, 16:12:39] Elita: Veja por favor as suas contas do canil, pois para mim faltam apenas 1.500 euros"
+    },
+    {
+      "id": "m201",
+      "timestamp": "2024-10-06T17:00:12",
+      "date": "2024-10-06",
+      "time": "17:00:12",
+      "author": "Elita",
+      "type": "text",
+      "content": "Envie também foto da fatura das sanitas por favor",
+      "raw": "[06/10/24, 17:00:12] Elita: Envie também foto da fatura das sanitas por favor"
+    },
+    {
+      "id": "m202",
+      "timestamp": "2024-10-06T18:27:23",
+      "date": "2024-10-06",
+      "time": "18:27:23",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FT 24FT4-15137.pdf • 2 páginas <anexo: 00000202-FT 24FT4-15137.pdf>",
+      "raw": "[06/10/24, 18:27:23] Loan Meireles - Bizan G roup Construções ICF Meireles: FT 24FT4-15137.pdf • 2 páginas <anexo: 00000202-FT 24FT4-15137.pdf>",
+      "attachment": {
+        "fileName": "00000202-FT 24FT4-15137.pdf"
+      }
+    },
+    {
+      "id": "m203",
+      "timestamp": "2024-10-06T18:56:57",
+      "date": "2024-10-06",
+      "time": "18:56:57",
+      "author": "Elita",
+      "type": "text",
+      "content": "Veja por favor as suas contas do canil, pois para mim faltam apenas 1.500 euros",
+      "raw": "[06/10/24, 18:56:57] Elita: Veja por favor as suas contas do canil, pois para mim faltam apenas 1.500 euros"
+    },
+    {
+      "id": "m204",
+      "timestamp": "2024-10-06T18:59:05",
+      "date": "2024-10-06",
+      "time": "18:59:05",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Pois eu vi aqui, falta mesmo 1500",
+      "raw": "[06/10/24, 18:59:05] Loan Meireles - Bizan G roup Construções ICF Meireles: Pois eu vi aqui, falta mesmo 1500"
+    },
+    {
+      "id": "m205",
+      "timestamp": "2024-10-06T19:00:14",
+      "date": "2024-10-06",
+      "time": "19:00:14",
+      "author": "Elita",
+      "type": "text",
+      "content": "Tira por favor uma foto e envia para mim \nObrigada",
+      "raw": "[06/10/24, 19:00:14] Elita: Tira por favor uma foto e envia para mim \nObrigada"
+    },
+    {
+      "id": "m206",
+      "timestamp": "2024-10-06T19:01:09",
+      "date": "2024-10-06",
+      "time": "19:01:09",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Eu só tenho em PDF. O último ficou consigo assinado.",
+      "raw": "[06/10/24, 19:01:09] Loan Meireles - Bizan G roup Construções ICF Meireles: Eu só tenho em PDF. O último ficou consigo assinado."
+    },
+    {
+      "id": "m207",
+      "timestamp": "2024-10-08T09:33:12",
+      "date": "2024-10-08",
+      "time": "09:33:12",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "Declaração-1.pdf • 2 páginas <anexo: 00000207-Declaração-1.pdf>",
+      "raw": "[08/10/24, 09:33:12] Loan Meireles - Bizan G roup Construções ICF Meireles: Declaração-1.pdf • 2 páginas <anexo: 00000207-Declaração-1.pdf>",
+      "attachment": {
+        "fileName": "00000207-Declaração-1.pdf"
+      }
+    },
+    {
+      "id": "m208",
+      "timestamp": "2024-10-08T09:48:07",
+      "date": "2024-10-08",
+      "time": "09:48:07",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "Declaração1.pdf • 2 páginas <anexo: 00000208-Declaração1.pdf>",
+      "raw": "[08/10/24, 09:48:07] Loan Meireles - Bizan G roup Construções ICF Meireles: Declaração1.pdf • 2 páginas <anexo: 00000208-Declaração1.pdf>",
+      "attachment": {
+        "fileName": "00000208-Declaração1.pdf"
+      }
+    },
+    {
+      "id": "m209",
+      "timestamp": "2024-10-08T09:56:09",
+      "date": "2024-10-08",
+      "time": "09:56:09",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "OR 2024_184 (1).pdf • 2 páginas documento não revelado",
+      "raw": "[08/10/24, 09:56:09] Loan Meireles - Bizan G roup Construções ICF Meireles: OR 2024_184 (1).pdf • 2 páginas documento não revelado"
+    },
+    {
+      "id": "m210",
+      "timestamp": "2024-10-08T14:55:53",
+      "date": "2024-10-08",
+      "time": "14:55:53",
+      "author": "Elita",
+      "type": "document",
+      "content": "RC 2024_13.pdf • 3 páginas <anexo: 00000210-RC 2024_13.pdf>",
+      "raw": "[08/10/24, 14:55:53] Elita: RC 2024_13.pdf • 3 páginas <anexo: 00000210-RC 2024_13.pdf>",
+      "attachment": {
+        "fileName": "00000210-RC 2024_13.pdf"
+      }
+    },
+    {
+      "id": "m211",
+      "timestamp": "2024-10-08T14:55:53",
+      "date": "2024-10-08",
+      "time": "14:55:53",
+      "author": "Elita",
+      "type": "document",
+      "content": "NC 2024_2.pdf • 3 páginas <anexo: 00000211-NC 2024_2.pdf>",
+      "raw": "[08/10/24, 14:55:53] Elita: NC 2024_2.pdf • 3 páginas <anexo: 00000211-NC 2024_2.pdf>",
+      "attachment": {
+        "fileName": "00000211-NC 2024_2.pdf"
+      }
+    },
+    {
+      "id": "m212",
+      "timestamp": "2024-10-08T14:55:53",
+      "date": "2024-10-08",
+      "time": "14:55:53",
+      "author": "Elita",
+      "type": "document",
+      "content": "FT 2024_18 (1).pdf • 4 páginas <anexo: 00000212-FT 2024_18 (1).pdf>",
+      "raw": "[08/10/24, 14:55:53] Elita: FT 2024_18 (1).pdf • 4 páginas <anexo: 00000212-FT 2024_18 (1).pdf>",
+      "attachment": {
+        "fileName": "00000212-FT 2024_18 (1).pdf"
+      }
+    },
+    {
+      "id": "m213",
+      "timestamp": "2024-10-08T15:54:53",
+      "date": "2024-10-08",
+      "time": "15:54:53",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Sra. Mónica",
+      "raw": "[08/10/24, 15:54:53] Loan Meireles - Bizan G roup Construções ICF Meireles: Sra. Mónica"
+    },
+    {
+      "id": "m214",
+      "timestamp": "2024-10-09T08:36:19",
+      "date": "2024-10-09",
+      "time": "08:36:19",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom dia Sra. Monica",
+      "raw": "[09/10/24, 08:36:19] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom dia Sra. Monica"
+    },
+    {
+      "id": "m215",
+      "timestamp": "2024-10-09T08:37:07",
+      "date": "2024-10-09",
+      "time": "08:37:07",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "deleted",
+      "content": "Esta mensagem foi eliminada.",
+      "raw": "[09/10/24, 08:37:07] Loan Meireles - Bizan G roup Construções ICF Meireles: Esta mensagem foi eliminada."
+    },
+    {
+      "id": "m216",
+      "timestamp": "2024-10-09T09:09:44",
+      "date": "2024-10-09",
+      "time": "09:09:44",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "HPSCAN_202410090805303_2024-10-09_080618528.pdf • 1 página <anexo: 00000216-HPSCAN_202410090805303_2024-10-09_080618528.pdf>",
+      "raw": "[09/10/24, 09:09:44] Loan Meireles - Bizan G roup Construções ICF Meireles: HPSCAN_202410090805303_2024-10-09_080618528.pdf • 1 página <anexo: 00000216-HPSCAN_202410090805303_2024-10-09_080618528.pdf>",
+      "attachment": {
+        "fileName": "00000216-HPSCAN_202410090805303_2024-10-09_080618528.pdf"
+      }
+    },
+    {
+      "id": "m217",
+      "timestamp": "2024-10-09T09:09:45",
+      "date": "2024-10-09",
+      "time": "09:09:45",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "HPSCAN_20241009080340731_2024-10-09_080433374.pdf • 1 página <anexo: 00000217-HPSCAN_20241009080340731_2024-10-09_080433374.pdf>",
+      "raw": "[09/10/24, 09:09:45] Loan Meireles - Bizan G roup Construções ICF Meireles: HPSCAN_20241009080340731_2024-10-09_080433374.pdf • 1 página <anexo: 00000217-HPSCAN_20241009080340731_2024-10-09_080433374.pdf>",
+      "attachment": {
+        "fileName": "00000217-HPSCAN_20241009080340731_2024-10-09_080433374.pdf"
+      }
+    },
+    {
+      "id": "m218",
+      "timestamp": "2024-10-09T09:16:51",
+      "date": "2024-10-09",
+      "time": "09:16:51",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "BIZAN LDA - 517683270\n\nPT50003506660009221553059\n\nCaixa Geral de Depósitos",
+      "raw": "[09/10/24, 09:16:51] Loan Meireles - Bizan G roup Construções ICF Meireles: BIZAN LDA - 517683270\n\nPT50003506660009221553059\n\nCaixa Geral de Depósitos"
+    },
+    {
+      "id": "m219",
+      "timestamp": "2024-10-09T09:41:58",
+      "date": "2024-10-09",
+      "time": "09:41:58",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FR_ESTRI2024-8.pdf • 1 página <anexo: 00000219-FR_ESTRI2024-8.pdf>",
+      "raw": "[09/10/24, 09:41:58] Loan Meireles - Bizan G roup Construções ICF Meireles: FR_ESTRI2024-8.pdf • 1 página <anexo: 00000219-FR_ESTRI2024-8.pdf>",
+      "attachment": {
+        "fileName": "00000219-FR_ESTRI2024-8.pdf"
+      }
+    },
+    {
+      "id": "m220",
+      "timestamp": "2024-10-09T09:42:53",
+      "date": "2024-10-09",
+      "time": "09:42:53",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "RC_ESTRI2024-3.pdf • 1 página documento não revelado",
+      "raw": "[09/10/24, 09:42:53] Loan Meireles - Bizan G roup Construções ICF Meireles: RC_ESTRI2024-3.pdf • 1 página documento não revelado"
+    },
+    {
+      "id": "m221",
+      "timestamp": "2024-10-09T09:42:54",
+      "date": "2024-10-09",
+      "time": "09:42:54",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FT_ESTRI2024-3.pdf • 1 página <anexo: 00000221-FT_ESTRI2024-3.pdf>",
+      "raw": "[09/10/24, 09:42:54] Loan Meireles - Bizan G roup Construções ICF Meireles: FT_ESTRI2024-3.pdf • 1 página <anexo: 00000221-FT_ESTRI2024-3.pdf>",
+      "attachment": {
+        "fileName": "00000221-FT_ESTRI2024-3.pdf"
+      }
+    },
+    {
+      "id": "m222",
+      "timestamp": "2024-10-09T09:43:27",
+      "date": "2024-10-09",
+      "time": "09:43:27",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "RC_ESTRI2024-4.pdf • 1 página <anexo: 00000222-RC_ESTRI2024-4.pdf>",
+      "raw": "[09/10/24, 09:43:27] Loan Meireles - Bizan G roup Construções ICF Meireles: RC_ESTRI2024-4.pdf • 1 página <anexo: 00000222-RC_ESTRI2024-4.pdf>",
+      "attachment": {
+        "fileName": "00000222-RC_ESTRI2024-4.pdf"
+      }
+    },
+    {
+      "id": "m223",
+      "timestamp": "2024-10-09T09:43:27",
+      "date": "2024-10-09",
+      "time": "09:43:27",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FT_ESTRI2024-4.pdf • 1 página <anexo: 00000223-FT_ESTRI2024-4.pdf>",
+      "raw": "[09/10/24, 09:43:27] Loan Meireles - Bizan G roup Construções ICF Meireles: FT_ESTRI2024-4.pdf • 1 página <anexo: 00000223-FT_ESTRI2024-4.pdf>",
+      "attachment": {
+        "fileName": "00000223-FT_ESTRI2024-4.pdf"
+      }
+    },
+    {
+      "id": "m224",
+      "timestamp": "2024-10-09T09:44:00",
+      "date": "2024-10-09",
+      "time": "09:44:00",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "RC_ESTRI2024-5.pdf • 1 página <anexo: 00000224-RC_ESTRI2024-5.pdf>",
+      "raw": "[09/10/24, 09:44:00] Loan Meireles - Bizan G roup Construções ICF Meireles: RC_ESTRI2024-5.pdf • 1 página <anexo: 00000224-RC_ESTRI2024-5.pdf>",
+      "attachment": {
+        "fileName": "00000224-RC_ESTRI2024-5.pdf"
+      }
+    },
+    {
+      "id": "m225",
+      "timestamp": "2024-10-09T09:44:00",
+      "date": "2024-10-09",
+      "time": "09:44:00",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FT_ESTRI2024-5.pdf • 1 página <anexo: 00000225-FT_ESTRI2024-5.pdf>",
+      "raw": "[09/10/24, 09:44:00] Loan Meireles - Bizan G roup Construções ICF Meireles: FT_ESTRI2024-5.pdf • 1 página <anexo: 00000225-FT_ESTRI2024-5.pdf>",
+      "attachment": {
+        "fileName": "00000225-FT_ESTRI2024-5.pdf"
+      }
+    },
+    {
+      "id": "m226",
+      "timestamp": "2024-10-10T10:06:23",
+      "date": "2024-10-10",
+      "time": "10:06:23",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "7,88 sanca da sala",
+      "raw": "[10/10/24, 10:06:23] Loan Meireles - Bizan G roup Construções ICF Meireles: 7,88 sanca da sala"
+    },
+    {
+      "id": "m227",
+      "timestamp": "2024-10-10T10:07:35",
+      "date": "2024-10-10",
+      "time": "10:07:35",
+      "author": "Elita",
+      "type": "text",
+      "content": "Meu quarto",
+      "raw": "[10/10/24, 10:07:35] Elita: Meu quarto"
+    },
+    {
+      "id": "m228",
+      "timestamp": "2024-10-10T10:10:37",
+      "date": "2024-10-10",
+      "time": "10:10:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "2,62 sanca do quarto",
+      "raw": "[10/10/24, 10:10:37] Loan Meireles - Bizan G roup Construções ICF Meireles: 2,62 sanca do quarto"
+    },
+    {
+      "id": "m229",
+      "timestamp": "2024-10-10T21:10:43",
+      "date": "2024-10-10",
+      "time": "21:10:43",
+      "author": "Elita",
+      "type": "text",
+      "content": "965 432 622 Sr Rui",
+      "raw": "[10/10/24, 21:10:43] Elita: 965 432 622 Sr Rui"
+    },
+    {
+      "id": "m230",
+      "timestamp": "2024-10-10T21:12:23",
+      "date": "2024-10-10",
+      "time": "21:12:23",
+      "author": "Elita",
+      "type": "text",
+      "content": "Quando o Sr Oliveira estiver a sair de Vila de Conde já com as janelas, ligue por favor para o meu irmão e para o Francisco\nObrigada",
+      "raw": "[10/10/24, 21:12:23] Elita: Quando o Sr Oliveira estiver a sair de Vila de Conde já com as janelas, ligue por favor para o meu irmão e para o Francisco\nObrigada"
+    },
+    {
+      "id": "m231",
+      "timestamp": "2024-10-10T21:15:43",
+      "date": "2024-10-10",
+      "time": "21:15:43",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[10/10/24, 21:15:43] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m232",
+      "timestamp": "2024-10-11T08:33:30",
+      "date": "2024-10-11",
+      "time": "08:33:30",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom dia. Ok",
+      "raw": "[11/10/24, 08:33:30] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom dia. Ok"
+    },
+    {
+      "id": "m233",
+      "timestamp": "2024-10-14T14:51:07",
+      "date": "2024-10-14",
+      "time": "14:51:07",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Rua nova das icas nr 45 \n4450 749\nLeça da palmeira \nPedir para falar com a Isa",
+      "raw": "[14/10/24, 14:51:07] Loan Meireles - Bizan G roup Construções ICF Meireles: Rua nova das icas nr 45 \n4450 749\nLeça da palmeira \nPedir para falar com a Isa"
+    },
+    {
+      "id": "m234",
+      "timestamp": "2024-10-14T18:30:37",
+      "date": "2024-10-14",
+      "time": "18:30:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FR_ESTRI2024-9.pdf • 1 página <anexo: 00000234-FR_ESTRI2024-9.pdf>",
+      "raw": "[14/10/24, 18:30:37] Loan Meireles - Bizan G roup Construções ICF Meireles: FR_ESTRI2024-9.pdf • 1 página <anexo: 00000234-FR_ESTRI2024-9.pdf>",
+      "attachment": {
+        "fileName": "00000234-FR_ESTRI2024-9.pdf"
+      }
+    },
+    {
+      "id": "m235",
+      "timestamp": "2024-10-14T18:30:37",
+      "date": "2024-10-14",
+      "time": "18:30:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FR_ESTRI2024-11.pdf • 1 página <anexo: 00000235-FR_ESTRI2024-11.pdf>",
+      "raw": "[14/10/24, 18:30:37] Loan Meireles - Bizan G roup Construções ICF Meireles: FR_ESTRI2024-11.pdf • 1 página <anexo: 00000235-FR_ESTRI2024-11.pdf>",
+      "attachment": {
+        "fileName": "00000235-FR_ESTRI2024-11.pdf"
+      }
+    },
+    {
+      "id": "m236",
+      "timestamp": "2024-10-14T18:30:37",
+      "date": "2024-10-14",
+      "time": "18:30:37",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FR_ESTRI2024-10.pdf • 1 página documento não revelado",
+      "raw": "[14/10/24, 18:30:37] Loan Meireles - Bizan G roup Construções ICF Meireles: FR_ESTRI2024-10.pdf • 1 página documento não revelado"
+    },
+    {
+      "id": "m237",
+      "timestamp": "2024-10-15T09:12:45",
+      "date": "2024-10-15",
+      "time": "09:12:45",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Bom Dia Sra. Élita.",
+      "raw": "[15/10/24, 09:12:45] Loan Meireles - Bizan G roup Construções ICF Meireles: Bom Dia Sra. Élita."
+    },
+    {
+      "id": "m238",
+      "timestamp": "2024-10-15T10:27:59",
+      "date": "2024-10-15",
+      "time": "10:27:59",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000238-PHOTO-2024-10-15-10-28-00.jpg>",
+      "raw": "[15/10/24, 10:27:59] Elita: <anexo: 00000238-PHOTO-2024-10-15-10-28-00.jpg>",
+      "attachment": {
+        "fileName": "00000238-PHOTO-2024-10-15-10-28-00.jpg"
+      }
+    },
+    {
+      "id": "m239",
+      "timestamp": "2024-10-15T14:59:11",
+      "date": "2024-10-15",
+      "time": "14:59:11",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000239-PHOTO-2024-10-15-14-59-12.jpg>",
+      "raw": "[15/10/24, 14:59:11] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000239-PHOTO-2024-10-15-14-59-12.jpg>",
+      "attachment": {
+        "fileName": "00000239-PHOTO-2024-10-15-14-59-12.jpg"
+      }
+    },
+    {
+      "id": "m240",
+      "timestamp": "2024-10-15T14:59:26",
+      "date": "2024-10-15",
+      "time": "14:59:26",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "location",
+      "content": "Localização: https://maps.google.com/?q=41.366360,-8.726471",
+      "raw": "[15/10/24, 14:59:26] Loan Meireles - Bizan G roup Construções ICF Meireles: Localização: https://maps.google.com/?q=41.366360,-8.726471"
+    },
+    {
+      "id": "m241",
+      "timestamp": "2024-10-15T18:58:04",
+      "date": "2024-10-15",
+      "time": "18:58:04",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "document",
+      "content": "FR_ESTRI2024-12.pdf • 1 página <anexo: 00000241-FR_ESTRI2024-12.pdf>",
+      "raw": "[15/10/24, 18:58:04] Loan Meireles - Bizan G roup Construções ICF Meireles: FR_ESTRI2024-12.pdf • 1 página <anexo: 00000241-FR_ESTRI2024-12.pdf>",
+      "attachment": {
+        "fileName": "00000241-FR_ESTRI2024-12.pdf"
+      }
+    },
+    {
+      "id": "m242",
+      "timestamp": "2024-10-16T08:33:55",
+      "date": "2024-10-16",
+      "time": "08:33:55",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000242-AUDIO-2024-10-16-08-33-56.opus>",
+      "raw": "[16/10/24, 08:33:55] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000242-AUDIO-2024-10-16-08-33-56.opus>",
+      "attachment": {
+        "fileName": "00000242-AUDIO-2024-10-16-08-33-56.opus"
+      }
+    },
+    {
+      "id": "m243",
+      "timestamp": "2024-10-16T14:42:16",
+      "date": "2024-10-16",
+      "time": "14:42:16",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000243-VIDEO-2024-10-16-14-42-16.mov>",
+      "raw": "[16/10/24, 14:42:16] Elita: <anexo: 00000243-VIDEO-2024-10-16-14-42-16.mov>",
+      "attachment": {
+        "fileName": "00000243-VIDEO-2024-10-16-14-42-16.mov"
+      }
+    },
+    {
+      "id": "m244",
+      "timestamp": "2024-10-16T14:43:31",
+      "date": "2024-10-16",
+      "time": "14:43:31",
+      "author": "Elita",
+      "type": "text",
+      "content": "Novas placas do meu quarto com Humidade!!! E não é junto à janela",
+      "raw": "[16/10/24, 14:43:31] Elita: Novas placas do meu quarto com Humidade!!! E não é junto à janela"
+    },
+    {
+      "id": "m245",
+      "timestamp": "2024-10-16T14:44:06",
+      "date": "2024-10-16",
+      "time": "14:44:06",
+      "author": "Elita",
+      "type": "text",
+      "content": "Esta humidade só pode vir. da placa do terraço",
+      "raw": "[16/10/24, 14:44:06] Elita: Esta humidade só pode vir. da placa do terraço"
+    },
+    {
+      "id": "m246",
+      "timestamp": "2024-10-16T17:39:24",
+      "date": "2024-10-16",
+      "time": "17:39:24",
+      "author": "Elita",
+      "type": "video",
+      "content": "<anexo: 00000246-VIDEO-2024-10-16-17-39-25.mp4>",
+      "raw": "[16/10/24, 17:39:24] Elita: <anexo: 00000246-VIDEO-2024-10-16-17-39-25.mp4>",
+      "attachment": {
+        "fileName": "00000246-VIDEO-2024-10-16-17-39-25.mp4"
+      }
+    },
+    {
+      "id": "m247",
+      "timestamp": "2024-10-16T19:42:54",
+      "date": "2024-10-16",
+      "time": "19:42:54",
+      "author": "Elita",
+      "type": "text",
+      "content": "Aguardo que me faça o pagamento dos 30 euros \nAinda hoje por MBWAY",
+      "raw": "[16/10/24, 19:42:54] Elita: Aguardo que me faça o pagamento dos 30 euros \nAinda hoje por MBWAY"
+    },
+    {
+      "id": "m248",
+      "timestamp": "2024-10-16T19:42:56",
+      "date": "2024-10-16",
+      "time": "19:42:56",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[16/10/24, 19:42:56] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m249",
+      "timestamp": "2024-11-04T15:32:18",
+      "date": "2024-11-04",
+      "time": "15:32:18",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:32:18] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m250",
+      "timestamp": "2024-11-04T15:32:23",
+      "date": "2024-11-04",
+      "time": "15:32:23",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:32:23] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m251",
+      "timestamp": "2024-11-04T15:32:42",
+      "date": "2024-11-04",
+      "time": "15:32:42",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:32:42] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m252",
+      "timestamp": "2024-11-04T15:32:52",
+      "date": "2024-11-04",
+      "time": "15:32:52",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:32:52] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m253",
+      "timestamp": "2024-11-04T15:32:55",
+      "date": "2024-11-04",
+      "time": "15:32:55",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:32:55] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m254",
+      "timestamp": "2024-11-04T15:33:04",
+      "date": "2024-11-04",
+      "time": "15:33:04",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:33:04] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m255",
+      "timestamp": "2024-11-04T15:33:08",
+      "date": "2024-11-04",
+      "time": "15:33:08",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:33:08] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m256",
+      "timestamp": "2024-11-04T15:33:20",
+      "date": "2024-11-04",
+      "time": "15:33:20",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:33:20] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m257",
+      "timestamp": "2024-11-04T15:33:24",
+      "date": "2024-11-04",
+      "time": "15:33:24",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:33:24] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m258",
+      "timestamp": "2024-11-04T15:33:28",
+      "date": "2024-11-04",
+      "time": "15:33:28",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "*",
+      "raw": "[04/11/24, 15:33:28] Loan Meireles - Bizan G roup Construções ICF Meireles: *"
+    },
+    {
+      "id": "m259",
+      "timestamp": "2024-11-06T19:23:38",
+      "date": "2024-11-06",
+      "time": "19:23:38",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa tarde Sr Meireles \nNão atende as minhas chamadas?",
+      "raw": "[06/11/24, 19:23:38] Elita: Boa tarde Sr Meireles \nNão atende as minhas chamadas?"
+    },
+    {
+      "id": "m260",
+      "timestamp": "2024-11-06T19:23:39",
+      "date": "2024-11-06",
+      "time": "19:23:39",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[06/11/24, 19:23:39] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m261",
+      "timestamp": "2024-11-06T19:24:29",
+      "date": "2024-11-06",
+      "time": "19:24:29",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Não estive disponível na parte da tarde.",
+      "raw": "[06/11/24, 19:24:29] Loan Meireles - Bizan G roup Construções ICF Meireles: Não estive disponível na parte da tarde."
+    },
+    {
+      "id": "m262",
+      "timestamp": "2024-11-11T20:36:24",
+      "date": "2024-11-11",
+      "time": "20:36:24",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa noite, \nA obra está indecentemente porca.\nEspero, de uma vez por todas, que a limpem. E tape o contador e finalize as paredes da porta do meu quarto.\nQuarta-feira, como já informei, haverá fiscalização da obra",
+      "raw": "[11/11/24, 20:36:24] Elita: Boa noite, \nA obra está indecentemente porca.\nEspero, de uma vez por todas, que a limpem. E tape o contador e finalize as paredes da porta do meu quarto.\nQuarta-feira, como já informei, haverá fiscalização da obra"
+    },
+    {
+      "id": "m263",
+      "timestamp": "2024-11-11T20:36:30",
+      "date": "2024-11-11",
+      "time": "20:36:30",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[11/11/24, 20:36:30] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m264",
+      "timestamp": "2024-11-11T20:51:15",
+      "date": "2024-11-11",
+      "time": "20:51:15",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "O Israel passou agora no final do dia e tapou o quadro e o ICF na porta do quarto.",
+      "raw": "[11/11/24, 20:51:15] Loan Meireles - Bizan G roup Construções ICF Meireles: O Israel passou agora no final do dia e tapou o quadro e o ICF na porta do quarto."
+    },
+    {
+      "id": "m265",
+      "timestamp": "2024-11-11T20:51:47",
+      "date": "2024-11-11",
+      "time": "20:51:47",
+      "author": "Elita",
+      "type": "text",
+      "content": "E a limpeza?!",
+      "raw": "[11/11/24, 20:51:47] Elita: E a limpeza?!"
+    },
+    {
+      "id": "m266",
+      "timestamp": "2024-11-15T10:26:45",
+      "date": "2024-11-15",
+      "time": "10:26:45",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "image",
+      "content": "<anexo: 00000266-PHOTO-2024-11-15-10-26-46.jpg>",
+      "raw": "[15/11/24, 10:26:45] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000266-PHOTO-2024-11-15-10-26-46.jpg>",
+      "attachment": {
+        "fileName": "00000266-PHOTO-2024-11-15-10-26-46.jpg"
+      }
+    },
+    {
+      "id": "m267",
+      "timestamp": "2024-11-15T10:27:53",
+      "date": "2024-11-15",
+      "time": "10:27:53",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000267-AUDIO-2024-11-15-10-27-54.opus>",
+      "raw": "[15/11/24, 10:27:53] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000267-AUDIO-2024-11-15-10-27-54.opus>",
+      "attachment": {
+        "fileName": "00000267-AUDIO-2024-11-15-10-27-54.opus"
+      }
+    },
+    {
+      "id": "m268",
+      "timestamp": "2024-11-16T11:51:23",
+      "date": "2024-11-16",
+      "time": "11:51:23",
+      "author": "Elita",
+      "type": "image",
+      "content": "Mais um problema: escorre água junto ao quadro elétrico!!! <anexo: 00000268-PHOTO-2024-11-16-11-51-24.jpg>",
+      "raw": "[16/11/24, 11:51:23] Elita: Mais um problema: escorre água junto ao quadro elétrico!!! <anexo: 00000268-PHOTO-2024-11-16-11-51-24.jpg>",
+      "attachment": {
+        "fileName": "00000268-PHOTO-2024-11-16-11-51-24.jpg"
+      }
+    },
+    {
+      "id": "m269",
+      "timestamp": "2024-11-16T11:51:23",
+      "date": "2024-11-16",
+      "time": "11:51:23",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000269-PHOTO-2024-11-16-11-51-24.jpg>",
+      "raw": "[16/11/24, 11:51:23] Elita: <anexo: 00000269-PHOTO-2024-11-16-11-51-24.jpg>",
+      "attachment": {
+        "fileName": "00000269-PHOTO-2024-11-16-11-51-24.jpg"
+      }
+    },
+    {
+      "id": "m270",
+      "timestamp": "2024-11-16T11:54:58",
+      "date": "2024-11-16",
+      "time": "11:54:58",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[16/11/24, 11:54:58] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m271",
+      "timestamp": "2024-11-20T19:55:04",
+      "date": "2024-11-20",
+      "time": "19:55:04",
+      "author": "Elita",
+      "type": "text",
+      "content": "Os defeitos e problemas continuam a aparecer e vocês continuam a não querer saber!\nNenhum homem aparece lá na obra para trabalhar! Há semanas que andamos nisto!",
+      "raw": "[20/11/24, 19:55:04] Elita: Os defeitos e problemas continuam a aparecer e vocês continuam a não querer saber!\nNenhum homem aparece lá na obra para trabalhar! Há semanas que andamos nisto!"
+    },
+    {
+      "id": "m272",
+      "timestamp": "2024-11-20T19:55:05",
+      "date": "2024-11-20",
+      "time": "19:55:05",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível.",
+      "raw": "[20/11/24, 19:55:05] Loan Meireles - Bizan G roup Construções ICF Meireles: Obrigado por nos contactar. De momento, estamos ausentes, mas prometemos responder à sua mensagem o mais brevemente possível."
+    },
+    {
+      "id": "m273",
+      "timestamp": "2024-11-20T20:01:22",
+      "date": "2024-11-20",
+      "time": "20:01:22",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000273-AUDIO-2024-11-20-20-01-23.opus>",
+      "raw": "[20/11/24, 20:01:22] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000273-AUDIO-2024-11-20-20-01-23.opus>",
+      "attachment": {
+        "fileName": "00000273-AUDIO-2024-11-20-20-01-23.opus"
+      }
+    },
+    {
+      "id": "m274",
+      "timestamp": "2024-11-20T20:59:43",
+      "date": "2024-11-20",
+      "time": "20:59:43",
+      "author": "Elita",
+      "type": "text",
+      "content": "A instalação elétrica e o ITED não estão feitos devidamente, não cumprem sequer as normas de segurança e de Lei! Isso já lhe foi informado há várias semanas!!Independente de haver ou não projeto a execução está uma vergonha! Vocês não contrataram profissionais e o resultado está aí!",
+      "raw": "[20/11/24, 20:59:43] Elita: A instalação elétrica e o ITED não estão feitos devidamente, não cumprem sequer as normas de segurança e de Lei! Isso já lhe foi informado há várias semanas!!Independente de haver ou não projeto a execução está uma vergonha! Vocês não contrataram profissionais e o resultado está aí!"
+    },
+    {
+      "id": "m275",
+      "timestamp": "2024-11-20T21:21:58",
+      "date": "2024-11-20",
+      "time": "21:21:58",
+      "author": "Elita",
+      "type": "text",
+      "content": "Qualquer profissional competente saberia e tinha por obrigação que cumprir com as normas e segurança, independente de haver ou não projeto profissional",
+      "raw": "[20/11/24, 21:21:58] Elita: Qualquer profissional competente saberia e tinha por obrigação que cumprir com as normas e segurança, independente de haver ou não projeto profissional"
+    },
+    {
+      "id": "m276",
+      "timestamp": "2024-11-20T21:34:07",
+      "date": "2024-11-20",
+      "time": "21:34:07",
+      "author": "Elita",
+      "type": "text",
+      "content": "Onde está o engenheiro eletrotécnico que você me falou há dias que ia contratar?",
+      "raw": "[20/11/24, 21:34:07] Elita: Onde está o engenheiro eletrotécnico que você me falou há dias que ia contratar?"
+    },
+    {
+      "id": "m277",
+      "timestamp": "2024-11-20T21:46:06",
+      "date": "2024-11-20",
+      "time": "21:46:06",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "text",
+      "content": "Não falei que ia contratar. Disse que ia falar com ele para ele te passar um orçamento do projeto elétrico.",
+      "raw": "[20/11/24, 21:46:06] Loan Meireles - Bizan G roup Construções ICF Meireles: Não falei que ia contratar. Disse que ia falar com ele para ele te passar um orçamento do projeto elétrico."
+    },
+    {
+      "id": "m278",
+      "timestamp": "2024-11-20T21:50:59",
+      "date": "2024-11-20",
+      "time": "21:50:59",
+      "author": "Elita",
+      "type": "text",
+      "content": "Quanta mentira!!!",
+      "raw": "[20/11/24, 21:50:59] Elita: Quanta mentira!!!"
+    },
+    {
+      "id": "m279",
+      "timestamp": "2024-11-20T21:52:14",
+      "date": "2024-11-20",
+      "time": "21:52:14",
+      "author": "Loan Meireles - Bizan Group Construções ICF Meireles",
+      "type": "audio",
+      "content": "<anexo: 00000279-AUDIO-2024-11-20-21-52-15.opus>",
+      "raw": "[20/11/24, 21:52:14] Loan Meireles - Bizan G roup Construções ICF Meireles: <anexo: 00000279-AUDIO-2024-11-20-21-52-15.opus>",
+      "attachment": {
+        "fileName": "00000279-AUDIO-2024-11-20-21-52-15.opus"
+      }
+    },
+    {
+      "id": "m280",
+      "timestamp": "2024-11-20T21:52:33",
+      "date": "2024-11-20",
+      "time": "21:52:33",
+      "author": "Elita",
+      "type": "text",
+      "content": "É mais uma, coma a da impermeabilização, por exemplo",
+      "raw": "[20/11/24, 21:52:33] Elita: É mais uma, coma a da impermeabilização, por exemplo"
+    }
+  ]
+}

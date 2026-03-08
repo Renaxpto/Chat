@@ -1,8 +1,16 @@
 [
    { "id": "filipe_homeblock", "title": "filipe_homeblock" },
       { "id": "sr_oliveira", "title": "Sr Oliveira" },
-      { "id": "augusto_eletricista", "title": "Augusto Eletricista" }
- 
+      { "id": "augusto_eletricista", "title": "Augusto Eletricista" },
+      {
+  "id": "loan_meireles",
+  "title": "Loan Meireles"
+},
+
+   {
+  "id": "sr_Israel",
+  "title": "sr_Israel"
+}
       
 
 ]

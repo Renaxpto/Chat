@@ -1,0 +1,473 @@
+{
+  "schema": "whatsapp-export.v1",
+  "sourceFile": "_chat-7.txt",
+  "messageCount": 40,
+  "messages": [
+    {
+      "id": "m1",
+      "timestamp": "2024-06-28T19:39:01",
+      "date": "2024-06-28",
+      "time": "19:39:01",
+      "author": "Sr Israel",
+      "type": "system",
+      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar.",
+      "raw": "[28/06/24, 19:39:01] Sr Israel: As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
+    },
+    {
+      "id": "m2",
+      "timestamp": "2024-06-28T19:39:01",
+      "date": "2024-06-28",
+      "time": "19:39:01",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000002-PHOTO-2024-06-28-19-39-01.jpg>",
+      "raw": "[28/06/24, 19:39:01] Sr Israel: <anexo: 00000002-PHOTO-2024-06-28-19-39-01.jpg>",
+      "attachment": {
+        "fileName": "00000002-PHOTO-2024-06-28-19-39-01.jpg"
+      }
+    },
+    {
+      "id": "m3",
+      "timestamp": "2024-06-28T19:39:12",
+      "date": "2024-06-28",
+      "time": "19:39:12",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000003-PHOTO-2024-06-28-19-39-12.jpg>",
+      "raw": "[28/06/24, 19:39:12] Sr Israel: <anexo: 00000003-PHOTO-2024-06-28-19-39-12.jpg>",
+      "attachment": {
+        "fileName": "00000003-PHOTO-2024-06-28-19-39-12.jpg"
+      }
+    },
+    {
+      "id": "m4",
+      "timestamp": "2024-06-28T19:39:41",
+      "date": "2024-06-28",
+      "time": "19:39:41",
+      "author": "Elita",
+      "type": "text",
+      "content": "Obrigada 🙏🙏🙏",
+      "raw": "[28/06/24, 19:39:41] Elita: Obrigada 🙏🙏🙏"
+    },
+    {
+      "id": "m5",
+      "timestamp": "2024-06-28T19:39:45",
+      "date": "2024-06-28",
+      "time": "19:39:45",
+      "author": "Sr Israel",
+      "type": "audio",
+      "content": "<anexo: 00000005-AUDIO-2024-06-28-19-39-45.opus>",
+      "raw": "[28/06/24, 19:39:45] Sr Israel: <anexo: 00000005-AUDIO-2024-06-28-19-39-45.opus>",
+      "attachment": {
+        "fileName": "00000005-AUDIO-2024-06-28-19-39-45.opus"
+      }
+    },
+    {
+      "id": "m6",
+      "timestamp": "2024-06-28T19:39:53",
+      "date": "2024-06-28",
+      "time": "19:39:53",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom S Pedro",
+      "raw": "[28/06/24, 19:39:53] Elita: Bom S Pedro"
+    },
+    {
+      "id": "m7",
+      "timestamp": "2024-08-03T14:02:38",
+      "date": "2024-08-03",
+      "time": "14:02:38",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000007-PHOTO-2024-08-03-14-02-38.jpg>",
+      "raw": "[03/08/24, 14:02:38] Sr Israel: <anexo: 00000007-PHOTO-2024-08-03-14-02-38.jpg>",
+      "attachment": {
+        "fileName": "00000007-PHOTO-2024-08-03-14-02-38.jpg"
+      }
+    },
+    {
+      "id": "m8",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000008-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000008-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000008-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m9",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000009-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000009-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000009-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m10",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000010-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000010-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000010-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m11",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000011-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000011-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000011-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m12",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000012-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000012-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000012-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m13",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000013-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000013-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000013-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m14",
+      "timestamp": "2024-08-03T14:02:39",
+      "date": "2024-08-03",
+      "time": "14:02:39",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000014-PHOTO-2024-08-03-14-02-39.jpg>",
+      "raw": "[03/08/24, 14:02:39] Sr Israel: <anexo: 00000014-PHOTO-2024-08-03-14-02-39.jpg>",
+      "attachment": {
+        "fileName": "00000014-PHOTO-2024-08-03-14-02-39.jpg"
+      }
+    },
+    {
+      "id": "m15",
+      "timestamp": "2024-08-03T14:02:40",
+      "date": "2024-08-03",
+      "time": "14:02:40",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000015-PHOTO-2024-08-03-14-02-40.jpg>",
+      "raw": "[03/08/24, 14:02:40] Sr Israel: <anexo: 00000015-PHOTO-2024-08-03-14-02-40.jpg>",
+      "attachment": {
+        "fileName": "00000015-PHOTO-2024-08-03-14-02-40.jpg"
+      }
+    },
+    {
+      "id": "m16",
+      "timestamp": "2024-08-03T14:02:40",
+      "date": "2024-08-03",
+      "time": "14:02:40",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000016-PHOTO-2024-08-03-14-02-40.jpg>",
+      "raw": "[03/08/24, 14:02:40] Sr Israel: <anexo: 00000016-PHOTO-2024-08-03-14-02-40.jpg>",
+      "attachment": {
+        "fileName": "00000016-PHOTO-2024-08-03-14-02-40.jpg"
+      }
+    },
+    {
+      "id": "m17",
+      "timestamp": "2024-08-03T14:03:13",
+      "date": "2024-08-03",
+      "time": "14:03:13",
+      "author": "Sr Israel",
+      "type": "audio",
+      "content": "<anexo: 00000017-AUDIO-2024-08-03-14-03-13.opus>",
+      "raw": "[03/08/24, 14:03:13] Sr Israel: <anexo: 00000017-AUDIO-2024-08-03-14-03-13.opus>",
+      "attachment": {
+        "fileName": "00000017-AUDIO-2024-08-03-14-03-13.opus"
+      }
+    },
+    {
+      "id": "m18",
+      "timestamp": "2024-09-04T19:30:32",
+      "date": "2024-09-04",
+      "time": "19:30:32",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "E só está parte <anexo: 00000018-PHOTO-2024-09-04-19-30-32.jpg>",
+      "raw": "[04/09/24, 19:30:32] Sr Israel: E só está parte <anexo: 00000018-PHOTO-2024-09-04-19-30-32.jpg>",
+      "attachment": {
+        "fileName": "00000018-PHOTO-2024-09-04-19-30-32.jpg"
+      }
+    },
+    {
+      "id": "m19",
+      "timestamp": "2024-09-04T19:30:32",
+      "date": "2024-09-04",
+      "time": "19:30:32",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000019-PHOTO-2024-09-04-19-30-32.jpg>",
+      "raw": "[04/09/24, 19:30:32] Sr Israel: <anexo: 00000019-PHOTO-2024-09-04-19-30-32.jpg>",
+      "attachment": {
+        "fileName": "00000019-PHOTO-2024-09-04-19-30-32.jpg"
+      }
+    },
+    {
+      "id": "m20",
+      "timestamp": "2024-09-04T19:31:52",
+      "date": "2024-09-04",
+      "time": "19:31:52",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok obrigada 🙏",
+      "raw": "[04/09/24, 19:31:52] Elita: Ok obrigada 🙏"
+    },
+    {
+      "id": "m21",
+      "timestamp": "2024-09-04T21:48:00",
+      "date": "2024-09-04",
+      "time": "21:48:00",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não consegui perceber o tal defeito 🫣",
+      "raw": "[04/09/24, 21:48:00] Elita: Não consegui perceber o tal defeito 🫣"
+    },
+    {
+      "id": "m22",
+      "timestamp": "2024-09-16T10:27:42",
+      "date": "2024-09-16",
+      "time": "10:27:42",
+      "author": "Sr Israel",
+      "type": "call",
+      "content": "Videochamada  2 min",
+      "raw": "[16/09/24, 10:27:42] Sr Israel: Videochamada  2 min"
+    },
+    {
+      "id": "m23",
+      "timestamp": "2024-10-16T15:19:16",
+      "date": "2024-10-16",
+      "time": "15:19:16",
+      "author": "Sr Israel",
+      "type": "video",
+      "content": "<anexo: 00000023-VIDEO-2024-10-16-15-19-16.mp4>",
+      "raw": "[16/10/24, 15:19:16] Sr Israel: <anexo: 00000023-VIDEO-2024-10-16-15-19-16.mp4>",
+      "attachment": {
+        "fileName": "00000023-VIDEO-2024-10-16-15-19-16.mp4"
+      }
+    },
+    {
+      "id": "m24",
+      "timestamp": "2024-10-16T17:34:28",
+      "date": "2024-10-16",
+      "time": "17:34:28",
+      "author": "Sr Israel",
+      "type": "text",
+      "content": "Assim que puder me liga",
+      "raw": "[16/10/24, 17:34:28] Sr Israel: Assim que puder me liga"
+    },
+    {
+      "id": "m25",
+      "timestamp": "2025-01-29T12:02:12",
+      "date": "2025-01-29",
+      "time": "12:02:12",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Israel\nFaltam coisas minhas que estavam na obra, agradeço que me devolvam, pois acredito terem levado por engano, junto com as vossas coisas. Obrigada",
+      "raw": "[29/01/25, 12:02:12] Elita: Bom dia Sr Israel\nFaltam coisas minhas que estavam na obra, agradeço que me devolvam, pois acredito terem levado por engano, junto com as vossas coisas. Obrigada"
+    },
+    {
+      "id": "m26",
+      "timestamp": "2025-01-29T12:20:06",
+      "date": "2025-01-29",
+      "time": "12:20:06",
+      "author": "Sr Israel",
+      "type": "deleted",
+      "content": "Esta mensagem foi eliminada.",
+      "raw": "[29/01/25, 12:20:06] Sr Israel: Esta mensagem foi eliminada."
+    },
+    {
+      "id": "m27",
+      "timestamp": "2025-01-29T12:22:56",
+      "date": "2025-01-29",
+      "time": "12:22:56",
+      "author": "Sr Israel",
+      "type": "text",
+      "content": "Bom dia\nO que séria",
+      "raw": "[29/01/25, 12:22:56] Sr Israel: Bom dia\nO que séria"
+    },
+    {
+      "id": "m28",
+      "timestamp": "2025-01-29T12:40:37",
+      "date": "2025-01-29",
+      "time": "12:40:37",
+      "author": "Elita",
+      "type": "text",
+      "content": "1 marreta\n1 inchada",
+      "raw": "[29/01/25, 12:40:37] Elita: 1 marreta\n1 inchada"
+    },
+    {
+      "id": "m29",
+      "timestamp": "2025-01-29T12:50:02",
+      "date": "2025-01-29",
+      "time": "12:50:02",
+      "author": "Sr Israel",
+      "type": "text",
+      "content": "E uma inchada pequena?",
+      "raw": "[29/01/25, 12:50:02] Sr Israel: E uma inchada pequena?"
+    },
+    {
+      "id": "m30",
+      "timestamp": "2025-01-29T12:53:02",
+      "date": "2025-01-29",
+      "time": "12:53:02",
+      "author": "Sr Israel",
+      "type": "text",
+      "content": "A marreta não peguei\nPode ser que o Sr Fernando possa ter levado por engano\nTem como descrever a marreta?",
+      "raw": "[29/01/25, 12:53:02] Sr Israel: A marreta não peguei\nPode ser que o Sr Fernando possa ter levado por engano\nTem como descrever a marreta?"
+    },
+    {
+      "id": "m31",
+      "timestamp": "2025-01-29T13:22:54",
+      "date": "2025-01-29",
+      "time": "13:22:54",
+      "author": "Elita",
+      "type": "text",
+      "content": "Eu considero normal",
+      "raw": "[29/01/25, 13:22:54] Elita: Eu considero normal"
+    },
+    {
+      "id": "m32",
+      "timestamp": "2025-01-29T13:25:23",
+      "date": "2025-01-29",
+      "time": "13:25:23",
+      "author": "Elita",
+      "type": "deleted",
+      "content": "Eliminou esta mensagem.",
+      "raw": "[29/01/25, 13:25:23] Elita: Eliminou esta mensagem."
+    },
+    {
+      "id": "m33",
+      "timestamp": "2025-01-29T13:25:52",
+      "date": "2025-01-29",
+      "time": "13:25:52",
+      "author": "Elita",
+      "type": "text",
+      "content": "É pesada",
+      "raw": "[29/01/25, 13:25:52] Elita: É pesada"
+    },
+    {
+      "id": "m34",
+      "timestamp": "2025-01-29T13:47:52",
+      "date": "2025-01-29",
+      "time": "13:47:52",
+      "author": "Sr Israel",
+      "type": "audio",
+      "content": "<anexo: 00000034-AUDIO-2025-01-29-13-47-52.opus>",
+      "raw": "[29/01/25, 13:47:52] Sr Israel: <anexo: 00000034-AUDIO-2025-01-29-13-47-52.opus>",
+      "attachment": {
+        "fileName": "00000034-AUDIO-2025-01-29-13-47-52.opus"
+      }
+    },
+    {
+      "id": "m35",
+      "timestamp": "2025-01-29T17:54:22",
+      "date": "2025-01-29",
+      "time": "17:54:22",
+      "author": "Elita",
+      "type": "audio",
+      "content": "<anexo: 00000035-AUDIO-2025-01-29-17-54-21.opus>",
+      "raw": "[29/01/25, 17:54:22] Elita: <anexo: 00000035-AUDIO-2025-01-29-17-54-21.opus>",
+      "attachment": {
+        "fileName": "00000035-AUDIO-2025-01-29-17-54-21.opus"
+      }
+    },
+    {
+      "id": "m36",
+      "timestamp": "2025-01-29T17:56:26",
+      "date": "2025-01-29",
+      "time": "17:56:26",
+      "author": "Sr Israel",
+      "type": "audio",
+      "content": "<anexo: 00000036-AUDIO-2025-01-29-17-56-26.opus>",
+      "raw": "[29/01/25, 17:56:26] Sr Israel: <anexo: 00000036-AUDIO-2025-01-29-17-56-26.opus>",
+      "attachment": {
+        "fileName": "00000036-AUDIO-2025-01-29-17-56-26.opus"
+      }
+    },
+    {
+      "id": "m37",
+      "timestamp": "2025-01-29T18:02:41",
+      "date": "2025-01-29",
+      "time": "18:02:41",
+      "author": "Elita",
+      "type": "text",
+      "content": "Obrigada",
+      "raw": "[29/01/25, 18:02:41] Elita: Obrigada"
+    },
+    {
+      "id": "m38",
+      "timestamp": "2025-02-06T19:00:25",
+      "date": "2025-02-06",
+      "time": "19:00:25",
+      "author": "Sr Israel",
+      "type": "image",
+      "content": "<anexo: 00000038-PHOTO-2025-02-06-19-00-25.jpg>",
+      "raw": "[06/02/25, 19:00:25] Sr Israel: <anexo: 00000038-PHOTO-2025-02-06-19-00-25.jpg>",
+      "attachment": {
+        "fileName": "00000038-PHOTO-2025-02-06-19-00-25.jpg"
+      }
+    },
+    {
+      "id": "m39",
+      "timestamp": "2025-02-06T19:00:51",
+      "date": "2025-02-06",
+      "time": "19:00:51",
+      "author": "Sr Israel",
+      "type": "audio",
+      "content": "<anexo: 00000039-AUDIO-2025-02-06-19-00-51.opus>",
+      "raw": "[06/02/25, 19:00:51] Sr Israel: <anexo: 00000039-AUDIO-2025-02-06-19-00-51.opus>",
+      "attachment": {
+        "fileName": "00000039-AUDIO-2025-02-06-19-00-51.opus"
+      }
+    },
+    {
+      "id": "m40",
+      "timestamp": "2025-02-06T19:49:28",
+      "date": "2025-02-06",
+      "time": "19:49:28",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok obrigada",
+      "raw": "[06/02/25, 19:49:28] Elita: Ok obrigada"
+    }
+  ]
+}

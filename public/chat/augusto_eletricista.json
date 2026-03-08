@@ -1,7 +1,7 @@
 {
   "schema": "whatsapp-export.v1",
   "sourceFile": "_chat-4.txt",
-  "messageCount": 67,
+  "messageCount": 109,
   "messages": [
     {
       "id": "m1",
@@ -10,7 +10,8 @@
       "time": "13:18:15",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "system",
-      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
+      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar.",
+      "raw": "[06/08/24, 13:18:15] Augusto Eletricista/Picheleiro/ICF: ‎As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
     },
     {
       "id": "m2",
@@ -19,7 +20,8 @@
       "time": "13:18:15",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "text",
-      "content": "Home Block\n926 668 884\nhttps://g.co/kgs/E45CYNZ"
+      "content": "Home Block\n926 668 884\n\n https://g.co/kgs/E45CYNZ",
+      "raw": "[06/08/24, 13:18:15] Augusto Eletricista/Picheleiro/ICF: Home Block\n926 668 884\n\n https://g.co/kgs/E45CYNZ"
     },
     {
       "id": "m3",
@@ -28,7 +30,8 @@
       "time": "21:19:46",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "text",
-      "content": "Olá o valor ficou em 434,27 dos interruptor e modulos e leds com controle"
+      "content": "Olá o valor ficou em 434,27  doa interruptor e modulos  e leds com controle",
+      "raw": "[06/08/24, 21:19:46] Augusto Eletricista/Picheleiro/ICF: Olá o valor ficou em 434,27  doa interruptor e modulos  e leds com controle"
     },
     {
       "id": "m4",
@@ -37,7 +40,8 @@
       "time": "21:21:38",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "text",
-      "content": "Todos os interuptores e leds e modulos conectores rápidos para fios de tomadas e de focos"
+      "content": "Todos os interuptores e lends e modulos conectores rápidos para fios de tomadas e de focos",
+      "raw": "[06/08/24, 21:21:38] Augusto Eletricista/Picheleiro/ICF: Todos os interuptores e lends e modulos conectores rápidos para fios de tomadas e de focos"
     },
     {
       "id": "m5",
@@ -46,7 +50,8 @@
       "time": "21:21:55",
       "author": "Elita",
       "type": "text",
-      "content": "Está tudo?"
+      "content": "Está tudo?",
+      "raw": "[06/08/24, 21:21:55] Elita: Está tudo?"
     },
     {
       "id": "m6",
@@ -55,167 +60,1164 @@
       "time": "21:22:19",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "text",
-      "content": "Sim já com os leds q mudam de cor tbm mas isso eles não sabem kkk"
+      "content": "Sim já com os leds q mudam de cor tbm mas isso eles não sabem kkk",
+      "raw": "[06/08/24, 21:22:19] Augusto Eletricista/Picheleiro/ICF: Sim já com os leds q mudam de cor tbm mas isso eles não sabem kkk"
     },
     {
       "id": "m7",
+      "timestamp": "2024-08-06T21:22:36",
+      "date": "2024-08-06",
+      "time": "21:22:36",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[06/08/24, 21:22:36] Augusto Eletricista/Picheleiro/ICF: Ok"
+    },
+    {
+      "id": "m8",
+      "timestamp": "2024-08-06T21:22:40",
+      "date": "2024-08-06",
+      "time": "21:22:40",
+      "author": "Elita",
+      "type": "text",
+      "content": "Já lhe envio",
+      "raw": "[06/08/24, 21:22:40] Elita: Já lhe envio"
+    },
+    {
+      "id": "m9",
+      "timestamp": "2024-08-06T21:22:44",
+      "date": "2024-08-06",
+      "time": "21:22:44",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[06/08/24, 21:22:44] Augusto Eletricista/Picheleiro/ICF: Ok"
+    },
+    {
+      "id": "m10",
+      "timestamp": "2024-08-06T21:23:16",
+      "date": "2024-08-06",
+      "time": "21:23:16",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Avisa o merelheres ok  já avisei ele mas não olhou o whatsapp",
+      "raw": "[06/08/24, 21:23:16] Augusto Eletricista/Picheleiro/ICF: Avisa o merelheres ok  já avisei ele mas não olhou o whatsapp"
+    },
+    {
+      "id": "m11",
+      "timestamp": "2024-08-06T21:24:10",
+      "date": "2024-08-06",
+      "time": "21:24:10",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não tem ligado",
+      "raw": "[06/08/24, 21:24:10] Elita: Não tem ligado"
+    },
+    {
+      "id": "m12",
+      "timestamp": "2024-08-06T21:24:36",
+      "date": "2024-08-06",
+      "time": "21:24:36",
+      "author": "Elita",
+      "type": "text",
+      "content": "Acha que devo ligar ao Sr Oliveira?",
+      "raw": "[06/08/24, 21:24:36] Elita: Acha que devo ligar ao Sr Oliveira?"
+    },
+    {
+      "id": "m13",
       "timestamp": "2024-08-06T21:24:44",
       "date": "2024-08-06",
       "time": "21:24:44",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "audio",
+      "content": "<anexo: 00000013-AUDIO-2024-08-06-21-24-44.opus>",
+      "raw": "‎[06/08/24, 21:24:44] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000013-AUDIO-2024-08-06-21-24-44.opus>",
       "attachment": {
         "fileName": "00000013-AUDIO-2024-08-06-21-24-44.opus"
       }
     },
     {
-      "id": "m8",
+      "id": "m14",
       "timestamp": "2024-08-06T21:25:17",
       "date": "2024-08-06",
       "time": "21:25:17",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "audio",
+      "content": "<anexo: 00000014-AUDIO-2024-08-06-21-25-17.opus>",
+      "raw": "‎[06/08/24, 21:25:17] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000014-AUDIO-2024-08-06-21-25-17.opus>",
       "attachment": {
         "fileName": "00000014-AUDIO-2024-08-06-21-25-17.opus"
       }
     },
     {
-      "id": "m9",
+      "id": "m15",
       "timestamp": "2024-08-06T21:27:29",
       "date": "2024-08-06",
       "time": "21:27:29",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "audio",
+      "content": "<anexo: 00000015-AUDIO-2024-08-06-21-27-29.opus>",
+      "raw": "‎[06/08/24, 21:27:29] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000015-AUDIO-2024-08-06-21-27-29.opus>",
       "attachment": {
         "fileName": "00000015-AUDIO-2024-08-06-21-27-29.opus"
       }
     },
     {
-      "id": "m10",
-      "timestamp": "2024-08-06T21:28:57",
+      "id": "m16",
+      "timestamp": "2024-08-06T21:28:58",
       "date": "2024-08-06",
-      "time": "21:28:57",
+      "time": "21:28:58",
       "author": "Elita",
       "type": "audio",
+      "content": "<anexo: 00000016-AUDIO-2024-08-06-21-28-57.opus>",
+      "raw": "‎[06/08/24, 21:28:58] Elita: ‎<anexo: 00000016-AUDIO-2024-08-06-21-28-57.opus>",
       "attachment": {
         "fileName": "00000016-AUDIO-2024-08-06-21-28-57.opus"
       }
     },
     {
-      "id": "m11",
+      "id": "m17",
+      "timestamp": "2024-08-06T21:29:37",
+      "date": "2024-08-06",
+      "time": "21:29:37",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[06/08/24, 21:29:37] Augusto Eletricista/Picheleiro/ICF: Ok"
+    },
+    {
+      "id": "m18",
       "timestamp": "2024-08-06T21:33:18",
       "date": "2024-08-06",
       "time": "21:33:18",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "audio",
+      "content": "<anexo: 00000018-AUDIO-2024-08-06-21-33-18.opus>",
+      "raw": "‎[06/08/24, 21:33:18] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000018-AUDIO-2024-08-06-21-33-18.opus>",
       "attachment": {
         "fileName": "00000018-AUDIO-2024-08-06-21-33-18.opus"
       }
     },
     {
-      "id": "m12",
-      "timestamp": "2024-08-06T22:00:40",
+      "id": "m19",
+      "timestamp": "2024-08-06T22:00:41",
       "date": "2024-08-06",
-      "time": "22:00:40",
+      "time": "22:00:41",
       "author": "Elita",
       "type": "audio",
+      "content": "<anexo: 00000019-AUDIO-2024-08-06-22-00-40.opus>",
+      "raw": "‎[06/08/24, 22:00:41] Elita: ‎<anexo: 00000019-AUDIO-2024-08-06-22-00-40.opus>",
       "attachment": {
         "fileName": "00000019-AUDIO-2024-08-06-22-00-40.opus"
       }
     },
     {
-      "id": "m13",
+      "id": "m20",
       "timestamp": "2024-08-06T22:01:11",
       "date": "2024-08-06",
       "time": "22:01:11",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "audio",
+      "content": "<anexo: 00000020-AUDIO-2024-08-06-22-01-11.opus>",
+      "raw": "‎[06/08/24, 22:01:11] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000020-AUDIO-2024-08-06-22-01-11.opus>",
       "attachment": {
         "fileName": "00000020-AUDIO-2024-08-06-22-01-11.opus"
       }
     },
     {
-      "id": "m14",
+      "id": "m21",
       "timestamp": "2024-08-06T22:01:52",
       "date": "2024-08-06",
       "time": "22:01:52",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "audio",
+      "content": "<anexo: 00000021-AUDIO-2024-08-06-22-01-52.opus>",
+      "raw": "‎[06/08/24, 22:01:52] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000021-AUDIO-2024-08-06-22-01-52.opus>",
       "attachment": {
         "fileName": "00000021-AUDIO-2024-08-06-22-01-52.opus"
       }
     },
-
     {
-      "id": "m20",
+      "id": "m22",
+      "timestamp": "2024-08-06T22:02:23",
+      "date": "2024-08-06",
+      "time": "22:02:23",
+      "author": "Elita",
+      "type": "text",
+      "content": "Ok tudo bem",
+      "raw": "[06/08/24, 22:02:23] Elita: Ok tudo bem"
+    },
+    {
+      "id": "m23",
+      "timestamp": "2024-08-06T22:02:32",
+      "date": "2024-08-06",
+      "time": "22:02:32",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[06/08/24, 22:02:32] Augusto Eletricista/Picheleiro/ICF: Ok"
+    },
+    {
+      "id": "m24",
+      "timestamp": "2024-08-06T22:03:35",
+      "date": "2024-08-06",
+      "time": "22:03:35",
+      "author": "Elita",
+      "type": "text",
+      "content": "Enviado",
+      "raw": "[06/08/24, 22:03:35] Elita: Enviado"
+    },
+    {
+      "id": "m25",
+      "timestamp": "2024-08-06T22:03:36",
+      "date": "2024-08-06",
+      "time": "22:03:36",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000025-AUDIO-2024-08-06-22-03-36.opus>",
+      "raw": "‎[06/08/24, 22:03:36] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000025-AUDIO-2024-08-06-22-03-36.opus>",
+      "attachment": {
+        "fileName": "00000025-AUDIO-2024-08-06-22-03-36.opus"
+      }
+    },
+    {
+      "id": "m26",
+      "timestamp": "2024-08-07T11:12:50",
+      "date": "2024-08-07",
+      "time": "11:12:50",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000026-AUDIO-2024-08-07-11-12-50.opus>",
+      "raw": "‎[07/08/24, 11:12:50] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000026-AUDIO-2024-08-07-11-12-50.opus>",
+      "attachment": {
+        "fileName": "00000026-AUDIO-2024-08-07-11-12-50.opus"
+      }
+    },
+    {
+      "id": "m27",
+      "timestamp": "2024-08-08T13:16:22",
+      "date": "2024-08-08",
+      "time": "13:16:22",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Trabalho de pichelaria e elétrica valor total de 6800 euros.\n\nOBS: ( valor acima  não aplicado para pre instalação de ar condicionado. Pre instalação de ar condicionado 250 euros por ar condicionado)\n\nPichelaria 3000 englobando \n1 contrução de 3 caixas de passagens de esgoto \n2 tubulação de água fria em tubos ppr ou tubos multe camadas \n3 tubulação de água quente em tobos de ppr ou multe camadas \n4 construção de esgoto de 3 casas de banho \n5 Contrução de esgoto de cozinha \n6 aplicação de loucas como banheiras \nduchas lavados e \nsanitas \n7 aplicação de torneiras de cozinha e passadores \n\nEletricidade 3800\n\n1 instalação de conduítes \n2 aplicação de fios de 1.5\n3 aplicação de fios 2.5\n4 aplicação de fios de 6 mm para tomadas específicas fornos \n4 aplicação de fios de 4 mm para tomadas específica de placas  e e aquecedores elétricos\n5 fechamento de tomadas e comutadores simples e comutadores de 4 saídas \n6 instalação de quadro elétrico \n7 fechento de quadro elétricos e aplicação de dinjutores de 16 am\n20 am \n8 aplicação de DR e DPS circuito de segurança \n9 pre instalação de placas solares ( conduítes para os futuros fios )\n\n\nTotal de 6800  pichelaria e elétrica  .\n\nObs . O valor acima não inclui IVA e não inclui pre instalação de ar condicionado .",
+      "raw": "[08/08/24, 13:16:22] Augusto Eletricista/Picheleiro/ICF: Trabalho de pichelaria e elétrica valor total de 6800 euros.\n\nOBS: ( valor acima  não aplicado para pre instalação de ar condicionado. Pre instalação de ar condicionado 250 euros por ar condicionado)\n\nPichelaria 3000 englobando \n1 contrução de 3 caixas de passagens de esgoto \n2 tubulação de água fria em tubos ppr ou tubos multe camadas \n3 tubulação de água quente em tobos de ppr ou multe camadas \n4 construção de esgoto de 3 casas de banho \n5 Contrução de esgoto de cozinha \n6 aplicação de loucas como banheiras \nduchas lavados e \nsanitas \n7 aplicação de torneiras de cozinha e passadores \n\nEletricidade 3800\n\n1 instalação de conduítes \n2 aplicação de fios de 1.5\n3 aplicação de fios 2.5\n4 aplicação de fios de 6 mm para tomadas específicas fornos \n4 aplicação de fios de 4 mm para tomadas específica de placas  e e aquecedores elétricos\n5 fechamento de tomadas e comutadores simples e comutadores de 4 saídas \n6 instalação de quadro elétrico \n7 fechento de quadro elétricos e aplicação de dinjutores de 16 am\n20 am \n8 aplicação de DR e DPS circuito de segurança \n9 pre instalação de placas solares ( conduítes para os futuros fios )\n\n\nTotal de 6800  pichelaria e elétrica  .\n\nObs . O valor acima não inclui IVA e não inclui pre instalação de ar condicionado ."
+    },
+    {
+      "id": "m28",
+      "timestamp": "2024-08-14T09:45:30",
+      "date": "2024-08-14",
+      "time": "09:45:30",
+      "author": "Elita",
+      "type": "text",
+      "content": "45 focos de 15cm\nRefletores solares mínimo 10 000 lumines 6 unidades",
+      "raw": "[14/08/24, 09:45:30] Elita: 45 focos de 15cm\nRefletores solares mínimo 10 000 lumines 6 unidades"
+    },
+    {
+      "id": "m29",
       "timestamp": "2024-08-14T15:48:50",
       "date": "2024-08-14",
       "time": "15:48:50",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "image",
+      "content": "<anexo: 00000029-PHOTO-2024-08-14-15-48-50.jpg>",
+      "raw": "‎[14/08/24, 15:48:50] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000029-PHOTO-2024-08-14-15-48-50.jpg>",
       "attachment": {
         "fileName": "00000029-PHOTO-2024-08-14-15-48-50.jpg"
       }
     },
-
     {
-      "id": "m21",
+      "id": "m30",
+      "timestamp": "2024-08-14T15:49:09",
+      "date": "2024-08-14",
+      "time": "15:49:09",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "28.17 cêntimos casa luz exterior",
+      "raw": "[14/08/24, 15:49:09] Augusto Eletricista/Picheleiro/ICF: 28.17 cêntimos casa luz exterior"
+    },
+    {
+      "id": "m31",
       "timestamp": "2024-08-14T16:05:00",
       "date": "2024-08-14",
       "time": "16:05:00",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "image",
+      "content": "<anexo: 00000031-PHOTO-2024-08-14-16-05-00.jpg>",
+      "raw": "‎[14/08/24, 16:05:00] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000031-PHOTO-2024-08-14-16-05-00.jpg>",
       "attachment": {
         "fileName": "00000031-PHOTO-2024-08-14-16-05-00.jpg"
       }
     },
-
     {
-      "id": "m22",
+      "id": "m32",
+      "timestamp": "2024-08-14T16:05:09",
+      "date": "2024-08-14",
+      "time": "16:05:09",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Focos quadrados e muito caro",
+      "raw": "[14/08/24, 16:05:09] Augusto Eletricista/Picheleiro/ICF: Focos quadrados e muito caro"
+    },
+    {
+      "id": "m33",
       "timestamp": "2024-08-14T16:21:32",
       "date": "2024-08-14",
       "time": "16:21:32",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "image",
+      "content": "<anexo: 00000033-PHOTO-2024-08-14-16-21-32.jpg>",
+      "raw": "‎[14/08/24, 16:21:32] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000033-PHOTO-2024-08-14-16-21-32.jpg>",
       "attachment": {
         "fileName": "00000033-PHOTO-2024-08-14-16-21-32.jpg"
       }
     },
-
     {
-      "id": "m30",
+      "id": "m34",
+      "timestamp": "2024-08-14T16:21:45",
+      "date": "2024-08-14",
+      "time": "16:21:45",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Esses quadrados são 5.80 cada.um",
+      "raw": "[14/08/24, 16:21:45] Augusto Eletricista/Picheleiro/ICF: Esses quadrados são 5.80 cada.um"
+    },
+    {
+      "id": "m35",
+      "timestamp": "2024-08-14T16:21:59",
+      "date": "2024-08-14",
+      "time": "16:21:59",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Tem muito mas barato dos redondos",
+      "raw": "[14/08/24, 16:21:59] Augusto Eletricista/Picheleiro/ICF: Tem muito mas barato dos redondos"
+    },
+    {
+      "id": "m36",
+      "timestamp": "2024-08-14T16:47:49",
+      "date": "2024-08-14",
+      "time": "16:47:49",
+      "author": "Elita",
+      "type": "text",
+      "content": "Onde viu isso?",
+      "raw": "[14/08/24, 16:47:49] Elita: Onde viu isso?"
+    },
+    {
+      "id": "m37",
+      "timestamp": "2024-08-14T16:48:04",
+      "date": "2024-08-14",
+      "time": "16:48:04",
+      "author": "Elita",
+      "type": "text",
+      "content": "Na Temu?",
+      "raw": "[14/08/24, 16:48:04] Elita: Na Temu?"
+    },
+    {
+      "id": "m38",
+      "timestamp": "2024-08-14T16:48:28",
+      "date": "2024-08-14",
+      "time": "16:48:28",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Na alespres e pedido mínimo e de 100 peças",
+      "raw": "[14/08/24, 16:48:28] Augusto Eletricista/Picheleiro/ICF: Na alespres e pedido mínimo e de 100 peças"
+    },
+    {
+      "id": "m39",
+      "timestamp": "2024-08-14T16:48:53",
+      "date": "2024-08-14",
+      "time": "16:48:53",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Esse e complicado compra.la pq e no atacado",
+      "raw": "[14/08/24, 16:48:53] Augusto Eletricista/Picheleiro/ICF: Esse e complicado compra.la pq e no atacado"
+    },
+    {
+      "id": "m40",
+      "timestamp": "2024-08-14T16:50:08",
+      "date": "2024-08-14",
+      "time": "16:50:08",
+      "author": "Elita",
+      "type": "text",
+      "content": "Entretanto vou ao armazém dos Chineses",
+      "raw": "[14/08/24, 16:50:08] Elita: Entretanto vou ao armazém dos Chineses"
+    },
+    {
+      "id": "m41",
+      "timestamp": "2024-08-14T16:50:36",
+      "date": "2024-08-14",
+      "time": "16:50:36",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Sim vai lá sim",
+      "raw": "[14/08/24, 16:50:36] Augusto Eletricista/Picheleiro/ICF: Sim vai lá sim"
+    },
+    {
+      "id": "m42",
+      "timestamp": "2024-08-21T13:45:26",
+      "date": "2024-08-21",
+      "time": "13:45:26",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000042-PHOTO-2024-08-21-13-45-26.jpg>",
+      "raw": "‎[21/08/24, 13:45:26] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000042-PHOTO-2024-08-21-13-45-26.jpg>",
+      "attachment": {
+        "fileName": "00000042-PHOTO-2024-08-21-13-45-26.jpg"
+      }
+    },
+    {
+      "id": "m43",
+      "timestamp": "2024-08-21T13:46:03",
+      "date": "2024-08-21",
+      "time": "13:46:03",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000043-AUDIO-2024-08-21-13-46-03.opus>",
+      "raw": "‎[21/08/24, 13:46:03] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000043-AUDIO-2024-08-21-13-46-03.opus>",
+      "attachment": {
+        "fileName": "00000043-AUDIO-2024-08-21-13-46-03.opus"
+      }
+    },
+    {
+      "id": "m44",
+      "timestamp": "2024-08-24T10:32:37",
+      "date": "2024-08-24",
+      "time": "10:32:37",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Bom dia sei que fui errado em me estressar com você sei que nada que se passa e culpa sua mas a culpa não e minha estou a tentar fazer e refazer o melhor possível e estou a tentar terminar sua casa sei que pode não está como você sonhou. \nSó tenha em sua consciência que a pessoa a qual deveria sempre está lá e verificar e fazer as coisas de maneira correta e o oliveira e não tem como eu fazer as coisas erradas tento fazer o melhor possível para não prejudicar o cliente.\nSó quero fazer as coisas corretas como sempre faço só isso peço desculpas por ontem e vou pedir pedir desculpas pessoalmente",
+      "raw": "[24/08/24, 10:32:37] Augusto Eletricista/Picheleiro/ICF: Bom dia sei que fui errado em me estressar com você sei que nada que se passa e culpa sua mas a culpa não e minha estou a tentar fazer e refazer o melhor possível e estou a tentar terminar sua casa sei que pode não está como você sonhou. \nSó tenha em sua consciência que a pessoa a qual deveria sempre está lá e verificar e fazer as coisas de maneira correta e o oliveira e não tem como eu fazer as coisas erradas tento fazer o melhor possível para não prejudicar o cliente.\nSó quero fazer as coisas corretas como sempre faço só isso peço desculpas por ontem e vou pedir pedir desculpas pessoalmente"
+    },
+    {
+      "id": "m45",
+      "timestamp": "2024-08-24T10:52:59",
+      "date": "2024-08-24",
+      "time": "10:52:59",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Augusto \nNão tem sido nada fácil para mim",
+      "raw": "[24/08/24, 10:52:59] Elita: Bom dia Sr Augusto \nNão tem sido nada fácil para mim"
+    },
+    {
+      "id": "m46",
+      "timestamp": "2024-08-24T10:53:42",
+      "date": "2024-08-24",
+      "time": "10:53:42",
+      "author": "Elita",
+      "type": "text",
+      "content": "Só eu sei a dor que carrego",
+      "raw": "[24/08/24, 10:53:42] Elita: Só eu sei a dor que carrego"
+    },
+    {
+      "id": "m47",
+      "timestamp": "2024-08-24T10:54:45",
+      "date": "2024-08-24",
+      "time": "10:54:45",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000047-AUDIO-2024-08-24-10-54-45.opus>",
+      "raw": "‎[24/08/24, 10:54:45] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000047-AUDIO-2024-08-24-10-54-45.opus>",
+      "attachment": {
+        "fileName": "00000047-AUDIO-2024-08-24-10-54-45.opus"
+      }
+    },
+    {
+      "id": "m48",
+      "timestamp": "2024-08-24T11:05:18",
+      "date": "2024-08-24",
+      "time": "11:05:18",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não quero problemas, quero soluções e concluir a obra sem mais prejuízos para mim",
+      "raw": "[24/08/24, 11:05:18] Elita: Não quero problemas, quero soluções e concluir a obra sem mais prejuízos para mim"
+    },
+    {
+      "id": "m49",
       "timestamp": "2024-08-28T08:23:00",
       "date": "2024-08-28",
       "time": "08:23:00",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "image",
+      "content": "<anexo: 00000049-PHOTO-2024-08-28-08-23-00.jpg>",
+      "raw": "‎[28/08/24, 08:23:00] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000049-PHOTO-2024-08-28-08-23-00.jpg>",
       "attachment": {
         "fileName": "00000049-PHOTO-2024-08-28-08-23-00.jpg"
       }
     },
-
     {
-      "id": "m31",
+      "id": "m50",
       "timestamp": "2024-08-28T08:23:00",
       "date": "2024-08-28",
       "time": "08:23:00",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "image",
+      "content": "<anexo: 00000050-PHOTO-2024-08-28-08-23-00.jpg>",
+      "raw": "‎[28/08/24, 08:23:00] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000050-PHOTO-2024-08-28-08-23-00.jpg>",
       "attachment": {
         "fileName": "00000050-PHOTO-2024-08-28-08-23-00.jpg"
       }
     },
-
     {
-      "id": "m32",
+      "id": "m51",
       "timestamp": "2024-08-28T08:23:00",
       "date": "2024-08-28",
       "time": "08:23:00",
       "author": "Augusto Eletricista/Picheleiro/ICF",
       "type": "image",
+      "content": "<anexo: 00000051-PHOTO-2024-08-28-08-23-00.jpg>",
+      "raw": "‎[28/08/24, 08:23:00] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000051-PHOTO-2024-08-28-08-23-00.jpg>",
       "attachment": {
         "fileName": "00000051-PHOTO-2024-08-28-08-23-00.jpg"
       }
+    },
+    {
+      "id": "m52",
+      "timestamp": "2024-08-28T08:23:11",
+      "date": "2024-08-28",
+      "time": "08:23:11",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000052-PHOTO-2024-08-28-08-23-11.jpg>",
+      "raw": "‎[28/08/24, 08:23:11] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000052-PHOTO-2024-08-28-08-23-11.jpg>",
+      "attachment": {
+        "fileName": "00000052-PHOTO-2024-08-28-08-23-11.jpg"
+      }
+    },
+    {
+      "id": "m53",
+      "timestamp": "2024-08-28T08:23:22",
+      "date": "2024-08-28",
+      "time": "08:23:22",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000053-AUDIO-2024-08-28-08-23-22.opus>",
+      "raw": "‎[28/08/24, 08:23:22] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000053-AUDIO-2024-08-28-08-23-22.opus>",
+      "attachment": {
+        "fileName": "00000053-AUDIO-2024-08-28-08-23-22.opus"
+      }
+    },
+    {
+      "id": "m54",
+      "timestamp": "2024-08-28T08:23:31",
+      "date": "2024-08-28",
+      "time": "08:23:31",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000054-AUDIO-2024-08-28-08-23-31.opus>",
+      "raw": "‎[28/08/24, 08:23:31] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000054-AUDIO-2024-08-28-08-23-31.opus>",
+      "attachment": {
+        "fileName": "00000054-AUDIO-2024-08-28-08-23-31.opus"
+      }
+    },
+    {
+      "id": "m55",
+      "timestamp": "2024-08-31T10:30:20",
+      "date": "2024-08-31",
+      "time": "10:30:20",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000055-AUDIO-2024-08-31-10-30-20.opus>",
+      "raw": "‎[31/08/24, 10:30:20] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000055-AUDIO-2024-08-31-10-30-20.opus>",
+      "attachment": {
+        "fileName": "00000055-AUDIO-2024-08-31-10-30-20.opus"
+      }
+    },
+    {
+      "id": "m56",
+      "timestamp": "2024-08-31T10:38:11",
+      "date": "2024-08-31",
+      "time": "10:38:11",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia Sr Augusto \nOk tranquilo e obrigada por avisar",
+      "raw": "[31/08/24, 10:38:11] Elita: Bom dia Sr Augusto \nOk tranquilo e obrigada por avisar"
+    },
+    {
+      "id": "m57",
+      "timestamp": "2024-09-04T15:52:52",
+      "date": "2024-09-04",
+      "time": "15:52:52",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Boa tarde se você for na obra agora a tarde favor deixe as duas secas de material elétrico perto do mico ondas por que tenho de corta o teto para colocar os focos e tenho de fazer teste na elétrica desde já agradeço",
+      "raw": "[04/09/24, 15:52:52] Augusto Eletricista/Picheleiro/ICF: Boa tarde se você for na obra agora a tarde favor deixe as duas secas de material elétrico perto do mico ondas por que tenho de corta o teto para colocar os focos e tenho de fazer teste na elétrica desde já agradeço"
+    },
+    {
+      "id": "m58",
+      "timestamp": "2024-09-04T16:03:20",
+      "date": "2024-09-04",
+      "time": "16:03:20",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa tarde só consigo final do dia",
+      "raw": "[04/09/24, 16:03:20] Elita: Boa tarde só consigo final do dia"
+    },
+    {
+      "id": "m59",
+      "timestamp": "2024-09-04T16:04:31",
+      "date": "2024-09-04",
+      "time": "16:04:31",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Sim e isso assim amanhã pela manhã já começo a fazer cortes para os focos e já faço o teste ok",
+      "raw": "[04/09/24, 16:04:31] Augusto Eletricista/Picheleiro/ICF: Sim e isso assim amanhã pela manhã já começo a fazer cortes para os focos e já faço o teste ok"
+    },
+    {
+      "id": "m60",
+      "timestamp": "2024-09-04T16:04:44",
+      "date": "2024-09-04",
+      "time": "16:04:44",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000060-PHOTO-2024-09-04-16-04-44.jpg>",
+      "raw": "‎[04/09/24, 16:04:44] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000060-PHOTO-2024-09-04-16-04-44.jpg>",
+      "attachment": {
+        "fileName": "00000060-PHOTO-2024-09-04-16-04-44.jpg"
+      }
+    },
+    {
+      "id": "m61",
+      "timestamp": "2024-09-04T16:05:23",
+      "date": "2024-09-04",
+      "time": "16:05:23",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ao ir compra os focos tem de compra 1 caixa desses conectores",
+      "raw": "[04/09/24, 16:05:23] Augusto Eletricista/Picheleiro/ICF: Ao ir compra os focos tem de compra 1 caixa desses conectores"
+    },
+    {
+      "id": "m62",
+      "timestamp": "2024-09-04T16:16:00",
+      "date": "2024-09-04",
+      "time": "16:16:00",
+      "author": "Elita",
+      "type": "text",
+      "content": "Eu já comprei os focos todos",
+      "raw": "[04/09/24, 16:16:00] Elita: Eu já comprei os focos todos"
+    },
+    {
+      "id": "m63",
+      "timestamp": "2024-09-04T16:16:29",
+      "date": "2024-09-04",
+      "time": "16:16:29",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não me falou disso 🤔",
+      "raw": "[04/09/24, 16:16:29] Elita: Não me falou disso 🤔"
+    },
+    {
+      "id": "m64",
+      "timestamp": "2024-09-04T16:16:36",
+      "date": "2024-09-04",
+      "time": "16:16:36",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok melhor ainda assim já podem ficar no local e faço teste em todos",
+      "raw": "[04/09/24, 16:16:36] Augusto Eletricista/Picheleiro/ICF: Ok melhor ainda assim já podem ficar no local e faço teste em todos"
+    },
+    {
+      "id": "m65",
+      "timestamp": "2024-09-04T16:17:30",
+      "date": "2024-09-04",
+      "time": "16:17:30",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Não falei pq tenho em casa e se eu usa os que tenho vais ter de compra na mesma pra me devolver kkkk",
+      "raw": "[04/09/24, 16:17:30] Augusto Eletricista/Picheleiro/ICF: Não falei pq tenho em casa e se eu usa os que tenho vais ter de compra na mesma pra me devolver kkkk"
+    },
+    {
+      "id": "m66",
+      "timestamp": "2024-09-04T16:18:08",
+      "date": "2024-09-04",
+      "time": "16:18:08",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Mas isso não tem pressa posso usar os meus depôs vc compra outros e me devolver ok",
+      "raw": "[04/09/24, 16:18:08] Augusto Eletricista/Picheleiro/ICF: Mas isso não tem pressa posso usar os meus depôs vc compra outros e me devolver ok"
+    },
+    {
+      "id": "m67",
+      "timestamp": "2024-09-04T18:22:17",
+      "date": "2024-09-04",
+      "time": "18:22:17",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[04/09/24, 18:22:17] Augusto Eletricista/Picheleiro/ICF: Ok"
+    },
+    {
+      "id": "m68",
+      "timestamp": "2024-09-06T08:08:45",
+      "date": "2024-09-06",
+      "time": "08:08:45",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000068-AUDIO-2024-09-06-08-08-45.opus>",
+      "raw": "‎[06/09/24, 08:08:45] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000068-AUDIO-2024-09-06-08-08-45.opus>",
+      "attachment": {
+        "fileName": "00000068-AUDIO-2024-09-06-08-08-45.opus"
+      }
+    },
+    {
+      "id": "m69",
+      "timestamp": "2024-09-06T08:10:33",
+      "date": "2024-09-06",
+      "time": "08:10:33",
+      "author": "Elita",
+      "type": "text",
+      "content": "Bom dia entretanto passo aí",
+      "raw": "[06/09/24, 08:10:33] Elita: Bom dia entretanto passo aí"
+    },
+    {
+      "id": "m70",
+      "timestamp": "2024-09-06T08:11:32",
+      "date": "2024-09-06",
+      "time": "08:11:32",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Aguardo só não demore pq tenho de cortar o gesso e não posso fazer sem descisao sua",
+      "raw": "[06/09/24, 08:11:32] Augusto Eletricista/Picheleiro/ICF: Aguardo só não demore pq tenho de cortar o gesso e não posso fazer sem descisao sua"
+    },
+    {
+      "id": "m71",
+      "timestamp": "2024-09-10T20:42:47",
+      "date": "2024-09-10",
+      "time": "20:42:47",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000071-PHOTO-2024-09-10-20-42-47.jpg>",
+      "raw": "‎[10/09/24, 20:42:47] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000071-PHOTO-2024-09-10-20-42-47.jpg>",
+      "attachment": {
+        "fileName": "00000071-PHOTO-2024-09-10-20-42-47.jpg"
+      }
+    },
+    {
+      "id": "m72",
+      "timestamp": "2024-09-10T20:43:43",
+      "date": "2024-09-10",
+      "time": "20:43:43",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "O restante das coisas  da tum total de 122,14 não comprei só coloquei no carrinho ok fico no aguardo seu",
+      "raw": "[10/09/24, 20:43:43] Augusto Eletricista/Picheleiro/ICF: O restante das coisas  da tum total de 122,14 não comprei só coloquei no carrinho ok fico no aguardo seu"
+    },
+    {
+      "id": "m73",
+      "timestamp": "2024-09-10T22:05:31",
+      "date": "2024-09-10",
+      "time": "22:05:31",
+      "author": "Elita",
+      "type": "audio",
+      "content": "<anexo: 00000073-AUDIO-2024-09-10-22-05-31.opus>",
+      "raw": "‎[10/09/24, 22:05:31] Elita: ‎<anexo: 00000073-AUDIO-2024-09-10-22-05-31.opus>",
+      "attachment": {
+        "fileName": "00000073-AUDIO-2024-09-10-22-05-31.opus"
+      }
+    },
+    {
+      "id": "m74",
+      "timestamp": "2024-09-10T22:37:28",
+      "date": "2024-09-10",
+      "time": "22:37:28",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Esse e o nescessário pra terminar a questao das mudanças que fizeste ok",
+      "raw": "[10/09/24, 22:37:28] Augusto Eletricista/Picheleiro/ICF: Esse e o nescessário pra terminar a questao das mudanças que fizeste ok"
+    },
+    {
+      "id": "m75",
+      "timestamp": "2024-09-10T22:52:49",
+      "date": "2024-09-10",
+      "time": "22:52:49",
+      "author": "Elita",
+      "type": "text",
+      "content": "Já lhe envio",
+      "raw": "[10/09/24, 22:52:49] Elita: Já lhe envio"
+    },
+    {
+      "id": "m76",
+      "timestamp": "2024-09-10T22:53:22",
+      "date": "2024-09-10",
+      "time": "22:53:22",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Depôs temos de compra as tomadas pra eu já colocar amanhã vou contar todas elas assim já deixamos isso sem falhas ok",
+      "raw": "[10/09/24, 22:53:22] Augusto Eletricista/Picheleiro/ICF: Depôs temos de compra as tomadas pra eu já colocar amanhã vou contar todas elas assim já deixamos isso sem falhas ok"
+    },
+    {
+      "id": "m77",
+      "timestamp": "2024-09-10T22:55:22",
+      "date": "2024-09-10",
+      "time": "22:55:22",
+      "author": "Elita",
+      "type": "text",
+      "content": "Não tem na Temu?",
+      "raw": "[10/09/24, 22:55:22] Elita: Não tem na Temu?"
+    },
+    {
+      "id": "m78",
+      "timestamp": "2024-09-10T22:56:24",
+      "date": "2024-09-10",
+      "time": "22:56:24",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "E lá a questão e que já não estão mas em preços promocionais e esses são da mesma marca e modelo pra ficar igual aos que já tens",
+      "raw": "[10/09/24, 22:56:24] Augusto Eletricista/Picheleiro/ICF: E lá a questão e que já não estão mas em preços promocionais e esses são da mesma marca e modelo pra ficar igual aos que já tens"
+    },
+    {
+      "id": "m79",
+      "timestamp": "2024-09-10T22:57:08",
+      "date": "2024-09-10",
+      "time": "22:57:08",
+      "author": "Elita",
+      "type": "text",
+      "content": "Amanhã falamos de manhã passo na obra",
+      "raw": "[10/09/24, 22:57:08] Elita: Amanhã falamos de manhã passo na obra"
+    },
+    {
+      "id": "m80",
+      "timestamp": "2024-09-10T22:57:15",
+      "date": "2024-09-10",
+      "time": "22:57:15",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok",
+      "raw": "[10/09/24, 22:57:15] Augusto Eletricista/Picheleiro/ICF: Ok"
+    },
+    {
+      "id": "m81",
+      "timestamp": "2024-09-10T22:57:28",
+      "date": "2024-09-10",
+      "time": "22:57:28",
+      "author": "Elita",
+      "type": "text",
+      "content": "Boa noite",
+      "raw": "[10/09/24, 22:57:28] Elita: Boa noite"
+    },
+    {
+      "id": "m82",
+      "timestamp": "2024-09-10T22:57:37",
+      "date": "2024-09-10",
+      "time": "22:57:37",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Boa noite a se",
+      "raw": "[10/09/24, 22:57:37] Augusto Eletricista/Picheleiro/ICF: Boa noite a se"
+    },
+    {
+      "id": "m83",
+      "timestamp": "2024-09-14T19:57:11",
+      "date": "2024-09-14",
+      "time": "19:57:11",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000083-PHOTO-2024-09-14-19-57-11.jpg>",
+      "raw": "‎[14/09/24, 19:57:11] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000083-PHOTO-2024-09-14-19-57-11.jpg>",
+      "attachment": {
+        "fileName": "00000083-PHOTO-2024-09-14-19-57-11.jpg"
+      }
+    },
+    {
+      "id": "m84",
+      "timestamp": "2024-09-14T19:57:25",
+      "date": "2024-09-14",
+      "time": "19:57:25",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000084-AUDIO-2024-09-14-19-57-25.opus>",
+      "raw": "‎[14/09/24, 19:57:25] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000084-AUDIO-2024-09-14-19-57-25.opus>",
+      "attachment": {
+        "fileName": "00000084-AUDIO-2024-09-14-19-57-25.opus"
+      }
+    },
+    {
+      "id": "m85",
+      "timestamp": "2024-09-14T20:16:43",
+      "date": "2024-09-14",
+      "time": "20:16:43",
+      "author": "Elita",
+      "type": "audio",
+      "content": "<anexo: 00000085-AUDIO-2024-09-14-20-16-43.opus>",
+      "raw": "‎[14/09/24, 20:16:43] Elita: ‎<anexo: 00000085-AUDIO-2024-09-14-20-16-43.opus>",
+      "attachment": {
+        "fileName": "00000085-AUDIO-2024-09-14-20-16-43.opus"
+      }
+    },
+    {
+      "id": "m86",
+      "timestamp": "2024-09-14T20:17:31",
+      "date": "2024-09-14",
+      "time": "20:17:31",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000086-AUDIO-2024-09-14-20-17-31.opus>",
+      "raw": "‎[14/09/24, 20:17:31] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000086-AUDIO-2024-09-14-20-17-31.opus>",
+      "attachment": {
+        "fileName": "00000086-AUDIO-2024-09-14-20-17-31.opus"
+      }
+    },
+    {
+      "id": "m87",
+      "timestamp": "2024-09-14T20:18:00",
+      "date": "2024-09-14",
+      "time": "20:18:00",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000087-AUDIO-2024-09-14-20-18-00.opus>",
+      "raw": "‎[14/09/24, 20:18:00] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000087-AUDIO-2024-09-14-20-18-00.opus>",
+      "attachment": {
+        "fileName": "00000087-AUDIO-2024-09-14-20-18-00.opus"
+      }
+    },
+    {
+      "id": "m88",
+      "timestamp": "2024-09-14T20:19:18",
+      "date": "2024-09-14",
+      "time": "20:19:18",
+      "author": "Elita",
+      "type": "text",
+      "content": "Prefiro o branco",
+      "raw": "[14/09/24, 20:19:18] Elita: Prefiro o branco"
+    },
+    {
+      "id": "m89",
+      "timestamp": "2024-09-14T20:20:22",
+      "date": "2024-09-14",
+      "time": "20:20:22",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "155.54",
+      "raw": "[14/09/24, 20:20:22] Augusto Eletricista/Picheleiro/ICF: 155.54"
+    },
+    {
+      "id": "m90",
+      "timestamp": "2024-09-14T20:20:38",
+      "date": "2024-09-14",
+      "time": "20:20:38",
+      "author": "Elita",
+      "type": "audio",
+      "content": "<anexo: 00000090-AUDIO-2024-09-14-20-20-38.opus>",
+      "raw": "‎[14/09/24, 20:20:38] Elita: ‎<anexo: 00000090-AUDIO-2024-09-14-20-20-38.opus>",
+      "attachment": {
+        "fileName": "00000090-AUDIO-2024-09-14-20-20-38.opus"
+      }
+    },
+    {
+      "id": "m91",
+      "timestamp": "2024-09-14T20:20:40",
+      "date": "2024-09-14",
+      "time": "20:20:40",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000091-AUDIO-2024-09-14-20-20-40.opus>",
+      "raw": "‎[14/09/24, 20:20:40] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000091-AUDIO-2024-09-14-20-20-40.opus>",
+      "attachment": {
+        "fileName": "00000091-AUDIO-2024-09-14-20-20-40.opus"
+      }
+    },
+    {
+      "id": "m92",
+      "timestamp": "2024-09-14T20:23:17",
+      "date": "2024-09-14",
+      "time": "20:23:17",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000092-AUDIO-2024-09-14-20-23-17.opus>",
+      "raw": "‎[14/09/24, 20:23:17] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000092-AUDIO-2024-09-14-20-23-17.opus>",
+      "attachment": {
+        "fileName": "00000092-AUDIO-2024-09-14-20-23-17.opus"
+      }
+    },
+    {
+      "id": "m93",
+      "timestamp": "2024-09-14T20:24:27",
+      "date": "2024-09-14",
+      "time": "20:24:27",
+      "author": "Elita",
+      "type": "text",
+      "content": "Enviado",
+      "raw": "[14/09/24, 20:24:27] Elita: Enviado"
+    },
+    {
+      "id": "m94",
+      "timestamp": "2024-09-14T20:24:33",
+      "date": "2024-09-14",
+      "time": "20:24:33",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Ok já vou pagar",
+      "raw": "[14/09/24, 20:24:33] Augusto Eletricista/Picheleiro/ICF: Ok já vou pagar"
+    },
+    {
+      "id": "m95",
+      "timestamp": "2024-09-14T20:24:47",
+      "date": "2024-09-14",
+      "time": "20:24:47",
+      "author": "Elita",
+      "type": "text",
+      "content": "Obrigada",
+      "raw": "[14/09/24, 20:24:47] Elita: Obrigada"
+    },
+    {
+      "id": "m96",
+      "timestamp": "2024-09-14T20:26:14",
+      "date": "2024-09-14",
+      "time": "20:26:14",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Já era pago",
+      "raw": "[14/09/24, 20:26:14] Augusto Eletricista/Picheleiro/ICF: Já era pago"
+    },
+    {
+      "id": "m97",
+      "timestamp": "2024-09-17T16:54:18",
+      "date": "2024-09-17",
+      "time": "16:54:18",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "34 tomadas completas <anexo: 00000097-PHOTO-2024-09-17-16-54-18.jpg>",
+      "raw": "‎[17/09/24, 16:54:18] Augusto Eletricista/Picheleiro/ICF: 34 tomadas completas ‎<anexo: 00000097-PHOTO-2024-09-17-16-54-18.jpg>",
+      "attachment": {
+        "fileName": "00000097-PHOTO-2024-09-17-16-54-18.jpg"
+      }
+    },
+    {
+      "id": "m98",
+      "timestamp": "2024-09-17T16:54:36",
+      "date": "2024-09-17",
+      "time": "16:54:36",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "48 no total <anexo: 00000098-PHOTO-2024-09-17-16-54-36.jpg>",
+      "raw": "‎[17/09/24, 16:54:36] Augusto Eletricista/Picheleiro/ICF: 48 no total ‎<anexo: 00000098-PHOTO-2024-09-17-16-54-36.jpg>",
+      "attachment": {
+        "fileName": "00000098-PHOTO-2024-09-17-16-54-36.jpg"
+      }
+    },
+    {
+      "id": "m99",
+      "timestamp": "2024-09-18T11:48:59",
+      "date": "2024-09-18",
+      "time": "11:48:59",
+      "author": "Elita",
+      "type": "image",
+      "content": "<anexo: 00000099-PHOTO-2024-09-18-11-48-59.jpg>",
+      "raw": "‎[18/09/24, 11:48:59] Elita: ‎<anexo: 00000099-PHOTO-2024-09-18-11-48-59.jpg>",
+      "attachment": {
+        "fileName": "00000099-PHOTO-2024-09-18-11-48-59.jpg"
+      }
+    },
+    {
+      "id": "m100",
+      "timestamp": "2024-09-18T15:05:46",
+      "date": "2024-09-18",
+      "time": "15:05:46",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000100-PHOTO-2024-09-18-15-05-46.jpg>",
+      "raw": "‎[18/09/24, 15:05:46] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000100-PHOTO-2024-09-18-15-05-46.jpg>",
+      "attachment": {
+        "fileName": "00000100-PHOTO-2024-09-18-15-05-46.jpg"
+      }
+    },
+    {
+      "id": "m101",
+      "timestamp": "2024-09-18T15:05:46",
+      "date": "2024-09-18",
+      "time": "15:05:46",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000101-PHOTO-2024-09-18-15-05-46.jpg>",
+      "raw": "‎[18/09/24, 15:05:46] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000101-PHOTO-2024-09-18-15-05-46.jpg>",
+      "attachment": {
+        "fileName": "00000101-PHOTO-2024-09-18-15-05-46.jpg"
+      }
+    },
+    {
+      "id": "m102",
+      "timestamp": "2024-09-18T15:07:05",
+      "date": "2024-09-18",
+      "time": "15:07:05",
+      "author": "Elita",
+      "type": "text",
+      "content": "❤️",
+      "raw": "[18/09/24, 15:07:05] Elita: ❤️"
+    },
+    {
+      "id": "m103",
+      "timestamp": "2024-09-18T15:07:34",
+      "date": "2024-09-18",
+      "time": "15:07:34",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Já está desde a hora a qual saio de lá 15 minutos depôs acabei",
+      "raw": "[18/09/24, 15:07:34] Augusto Eletricista/Picheleiro/ICF: Já está desde a hora a qual saio de lá 15 minutos depôs acabei"
+    },
+    {
+      "id": "m104",
+      "timestamp": "2024-09-18T15:10:20",
+      "date": "2024-09-18",
+      "time": "15:10:20",
+      "author": "Elita",
+      "type": "text",
+      "content": "2 minutos estou aí",
+      "raw": "[18/09/24, 15:10:20] Elita: 2 minutos estou aí"
+    },
+    {
+      "id": "m105",
+      "timestamp": "2024-09-18T15:10:34",
+      "date": "2024-09-18",
+      "time": "15:10:34",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Kkk estou em casa já",
+      "raw": "[18/09/24, 15:10:34] Augusto Eletricista/Picheleiro/ICF: Kkk estou em casa já"
+    },
+    {
+      "id": "m106",
+      "timestamp": "2024-09-18T15:10:53",
+      "date": "2024-09-18",
+      "time": "15:10:53",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Só os meninos estão lá na obra",
+      "raw": "[18/09/24, 15:10:53] Augusto Eletricista/Picheleiro/ICF: Só os meninos estão lá na obra"
+    },
+    {
+      "id": "m107",
+      "timestamp": "2024-10-10T13:12:13",
+      "date": "2024-10-10",
+      "time": "13:12:13",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "content": "<anexo: 00000107-PHOTO-2024-10-10-13-12-13.jpg>",
+      "raw": "‎[10/10/24, 13:12:13] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000107-PHOTO-2024-10-10-13-12-13.jpg>",
+      "attachment": {
+        "fileName": "00000107-PHOTO-2024-10-10-13-12-13.jpg"
+      }
+    },
+    {
+      "id": "m108",
+      "timestamp": "2024-10-10T13:12:28",
+      "date": "2024-10-10",
+      "time": "13:12:28",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "content": "<anexo: 00000108-AUDIO-2024-10-10-13-12-28.opus>",
+      "raw": "‎[10/10/24, 13:12:28] Augusto Eletricista/Picheleiro/ICF: ‎<anexo: 00000108-AUDIO-2024-10-10-13-12-28.opus>",
+      "attachment": {
+        "fileName": "00000108-AUDIO-2024-10-10-13-12-28.opus"
+      }
+    },
+    {
+      "id": "m109",
+      "timestamp": "2024-10-10T13:29:34",
+      "date": "2024-10-10",
+      "time": "13:29:34",
+      "author": "Elita",
+      "type": "text",
+      "content": "Está na obra?",
+      "raw": "[10/10/24, 13:29:34] Elita: Está na obra?"
     }
   ]
 }

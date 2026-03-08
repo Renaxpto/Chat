@@ -9,7 +9,7 @@ export type Msg = {
   type:
     | "text"
     | "image"
-    | "photo" 
+    | "photo"
     | "video"
     | "audio"
     | "system"
@@ -42,13 +42,29 @@ function hashColor(name: string) {
   return PALETTE[h % PALETTE.length];
 }
 
- 
 function mediaUrl(chatId: string, fileName: string) {
   return `${import.meta.env.BASE_URL}media/${encodeURIComponent(chatId)}/${encodeURIComponent(fileName)}`;
 }
 
+function extractAttachmentName(text?: string) {
+  if (!text) return undefined;
+  const m = text.match(/<anexo:\s*([^>]+)>/i);
+  return m?.[1]?.trim();
+}
 
-export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Msg }) {
+function isPdf(fileName?: string) {
+  return !!fileName && /\.pdf$/i.test(fileName);
+}
+
+export default function MessageBubble({
+  chatId,
+  msg,
+  onOpenPdf,
+}: {
+  chatId: string;
+  msg: Msg;
+  onOpenPdf?: (pdf: { src: string; fileName: string } | null) => void;
+}) {
   const isSystem = msg.type === "system" || msg.type === "call";
   if (isSystem) {
     return <div style={styles.systemPill}>{msg.content ?? msg.raw ?? ""}</div>;
@@ -64,7 +80,7 @@ export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Ms
 
   const bubbleStyle: React.CSSProperties = {
     maxWidth: "78%",
-    background: mine ? "#dcf8c6" : "#ffffff", // ✅ verde para ti
+    background: mine ? "#dcf8c6" : "#ffffff",
     borderRadius: 16,
     borderTopRightRadius: mine ? 6 : 16,
     borderTopLeftRadius: mine ? 16 : 6,
@@ -72,41 +88,49 @@ export default function MessageBubble({ chatId, msg }: { chatId: string; msg: Ms
     boxShadow: "0 1px 1px rgba(0,0,0,0.08)",
   };
 
-  const fileName = msg.attachment?.fileName;
- const src = fileName ? mediaUrl(chatId, fileName) : "";
+  const fileName =
+    msg.attachment?.fileName ||
+    extractAttachmentName(msg.content) ||
+    extractAttachmentName(msg.raw);
 
-console.log("chatId:", chatId);
-console.log("fileName:", fileName);
-console.log("src:", src);
+  const src = fileName ? mediaUrl(chatId, fileName) : "";
 
   return (
     <div style={rowStyle}>
       <div style={bubbleStyle}>
-        {/* WhatsApp 1-1: normalmente só mostra o nome do outro */}
         {!mine && !!author && (
           <div style={{ ...styles.author, color: hashColor(author) }}>{author}</div>
         )}
 
-       {(msg.type === "image" || msg.type === "photo") && fileName ? (
-  <img
-    src={src}
-    alt=""
-    style={styles.image}
-    loading="lazy"
-  />
-) : msg.type === "audio" && fileName ? (
-  <audio controls src={src} style={styles.audio} />
-) : msg.type === "video" && fileName ? (
-<video
-  controls
-  src={src}
-  style={styles.video}
-  onError={() => {
-    console.log("ERRO VIDEO:", src);
-  }}
-/>) : (
-  <div style={styles.text}>{msg.content ?? msg.raw ?? ""}</div>
-)}
+        {(msg.type === "image" || msg.type === "photo") && fileName ? (
+          <img
+            src={src}
+            alt=""
+            style={styles.image}
+            loading="lazy"
+          />
+        ) : msg.type === "audio" && fileName ? (
+          <audio controls src={src} style={styles.audio} />
+        ) : msg.type === "video" && fileName ? (
+          <video
+            controls
+            src={src}
+            style={styles.video}
+            onError={() => {
+              console.log("ERRO VIDEO:", src);
+            }}
+          />
+        ) : fileName && isPdf(fileName) ? (
+  <div
+    style={styles.pdfCard}
+    onClick={() => onOpenPdf?.({ src, fileName })}
+  >
+            <div style={styles.pdfIcon}>📄</div>
+            <div style={styles.pdfName}>{fileName}</div>
+          </div>
+        ) : (
+          <div style={styles.text}>{msg.content ?? msg.raw ?? ""}</div>
+        )}
 
         <div style={styles.meta}>{msg.time ?? ""}</div>
       </div>
@@ -153,6 +177,32 @@ const styles: Record<string, React.CSSProperties> = {
     maxWidth: "100%",
     borderRadius: 12,
     display: "block",
+  },
+
+  pdfCard: {
+    width: 260,
+    maxWidth: "100%",
+    minHeight: 120,
+    borderRadius: 12,
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center",
+    background: "#f5f5f5",
+    border: "1px solid rgba(0,0,0,0.08)",
+    cursor: "pointer",
+    padding: 12,
+    textAlign: "center",
+  },
+
+  pdfIcon: {
+    fontSize: 36,
+    marginBottom: 8,
+  },
+
+  pdfName: {
+    fontSize: 13,
+    wordBreak: "break-word",
   },
 
   systemPill: {
