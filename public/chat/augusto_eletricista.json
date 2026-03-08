@@ -1,0 +1,221 @@
+{
+  "schema": "whatsapp-export.v1",
+  "sourceFile": "_chat-4.txt",
+  "messageCount": 67,
+  "messages": [
+    {
+      "id": "m1",
+      "timestamp": "2024-08-06T13:18:15",
+      "date": "2024-08-06",
+      "time": "13:18:15",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "system",
+      "content": "As mensagens e chamadas são encriptadas ponto a ponto. Só as pessoas nesta conversa as podem ler, ouvir ou partilhar."
+    },
+    {
+      "id": "m2",
+      "timestamp": "2024-08-06T13:18:15",
+      "date": "2024-08-06",
+      "time": "13:18:15",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Home Block\n926 668 884\nhttps://g.co/kgs/E45CYNZ"
+    },
+    {
+      "id": "m3",
+      "timestamp": "2024-08-06T21:19:46",
+      "date": "2024-08-06",
+      "time": "21:19:46",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Olá o valor ficou em 434,27 dos interruptor e modulos e leds com controle"
+    },
+    {
+      "id": "m4",
+      "timestamp": "2024-08-06T21:21:38",
+      "date": "2024-08-06",
+      "time": "21:21:38",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Todos os interuptores e leds e modulos conectores rápidos para fios de tomadas e de focos"
+    },
+    {
+      "id": "m5",
+      "timestamp": "2024-08-06T21:21:55",
+      "date": "2024-08-06",
+      "time": "21:21:55",
+      "author": "Elita",
+      "type": "text",
+      "content": "Está tudo?"
+    },
+    {
+      "id": "m6",
+      "timestamp": "2024-08-06T21:22:19",
+      "date": "2024-08-06",
+      "time": "21:22:19",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "text",
+      "content": "Sim já com os leds q mudam de cor tbm mas isso eles não sabem kkk"
+    },
+    {
+      "id": "m7",
+      "timestamp": "2024-08-06T21:24:44",
+      "date": "2024-08-06",
+      "time": "21:24:44",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000013-AUDIO-2024-08-06-21-24-44.opus"
+      }
+    },
+    {
+      "id": "m8",
+      "timestamp": "2024-08-06T21:25:17",
+      "date": "2024-08-06",
+      "time": "21:25:17",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000014-AUDIO-2024-08-06-21-25-17.opus"
+      }
+    },
+    {
+      "id": "m9",
+      "timestamp": "2024-08-06T21:27:29",
+      "date": "2024-08-06",
+      "time": "21:27:29",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000015-AUDIO-2024-08-06-21-27-29.opus"
+      }
+    },
+    {
+      "id": "m10",
+      "timestamp": "2024-08-06T21:28:57",
+      "date": "2024-08-06",
+      "time": "21:28:57",
+      "author": "Elita",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000016-AUDIO-2024-08-06-21-28-57.opus"
+      }
+    },
+    {
+      "id": "m11",
+      "timestamp": "2024-08-06T21:33:18",
+      "date": "2024-08-06",
+      "time": "21:33:18",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000018-AUDIO-2024-08-06-21-33-18.opus"
+      }
+    },
+    {
+      "id": "m12",
+      "timestamp": "2024-08-06T22:00:40",
+      "date": "2024-08-06",
+      "time": "22:00:40",
+      "author": "Elita",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000019-AUDIO-2024-08-06-22-00-40.opus"
+      }
+    },
+    {
+      "id": "m13",
+      "timestamp": "2024-08-06T22:01:11",
+      "date": "2024-08-06",
+      "time": "22:01:11",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000020-AUDIO-2024-08-06-22-01-11.opus"
+      }
+    },
+    {
+      "id": "m14",
+      "timestamp": "2024-08-06T22:01:52",
+      "date": "2024-08-06",
+      "time": "22:01:52",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "audio",
+      "attachment": {
+        "fileName": "00000021-AUDIO-2024-08-06-22-01-52.opus"
+      }
+    },
+
+    {
+      "id": "m20",
+      "timestamp": "2024-08-14T15:48:50",
+      "date": "2024-08-14",
+      "time": "15:48:50",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "attachment": {
+        "fileName": "00000029-PHOTO-2024-08-14-15-48-50.jpg"
+      }
+    },
+
+    {
+      "id": "m21",
+      "timestamp": "2024-08-14T16:05:00",
+      "date": "2024-08-14",
+      "time": "16:05:00",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "attachment": {
+        "fileName": "00000031-PHOTO-2024-08-14-16-05-00.jpg"
+      }
+    },
+
+    {
+      "id": "m22",
+      "timestamp": "2024-08-14T16:21:32",
+      "date": "2024-08-14",
+      "time": "16:21:32",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "attachment": {
+        "fileName": "00000033-PHOTO-2024-08-14-16-21-32.jpg"
+      }
+    },
+
+    {
+      "id": "m30",
+      "timestamp": "2024-08-28T08:23:00",
+      "date": "2024-08-28",
+      "time": "08:23:00",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "attachment": {
+        "fileName": "00000049-PHOTO-2024-08-28-08-23-00.jpg"
+      }
+    },
+
+    {
+      "id": "m31",
+      "timestamp": "2024-08-28T08:23:00",
+      "date": "2024-08-28",
+      "time": "08:23:00",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "attachment": {
+        "fileName": "00000050-PHOTO-2024-08-28-08-23-00.jpg"
+      }
+    },
+
+    {
+      "id": "m32",
+      "timestamp": "2024-08-28T08:23:00",
+      "date": "2024-08-28",
+      "time": "08:23:00",
+      "author": "Augusto Eletricista/Picheleiro/ICF",
+      "type": "image",
+      "attachment": {
+        "fileName": "00000051-PHOTO-2024-08-28-08-23-00.jpg"
+      }
+    }
+  ]
+}
