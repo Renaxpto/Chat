@@ -121,12 +121,13 @@ dumpChars("NFD", fileName?.normalize("NFD"));
         )}
 
         {(msg.type === "image" || msg.type === "photo") && fileName ? (
-          <img
-            src={src}
-            alt=""
-            style={styles.image}
-            loading="lazy"
-          />
+  <img
+    src={src}
+    alt=""
+    style={{ ...styles.image, cursor: "zoom-in" }}
+    loading="lazy"
+    onClick={() => onOpenPdf?.({ src, fileName })}
+  />
         ) : msg.type === "audio" && fileName ? (
           <audio controls src={src} style={styles.audio} />
         ) : msg.type === "video" && fileName ? (
