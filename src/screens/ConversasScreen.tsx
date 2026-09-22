@@ -16,6 +16,10 @@ export default function ContactsScreen({ onOpenChat, goHome }: Props) {
       .then(setChats);
   }, []);
 
+  function handleOpenChat(chatId: string) {
+    onOpenChat(chatId);
+  }
+
   return (
     <div style={{ maxWidth: 520, margin: "0 auto", padding: 16 }}>
       <button
@@ -38,7 +42,7 @@ export default function ContactsScreen({ onOpenChat, goHome }: Props) {
         {chats.map((c) => (
           <button
             key={c.id}
-            onClick={() => onOpenChat(c.id)}
+            onClick={() => handleOpenChat(c.id)}
             style={{
               padding: 12,
               border: "1px solid #ddd",
@@ -46,9 +50,12 @@ export default function ContactsScreen({ onOpenChat, goHome }: Props) {
               textAlign: "left",
               background: "white",
               cursor: "pointer",
+              display: "flex",
+              justifyContent: "space-between",
+              alignItems: "center",
             }}
           >
-            {c.title}
+            <span>{c.title}</span>
           </button>
         ))}
       </div>

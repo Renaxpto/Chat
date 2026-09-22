@@ -3,8 +3,7 @@ import "./App.css";
 import type { Screen, NavFn, ScreenProps, NewsItem, EventItem } from "./types";
 
 import Topbar from "./layout/Topbar";
-/* import SideMenu from "./layout/SideMenu";
- */
+import ChatMenu from "./layout/ChatMenu";
 import { HomeScreen } from "./screens/HomeScreen";
 import { NewsScreen } from "./screens/NewsScreen";
 import { EventsScreen } from "./screens/EventsScreen";
@@ -30,7 +29,7 @@ const App: React.FC = () => {
   const [selectedNews, setSelectedNews] = useState<NewsItem | null>(null);
   const [selectedEvent, setSelectedEvent] = useState<EventItem | null>(null);
   const [, setHistory] = useState<Screen[]>([]);
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(true);
 
   const goTo: NavFn = (next) => {
     setHistory((prev) => (screen === next ? prev : [...prev, screen]));
@@ -186,8 +185,15 @@ case "chat":
   return (
     <div className="app">
       <Topbar onToggleMenu={toggleMenu} goHome={goHome} onProfileClick={goToProfile} />
-{/*       <SideMenu menuOpen={menuOpen} goTo={goTo} onClose={closeMenu} />
- */}      <main className="main">{renderScreen()}</main>
+      <ChatMenu
+        menuOpen={menuOpen}
+        onSelectChat={(id) => {
+          setSelectedChatId(id);
+          goTo("chat");
+        }}
+        onClose={closeMenu}
+      />
+      <main className="main">{renderScreen()}</main>
     </div>
   );
 };
